@@ -24,6 +24,7 @@ Furnizor tichete: **Edenred Romania**
 Mulțumesc,
 Adrian Tăut
 DevOps Box SRL
+Tel: +40748164530
 
 ---
 
@@ -50,3 +51,4 @@ Furnizor tichete: **Edenred Romania**
 Mulțumesc,
 Adrian Tăut
 DevOps Box SRL
+Tel: +40748164530
