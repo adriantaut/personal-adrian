@@ -127,6 +127,7 @@
 
 - [x] Finalizează contractul cu Edenred ✓
 - [x] Reziliază contractul Pluxee ✓
+- [x] Prima comandă tichete masă ✓ (Feb 2026)
 - [ ] Primește cardurile de la Edenred
 - [x] Configurează accesul pe MyEdenred ✓
 
