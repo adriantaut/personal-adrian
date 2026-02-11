@@ -57,6 +57,7 @@ Deadline: 25 Mai
 | Daniel Horvat | - | ☐ | ☐ |
 | Maria Cerga | - | ☐ | ☐ |
 | Cristian Zaharia | - | ☐ | ☐ |
+| Cosmina | - | ☐ | ☐ |
 | [Adaugă alți membri] | | | |
 
 ---
@@ -78,6 +79,12 @@ Deadline: 25 Mai
 1. **Manual** - trimiți tu din telefon
 2. **WhatsApp Business API** - necesită cont business aprobat
 3. **Rube MCP** - de verificat dacă are integrare WhatsApp
+
+---
+
+## Blocaje
+
+- [ ] **Aștept access de la Cosmina** (cerut 11 Feb)
 
 ---
 
