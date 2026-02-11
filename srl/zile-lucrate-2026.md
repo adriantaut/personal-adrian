@@ -32,7 +32,7 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 - **Medical:** 0
 - **Zile lucrate efectiv:** 20
 - **Valoare tichete:** 20 × 45 = **900 RON**
-- **Raportat la contabil:** ☐
+- **Raportat la contabil:** ✅ (11 Feb 2026)
 
 ---
 
