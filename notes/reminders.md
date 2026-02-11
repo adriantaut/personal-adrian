@@ -14,10 +14,12 @@
 
 | Data | Reminder | Status |
 |------|----------|--------|
-| Mie 11 Feb 2026, 18:30 | Ședință Rotary - organizare EDUCATIO cu Dani | ⏳ |
-| Mie 18 Feb 2026, 18:30 | Ședință Rotary - confirmare finală | ⏳ |
+| Mie 11 Feb 2026, 18:30 | Ședință Rotary - organizare EDUCATIO + Redirect 230 | ⏳ |
+| Mie 18 Feb 2026, 18:30 | Ședință Rotary - reminder Formular 230 | ⏳ |
 | Lun 23 Feb 2026, 08:00 | 120 ani Rotary - Opera | ⏳ |
 | Mie 25 Feb 2026 | EDUCATIO Ed. 2 - eveniment | ⏳ |
+| Fiecare ședință | Reminder: redirectioneaza.ro/rotary-club-cluj-napoca-opera | 🔁 |
+| **25 Mai 2026** | **DEADLINE Formular 230** | ⏳ |
 
 ---
 
