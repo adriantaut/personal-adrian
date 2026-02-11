@@ -1,7 +1,7 @@
 # Template Email - Raport Zile Lucrate Tichete Masă
 
 **Către:** resurse.umane@cedexpert.ro
-**Subiect:** DevOps Box SRL - Raport zile lucrate [LUNA] 2026
+**Subiect:** [ DEVOPS BOX ] Raport zile lucrate [LUNA] 2026
 
 ---
 
@@ -29,7 +29,7 @@ DevOps Box SRL
 
 ## Exemplu completat (Februarie 2026)
 
-**Subiect:** DevOps Box SRL - Raport zile lucrate Februarie 2026
+**Subiect:** [ DEVOPS BOX ] Raport zile lucrate Februarie 2026
 
 Bună ziua,
 
