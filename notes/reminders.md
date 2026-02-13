@@ -29,7 +29,8 @@
 
 | Data | Reminder | Status |
 |------|----------|--------|
-| ASAP | Înscriere curs B125 - Toni Auto | ⏳ |
+| **Mar 17 Feb** | **Analize medicale pt B125** | ⏳ |
+| După fișă medicală | Înscriere curs B125 - Toni Auto | ⏳ |
 
 ---
 

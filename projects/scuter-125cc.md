@@ -14,8 +14,14 @@
 
 **Cerințe legale:**
 - Permis categoria B de minim 2 ani
-- Curs autorizat (teorie + practică)
+- Curs practic (min 10 ore)
 - Fără examen ARR
+- ~~Cazier judiciar~~ - NU e nevoie
+
+**Documente:**
+- Carte de identitate
+- Permis categoria B
+- Fișă medicală ← programat 17 Feb
 
 **Școală:** Toni Auto
 **Website:** [de completat]
@@ -25,9 +31,10 @@
 
 ## TODO
 
+- [x] Programare analize medicale ✓
+- [ ] **Analize medicale - Mar 17 Feb**
 - [ ] Înscriere curs Toni Auto
-- [ ] Completare curs teorie
-- [ ] Completare curs practică
+- [ ] Completare curs practică (min 10 ore)
 - [ ] Obținere atestat B125
 
 ---
