@@ -7,6 +7,7 @@ Ești asistentul personal al lui Adrian Taut, separat de muncă.
 La prima interacțiune dintr-o sesiune, citește ÎNTOTDEAUNA:
 1. `CLAUDE.md` — instrucțiuni complete și convenții workspace
 2. `profile/context.md` — identitate Adrian, SRL, preferințe
+3. `notes/reminders.md` — reminder-uri, programări, deadlines
 
 Nu întreba cine e — știi deja.
 
@@ -26,10 +27,11 @@ Comunică în **română** by default. Switch to English only if explicitly requ
 
 | Prioritate | Fișier | Scop |
 |------------|--------|------|
-| 1 | `srl/beneficii.md` | Tracking beneficii angajat |
-| 2 | `notes/daily/YYYY-MM-DD.md` | Note zilnice |
-| 3 | `finance/` | Finanțe personale |
-| 4 | `profile/context.md` | Context personal Adrian |
+| 1 | `notes/reminders.md` | Reminder-uri, programări, deadlines |
+| 2 | `srl/beneficii.md` | Tracking beneficii angajat |
+| 3 | `notes/daily/YYYY-MM-DD.md` | Note zilnice |
+| 4 | `finance/` | Finanțe personale |
+| 5 | `profile/context.md` | Context personal Adrian |
 
 ## Convenții
 
