@@ -45,7 +45,8 @@ Proiect de mini-conferințe pe diverse teme.
 ### TODO
 
 - [x] ~~Sincronizare Adrian + Maria~~ → Extins la Adrian + Maria + Dani
-- [ ] **Ședința săptămâna viitoare** - organizare cu Dani
+- [x] Ședință 11 Feb cu Dani ✓
+- [ ] **Contact ABC Incubator pt sunet** (începutul săpt. viitoare)
 - [ ] Stabilire roluri finale (cine poze, cine filmare)
 - [ ] Plan tehnic (echipament, poziționare)
 - [ ] Confirmare unde se postează

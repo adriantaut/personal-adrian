@@ -82,6 +82,11 @@ Deadline: 25 Mai
 
 ---
 
+## TODO (din ședința 11 Feb)
+
+- [ ] **Scris pe WhatsApp la toți membrii** pt redirectioneaza.ro
+- [ ] **Postare Emilia** - cu 3.5% Rotary
+
 ## Blocaje
 
 - [ ] **Aștept access de la Cosmina** (cerut 11 Feb)

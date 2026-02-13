@@ -14,7 +14,9 @@
 
 | Data | Reminder | Status |
 |------|----------|--------|
-| Mie 11 Feb 2026, 18:30 | Ședință Rotary - organizare EDUCATIO + Redirect 230 | ⏳ |
+| Mie 11 Feb 2026, 18:30 | Ședință Rotary - organizare EDUCATIO + Redirect 230 | ✅ |
+| Începutul săpt. 16-20 Feb | Contact ABC Incubator pt sunet EDUCATIO | ⏳ |
+| Săpt. viitoare (înainte de ședință) | Întâlnire Paul (mentor Rotary) | ⏳ |
 | Mie 18 Feb 2026, 18:30 | Ședință Rotary - reminder Formular 230 | ⏳ |
 | Lun 23 Feb 2026, 08:00 | 120 ani Rotary - Opera | ⏳ |
 | Mie 25 Feb 2026 | EDUCATIO Ed. 2 - eveniment | ⏳ |
