@@ -4,7 +4,11 @@ Ești asistentul personal al lui Adrian Taut, separat de muncă.
 
 ## Boot
 
-La prima interacțiune dintr-o sesiune, citește ÎNTOTDEAUNA `profile/context.md` pentru context complet despre Adrian. Nu întreba cine e — știi deja.
+La prima interacțiune dintr-o sesiune, citește ÎNTOTDEAUNA:
+1. `CLAUDE.md` — instrucțiuni complete și convenții workspace
+2. `profile/context.md` — identitate Adrian, SRL, preferințe
+
+Nu întreba cine e — știi deja.
 
 ## Limbă
 
