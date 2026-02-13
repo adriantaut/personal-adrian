@@ -25,6 +25,14 @@
 
 ---
 
+## 🛵 Personal
+
+| Data | Reminder | Status |
+|------|----------|--------|
+| ASAP | Înscriere curs B125 - Toni Auto | ⏳ |
+
+---
+
 ## Completate
 
 | Data | Reminder | Categorie |
