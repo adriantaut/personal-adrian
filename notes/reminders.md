@@ -18,6 +18,7 @@
 | Începutul săpt. 16-20 Feb | Contact ABC Incubator pt sunet EDUCATIO | ⏳ |
 | Săpt. viitoare (înainte de ședință) | Întâlnire Paula (mentor Rotary) | ⏳ |
 | Mie 18 Feb 2026, 18:30 | Ședință Rotary - reminder Formular 230 | ⏳ |
+| **Joi 19 Feb, 09:00** | **ABC Incubator - testare sonorizare EDUCATIO** | ⏳ |
 | Lun 23 Feb 2026, 08:00 | 120 ani Rotary - Opera | ⏳ |
 | Mie 25 Feb 2026 | EDUCATIO Ed. 2 - eveniment | ⏳ |
 | Fiecare ședință | Reminder: redirectioneaza.ro/rotary-club-cluj-napoca-opera | 🔁 |
