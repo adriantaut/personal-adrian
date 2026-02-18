@@ -4,6 +4,8 @@
 
 | Data | Reminder | Status |
 |------|----------|--------|
+| **Cât mai curând** | **Trimite IBAN Revolut la CEDEXPERT** | ⏳ |
+| **Cât mai curând** | **Închide contul Banca Transilvania** | ⏳ |
 | După 15 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ⏳ |
 | Martie 2026 | Decide tichete cadou Paște (300 lei) | ⏳ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
@@ -33,8 +35,7 @@
 
 | Data | Reminder | Status |
 |------|----------|--------|
-| **Mar 17 Feb** | **Analize medicale pt B125** | ⏳ |
-| După fișă medicală | Înscriere curs B125 - Toni Auto | ⏳ |
+| **Cât mai curând** | **Înscriere curs B125 - Toni Auto** | ⏳ |
 
 ---
 
@@ -42,4 +43,5 @@
 
 | Data | Reminder | Categorie |
 |------|----------|-----------|
+| 17 Feb 2026 | Analize medicale B125 | Personal ✅ |
 | 11 Feb 2026 | Raport zile Februarie → CEDEXPERT | SRL ✅ |

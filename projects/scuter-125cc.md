@@ -32,8 +32,8 @@
 ## TODO
 
 - [x] Programare analize medicale ✓
-- [ ] **Analize medicale - Mar 17 Feb**
-- [ ] Înscriere curs Toni Auto
+- [x] Analize medicale (17 Feb) ✓
+- [ ] **Înscriere curs Toni Auto** ← următorul pas
 - [ ] Completare curs practică (min 10 ore)
 - [ ] Obținere atestat B125
 
