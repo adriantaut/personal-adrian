@@ -24,7 +24,7 @@
 | Lun 23 Feb 2026, 08:00 | 120 ani Rotary - Opera | ✅ |
 | Mie 25 Feb 2026 | EDUCATIO Ed. 2 - eveniment | ⏳ |
 | Fiecare ședință | Reminder: redirectioneaza.ro/rotary-club-cluj-napoca-opera | 🔁 |
-| **Cât mai curând** | **Contact Anca Pintilie** - postare 3.5% Rotary | ⏳ |
+| **Lun 24 Feb, 10:00** | **Contact Anca Pintilie** - postare 3.5% Rotary | ⏳ |
 | **Mie 25 Feb** | ⚠️ Pregătire prezentare Rotary (2 săpt înainte) | ⏳ |
 | **Mie 4 Mar** | ⚠️ Pregătire prezentare Rotary (1 săpt înainte) | ⏳ |
 | **Mie 11 Mar, 18:30** | **🎤 PREZENTARE despre mine la Rotary** | ⏳ |
