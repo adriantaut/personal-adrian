@@ -58,6 +58,7 @@ Deadline: 25 Mai
 | Maria Cerga | - | ☐ | ☐ |
 | Cristian Zaharia | - | ☐ | ☐ |
 | Cosmina | - | ☐ | ☐ |
+| **Anca Pintilie** | - | ☐ | ☐ |
 | [Adaugă alți membri] | | | |
 
 ---
@@ -86,6 +87,7 @@ Deadline: 25 Mai
 
 - [ ] **Scris pe WhatsApp la toți membrii** pt redirectioneaza.ro
 - [ ] **Postare Emilia** - cu 3.5% Rotary
+- [ ] **Contact Anca Pintilie** - pentru postarea de 3.5%
 
 ## Blocaje
 
