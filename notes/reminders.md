@@ -4,7 +4,7 @@
 
 | Data | Reminder | Status |
 |------|----------|--------|
-| **Cât mai curând** | **Trimite IBAN Revolut la CEDEXPERT** | ⏳ |
+| 23 Feb 2026 | Trimite IBAN Revolut la CEDEXPERT | ✅ |
 | **Cât mai curând** | **Închide contul Banca Transilvania** | ⏳ |
 | După 15 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ⏳ |
 | Martie 2026 | Decide tichete cadou Paște (300 lei) | ⏳ |

@@ -14,7 +14,7 @@
 
 - [ ] Verifică sold curent BT
 - [ ] Transferă soldul rămas în Revolut Business
-- [ ] Notifică CEDEXPERT despre schimbarea contului
+- [x] Notifică CEDEXPERT despre schimbarea contului ✓ (23 Feb 2026)
 - [ ] Actualizează datele bancare la clienți (dacă e cazul)
 - [ ] Actualizează datele la ANAF (dacă e necesar)
 - [ ] Cerere închidere cont BT
@@ -29,8 +29,8 @@
 
 ## TODO
 
-- [ ] **Trimite IBAN Revolut la CEDEXPERT**
-- [ ] Închide contul BT
+- [x] Trimite IBAN Revolut la CEDEXPERT ✓ (23 Feb 2026)
+- [ ] **Închide contul BT**
 
 ---
 
