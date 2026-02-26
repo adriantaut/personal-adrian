@@ -8,7 +8,7 @@ Proiect de mini-conferințe pe diverse teme.
 
 **Data:** 25 februarie 2026
 **Tema:** Financiară
-**Status:** În pregătire
+**Status:** ✅ Eveniment finalizat (25 Feb 2026) - upload YouTube pending
 
 ### Echipa Filmare/Foto
 
@@ -50,7 +50,7 @@ Proiect de mini-conferințe pe diverse teme.
 - [x] Testare sonorizare ABC Incubator (19 Feb) ✓
 - [x] Stabilire roluri finale (cine poze, cine filmare) ✓
 - [x] Plan tehnic (echipament, poziționare) ✓
-- [ ] Confirmare unde se postează
+- [ ] **Upload video pe YouTube**
 
 ### Timeline
 
