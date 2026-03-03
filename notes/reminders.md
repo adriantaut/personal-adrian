@@ -7,6 +7,7 @@
 | 23 Feb 2026 | Trimite IBAN Revolut la CEDEXPERT | ✅ |
 | **Cât mai curând** | **Închide contul Banca Transilvania** | ⏳ |
 | **25 ale fiecărei luni** | **Factura pentru ZAR** | 🔁 |
+| **25 Mai 2026** | **Declarația Unică ANAF 2025** - venituri din dividende | ⏳ |
 | După 15 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ⏳ |
 | Martie 2026 | Decide tichete cadou Paște (300 lei) | ⏳ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
