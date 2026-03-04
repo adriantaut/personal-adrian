@@ -41,7 +41,7 @@
 
 | Data | Reminder | Status |
 |------|----------|--------|
-| **Cât mai curând** | **Înscriere curs B125 - Toni Auto** | ⏳ |
+| 4 Mar 2026 | Înscriere curs B125 - Toni Auto | ✅ |
 
 ---
 
