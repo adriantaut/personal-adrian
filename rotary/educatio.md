@@ -50,7 +50,7 @@ Proiect de mini-conferințe pe diverse teme.
 - [x] Testare sonorizare ABC Incubator (19 Feb) ✓
 - [x] Stabilire roluri finale (cine poze, cine filmare) ✓
 - [x] Plan tehnic (echipament, poziționare) ✓
-- [ ] **Upload video pe YouTube**
+- [x] Upload video pe YouTube ✓ (4 Mar 2026)
 
 ### Timeline
 

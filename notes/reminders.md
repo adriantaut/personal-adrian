@@ -26,7 +26,7 @@
 | Joi 19 Feb, 09:00 | ABC Incubator - testare sonorizare EDUCATIO | ✅ |
 | Lun 23 Feb 2026, 08:00 | 120 ani Rotary - Opera | ✅ |
 | Mie 25 Feb 2026 | EDUCATIO Ed. 2 - eveniment | ✅ |
-| **Cât mai curând** | **Upload video EDUCATIO Ed. 2 pe YouTube** | ⏳ |
+| 4 Mar 2026 | Upload video EDUCATIO Ed. 2 pe YouTube | ✅ |
 | Fiecare ședință | Reminder: redirectioneaza.ro/rotary-club-cluj-napoca-opera | 🔁 |
 | 23 Feb 2026 | Contact Anca Pintilie - primit design 3.5% | ✅ |
 | **Cât mai curând** | **Postare Instagram Rotary Opera** - design 3.5% | ⏳ |
