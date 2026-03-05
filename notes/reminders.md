@@ -30,7 +30,7 @@
 | 4 Mar 2026 | Upload video EDUCATIO Ed. 2 pe YouTube | ✅ |
 | Fiecare ședință | Reminder: redirectioneaza.ro/rotary-club-cluj-napoca-opera | 🔁 |
 | 23 Feb 2026 | Contact Anca Pintilie - primit design 3.5% | ✅ |
-| **Cât mai curând** | **Postare Instagram Rotary Opera** - design 3.5% | ⏳ |
+| 5 Mar 2026 | Postare Instagram Rotary Opera - design 3.5% | ✅ |
 | **Mie 25 Feb** | ⚠️ Pregătire prezentare Rotary (2 săpt înainte) | ⏳ |
 | **Mie 4 Mar** | ⚠️ Pregătire prezentare Rotary (1 săpt înainte) | ⏳ |
 | **Mie 11 Mar, 18:30** | **🎤 PREZENTARE despre mine la Rotary** | ⏳ |

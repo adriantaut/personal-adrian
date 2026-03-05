@@ -34,8 +34,8 @@
 - [x] Programare analize medicale ✓
 - [x] Analize medicale (17 Feb) ✓
 - [x] Înscriere curs Toni Auto ✓ (4 Mar 2026)
-- [ ] **Completare curs practică (min 10 ore)** ← următorul pas
-- [ ] Obținere atestat B125
+- [x] Completare curs practică (min 10 ore) ✓ (5 Mar 2026)
+- [ ] **Obținere atestat B125** ← următorul pas
 
 ---
 

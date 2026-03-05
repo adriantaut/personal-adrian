@@ -88,7 +88,7 @@ Deadline: 25 Mai
 - [ ] **Scris pe WhatsApp la toți membrii** pt redirectioneaza.ro
 - [ ] **Postare Emilia** - cu 3.5% Rotary
 - [x] Contact Anca Pintilie - primit design ✓ (23 Feb)
-- [ ] **Postare Instagram Rotary Opera** - design 3.5% de la Anca
+- [x] Postare Instagram Rotary Opera - design 3.5% de la Anca ✓ (5 Mar 2026)
 
 ## Blocaje
 
