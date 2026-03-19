@@ -10,7 +10,7 @@
 | **Cât mai curând** | **Actualizare cod CAEN la Rev3** (online cu semnătură digitală) | ⏳ |
 | **25 ale fiecărei luni** | **Factura pentru ZAR** | 🔁 |
 | **25 Mai 2026** | **Declarația Unică ANAF 2025** - venituri din dividende | ⏳ |
-| După 15 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ⏳ |
+| 19 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ✅ |
 | Martie 2026 | Decide tichete cadou Paște (300 lei) | ⏳ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
 
