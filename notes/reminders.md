@@ -7,7 +7,7 @@
 | 23 Feb 2026 | Trimite IBAN Revolut la CEDEXPERT | ✅ |
 | 19 Mar 2026 | Închide contul Banca Transilvania | ✅ |
 | 17 Mar 2026 | Verifică SmartBill - facturi ghiseul.ro (Taxa Talon + Taxa Numere Scuter) | ✅ |
-| **Cât mai curând** | **Actualizare cod CAEN la Rev3** (online cu semnătură digitală) - [Tutorial YouTube](https://www.youtube.com/watch?v=1ceRFLVpxYs) | ⏳ |
+| 19 Mar 2026 | **Actualizare cod CAEN la Rev3** - cerere depusă ONRC, aștept confirmare - [Tutorial YouTube](https://www.youtube.com/watch?v=1ceRFLVpxYs) | ⏳ |
 | **25 ale fiecărei luni** | **Factura pentru ZAR** | 🔁 |
 | **25 Mai 2026** | **Declarația Unică ANAF 2025** - venituri din dividende | ⏳ |
 | 19 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ✅ |
