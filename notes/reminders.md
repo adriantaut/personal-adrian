@@ -12,6 +12,7 @@
 | **25 Mai 2026** | **Declarația Unică ANAF 2025** - venituri din dividende | ⏳ |
 | 19 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ✅ |
 | Martie 2026 | Decide tichete cadou Paște (300 lei) | ⏳ |
+| **Cât mai curând** | **Transferat dividende** | ⏳ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
 
 ---
