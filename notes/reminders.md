@@ -10,6 +10,7 @@
 | 19 Mar 2026 | **Actualizare cod CAEN la Rev3** - cerere depusă ONRC, aștept confirmare - [Tutorial YouTube](https://www.youtube.com/watch?v=1ceRFLVpxYs) | ⏳ |
 | **25 ale fiecărei luni** | **Factura pentru ZAR** | 🔁 |
 | **25 Mai 2026** | **Declarația Unică ANAF 2025** - venituri din dividende | ⏳ |
+| **25 Mai 2026** | **Sponsorizare ONG Rotary din impozit** (Formular 230 / redirecționare 3.5%) | ⏳ |
 | 19 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ✅ |
 | Martie 2026 | Decide tichete cadou Paște (300 lei) | ⏳ |
 | 25 Mar 2026 | Transferat dividende | ✅ |
