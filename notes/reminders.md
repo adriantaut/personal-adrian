@@ -12,7 +12,7 @@
 | **25 Mai 2026** | **Declarația Unică ANAF 2025** - venituri din dividende | ⏳ |
 | 19 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ✅ |
 | Martie 2026 | Decide tichete cadou Paște (300 lei) | ⏳ |
-| **Cât mai curând** | **Transferat dividende** | ⏳ |
+| 25 Mar 2026 | Transferat dividende | ✅ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
 
 ---
@@ -34,7 +34,7 @@
 | 5 Mar 2026 | Postare Instagram Rotary Opera - design 3.5% | ✅ |
 | **Mie 25 Feb** | ⚠️ Pregătire prezentare Rotary (2 săpt înainte) | ⏳ |
 | **Mie 4 Mar** | ⚠️ Pregătire prezentare Rotary (1 săpt înainte) | ⏳ |
-| **Mie 25 Mar, 18:30** | **🎤 PREZENTARE despre mine la Rotary** (amânată de pe 18 Mar) | ⏳ |
+| **Mie 1 Apr, 18:30** | **🎤 PREZENTARE despre mine la Rotary** (amânată de pe 25 Mar) | ⏳ |
 | **25 Mai 2026** | **DEADLINE Formular 230** | ⏳ |
 
 ---
