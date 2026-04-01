@@ -36,7 +36,7 @@
 | 5 Mar 2026 | Postare Instagram Rotary Opera - design 3.5% | ✅ |
 | **Mie 25 Feb** | ⚠️ Pregătire prezentare Rotary (2 săpt înainte) | ⏳ |
 | **Mie 4 Mar** | ⚠️ Pregătire prezentare Rotary (1 săpt înainte) | ⏳ |
-| **Mie 1 Apr, 18:30** | **🎤 PREZENTARE despre mine la Rotary** (amânată de pe 25 Mar) | ⏳ |
+| **Mie 8 Apr, 18:30** | **🎤 PREZENTARE despre mine la Rotary** (amânată de pe 1 Apr) | ⏳ |
 | **25 Mai 2026** | **DEADLINE Formular 230** | ⏳ |
 
 ---
