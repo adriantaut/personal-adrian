@@ -31,3 +31,5 @@ Tel: +40748164530
 | Luna | Zile | Valoare | Raportat |
 |------|------|---------|----------|
 | Februarie 2026 | 20 | 900 RON | ✅ 11 Feb |
+| Martie 2026 | 22 | 990 RON | ✅ 19 Mar |
+| Aprilie 2026 | 18 | 810 RON | ✅ 14 Apr |

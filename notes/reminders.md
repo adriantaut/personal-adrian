@@ -13,7 +13,7 @@
 | **31 Mar 2026** | **Sponsorizare ONG Rotary din impozit** (trimestrial) | ⏳ |
 | 19 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ✅ |
 | 27 Mar 2026 | Decide tichete cadou Paște (300 lei) - cadouri în bani, tabel nominal creat | ✅ |
-| **După 15 Apr 2026** | **Trimite la CEDEXPERT: pontaj Aprilie + Tabel Paște** (2026_04_Tabel_Paste.pdf din Google Drive/DevOps Box/Cadouri in Bani/) | ⏳ |
+| 14 Apr 2026 | Trimite la CEDEXPERT: pontaj Aprilie + Tabel Paște | ✅ |
 | 25 Mar 2026 | Transferat dividende | ✅ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
 
