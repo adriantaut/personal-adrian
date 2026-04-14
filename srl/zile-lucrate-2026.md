@@ -51,11 +51,11 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 ### Aprilie 2026
 
 - **Zile lucrătoare calendar:** 20
-- **Sărbători legale:** 2 (Paște Ortodox: 12-13 Apr, Vinerea Mare opțional)
-- **Concediu (CO):**
-- **Medical:**
-- **Zile lucrate efectiv:**
-- **Valoare tichete:**
+- **Sărbători legale:** 2 (Vinerea Mare 10 Apr + Paște Lun 13 Apr)
+- **Concediu (CO):** 0
+- **Medical:** 0
+- **Zile lucrate efectiv:** 18
+- **Valoare tichete:** 18 × 45 = **810 RON**
 - **Raportat la contabil:** ☐
 
 ---
