@@ -14,7 +14,7 @@
 | 19 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ✅ |
 | 27 Mar 2026 | Decide tichete cadou Paște (300 lei) - cadouri în bani, tabel nominal creat | ✅ |
 | 14 Apr 2026 | Trimite la CEDEXPERT: pontaj Aprilie + Tabel Paște | ✅ |
-| **Cât mai curând** | **Comandă Edenred** - tichete masă Aprilie (18 zile × 45 = 810 RON) | ⏳ |
+| 16 Apr 2026 | Comandă Edenred - tichete masă Aprilie (18 zile × 45 = 810 RON) | ✅ |
 | 25 Mar 2026 | Transferat dividende | ✅ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
 
