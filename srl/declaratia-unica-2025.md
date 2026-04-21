@@ -46,8 +46,9 @@
 ## TODO
 
 - [x] Calculează totalul dividendelor 2025 ✓ (809.288 RON)
-- [ ] **Completează Declarația Unică pe ANAF** (https://www.anaf.ro/declaratii/duf)
-- [ ] Depune până la **25 Mai 2026**
+- [x] Completează Declarația Unică pe ANAF ✓ (21 Apr 2026)
+- [x] Depune pe SPV ANAF ✓ (21 Apr 2026) - recipisă primită pe email
+- [ ] **Plată CASS: 22.200 RON** - deadline **25 Mai 2026**
 
 ---
 
