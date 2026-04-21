@@ -1,0 +1,210 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - link "Navigare" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - img "ANAF" [ref=e8]
+          - heading "D212 — Declaraţie unică privind impozitul pe venit şi contribuţiile sociale datorate de persoanele fizice" [level=1] [ref=e11]
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - button "Resetează formularul" [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e19]: Resetează formularul
+            - button "Importă fișier salvat" [ref=e20]:
+              - img [ref=e21]
+              - generic [ref=e24]: Importă fișier salvat
+            - button "Salvează fișier temporar" [ref=e25]:
+              - img [ref=e26]
+              - generic [ref=e29]: Salvează fișier temporar
+          - generic [ref=e30]: "Mediu: Public"
+    - generic [ref=e31]:
+      - complementary [ref=e32]:
+        - navigation [ref=e33]:
+          - generic [ref=e34]:
+            - list [ref=e36]:
+              - listitem [ref=e37]:
+                - button "Date de identificare" [ref=e38]:
+                  - img [ref=e39]
+                  - text: Date de identificare
+              - listitem [ref=e42]:
+                - button "Venituri realizate" [ref=e43]:
+                  - img [ref=e44]
+                  - text: Venituri realizate
+              - listitem [ref=e48]:
+                - button "Venituri cu reținere la sursă" [ref=e49]:
+                  - img [ref=e50]
+                  - text: Venituri cu reținere la sursă
+              - listitem [ref=e54]:
+                - button "Date privind CAS" [ref=e55]:
+                  - img [ref=e56]
+                  - text: Date privind CAS
+              - listitem [ref=e58]:
+                - button "Date privind CASS" [ref=e59]:
+                  - img [ref=e60]
+                  - text: Date privind CASS
+            - generic [ref=e62]:
+              - generic [ref=e63]:
+                - checkbox "Bonificație" [ref=e64]
+                - generic [ref=e65]: Bonificație impozit
+              - generic [ref=e66]:
+                - checkbox "CASS prin opțiune" [ref=e67]
+                - button "CASS prin opțiune (estimat 2026)" [ref=e68] [cursor=pointer]
+              - generic [ref=e69]:
+                - checkbox "Persoane în întreținere" [ref=e70]
+                - button "Persoane în întreținere (estimat 2026)" [ref=e71] [cursor=pointer]
+      - main [ref=e73]:
+        - generic [ref=e75]:
+          - generic [ref=e76]:
+            - heading "Tipul declarației" [level=2] [ref=e77]
+            - combobox [ref=e80]:
+              - option "Declarație inițială" [selected]
+              - option "Rectificare venituri 2025"
+              - option "Rectificare opțiuni 2026"
+              - option "Rectificare ambele"
+          - generic [ref=e81]:
+            - generic [ref=e83]:
+              - generic [ref=e84]: Declarație depusă după anularea rezervei verificării ulterioare, conform Codului de procedură fiscală
+              - img "Ajutor" [ref=e86] [cursor=pointer]
+            - generic [ref=e88]:
+              - generic [ref=e89]:
+                - checkbox "art105 alin(6) lit.A" [ref=e90]
+                - generic [ref=e91]: art105 alin(6) lit.A
+              - generic [ref=e92]:
+                - checkbox "art105 alin(6) lit.B" [ref=e93]
+                - generic [ref=e94]: art105 alin(6) lit.B
+        - generic [ref=e95]:
+          - generic [ref=e96]:
+            - heading "Date de identificare a contribuabilului" [level=2] [ref=e97]
+            - button "Ascunde detalii" [ref=e99]:
+              - text: Ascunde detalii
+              - img [ref=e100]
+          - generic [ref=e103]:
+            - generic [ref=e104]:
+              - generic [ref=e106]:
+                - generic [ref=e107]: Nume
+                - textbox "Nume" [ref=e108]
+              - generic [ref=e110]:
+                - generic [ref=e111]: Inițiala
+                - textbox "Inițiala" [ref=e112]
+              - generic [ref=e114]:
+                - generic [ref=e115]: Prenume
+                - textbox "Prenume" [ref=e116]
+              - generic [ref=e118]:
+                - generic [ref=e119]: Cod de identificare fiscală*
+                - textbox "Cod de identificare fiscală*" [ref=e120]
+            - generic [ref=e121]:
+              - generic [ref=e123]:
+                - generic [ref=e124]: Informații relevante pentru calculul CAS/CASS
+                - img "Ajutor" [ref=e126] [cursor=pointer]
+              - combobox [ref=e129]:
+                - option "Alege statutul" [selected]
+                - option "Nu datorez contribuții sociale în România, conform legislaţiei europene aplicabile în domeniul securităţii sociale, precum şi a acordurilor privind sistemele de securitate socială la care România este parte"
+                - option "Pensionar"
+                - option "Persoana cu venituri din salarii și asimilate salariilor în anul 2025 sub 6 salarii minime brute"
+                - option "Persoana cu venituri din salarii și asimilate salariilor în anul 2025 cel puţin egale cu 6 salarii minime brute pe ţară"
+                - option "Asigurat în sistem propriu de asigurări sociale (ex. avocat, notar)"
+                - option "Elevi/studenți sau tineri cu varste de pana la 26 de ani care provin din sistemul de protectie a copilului"
+            - generic [ref=e130]:
+              - generic [ref=e131]:
+                - generic [ref=e132]: Telefon
+                - textbox "Telefon" [ref=e133]
+              - generic [ref=e134]:
+                - generic [ref=e135]: E-mail
+                - textbox "E-mail" [ref=e136]
+              - generic [ref=e137]:
+                - generic [ref=e138]: Cont bancar (IBAN)
+                - textbox "Cont bancar (IBAN)" [ref=e139]
+            - generic [ref=e140]:
+              - generic [ref=e142]:
+                - checkbox "Nerezident" [ref=e143]
+                - generic [ref=e144]: Nerezident
+              - generic [ref=e146]:
+                - checkbox "Informații împuternicit" [ref=e147]
+                - generic [ref=e148]: Informații împuternicit
+        - generic [ref=e149]:
+          - generic [ref=e150]:
+            - heading "Venituri realizate" [level=2] [ref=e151]
+            - button "Ascunde toate veniturile" [ref=e152]:
+              - text: Ascunde toate
+              - img [ref=e153]
+          - generic [ref=e156]:
+            - paragraph [ref=e157]:
+              - text: Nu există venituri realizate încă.
+              - text: Poți adăuga mai multe surse și tipuri de venituri, folosind butoanele din dreapta.
+            - generic [ref=e158]:
+              - button "Adaugă venit străinătate +" [ref=e159]
+              - button "Adaugă venit România +" [ref=e160]
+        - generic [ref=e161]:
+          - generic [ref=e162]:
+            - generic [ref=e163]:
+              - heading "Venituri cu reținere la sursă a impozitului pentru care se datorează CAS/CASS" [level=2] [ref=e164]
+              - button "Ascunde venituri" [ref=e165]:
+                - text: Ascunde venituri
+                - img [ref=e166]
+            - button "Adaugă venit" [ref=e170]
+          - paragraph [ref=e171]: Nu există înregistrări de stopaj adăugate încă.
+          - generic [ref=e172]:
+            - generic [ref=e173]: "Total sume: 0"
+            - generic [ref=e174]: "Total CASS reținut: 0"
+            - generic [ref=e175]: "Total CAS reținut: 0"
+      - complementary [ref=e176]:
+        - generic [ref=e178]:
+          - paragraph [ref=e180]: Sumarul obligațiilor
+          - generic [ref=e181]:
+            - generic [ref=e182]:
+              - paragraph [ref=e183]:
+                - generic [ref=e184]: Impozit pe venit
+              - generic [ref=e185]: 0 lei
+            - generic [ref=e186]:
+              - paragraph [ref=e187]:
+                - generic [ref=e188]: CAS
+              - generic [ref=e189]: 0 lei
+            - generic [ref=e190]:
+              - paragraph [ref=e191]:
+                - generic [ref=e192]: CASS
+              - generic [ref=e193]: 0 lei
+          - generic [ref=e194]:
+            - button "Deschide Secțiunea Impozit anual (activități independente sistem real)" [ref=e195]:
+              - img [ref=e196]
+              - generic [ref=e199]: Impozit anual (activități independente sistem real)
+            - button "Deschide Secțiunea Impozit anual (drepturi de proprietate intelectuală)" [ref=e200]:
+              - img [ref=e201]
+              - generic [ref=e204]: Impozit anual (drepturi de proprietate intelectuală)
+            - button "Deschide Secțiunea Impozit diferență CASS stabilită în minus" [ref=e205]:
+              - img [ref=e206]
+              - generic [ref=e209]: Impozit diferență CASS stabilită în minus
+            - button "Deschide Secțiunea Sumar obligații fiscale finale" [ref=e210]:
+              - img [ref=e211]
+              - generic [ref=e214]: Sumar obligații fiscale finale
+            - generic [ref=e216]:
+              - button "Generează fișier PDF pentru depunere" [ref=e217]
+              - generic [ref=e218]:
+                - text: Vă rugăm să completați sondajul de feedback accesând
+                - link "acest link" [ref=e219] [cursor=pointer]:
+                  - /url: http://sondaje.anaf.ro/primary/WebInterview/8TE6DS4Y/Start
+                - text: .
+            - generic [ref=e220]:
+              - paragraph [ref=e221]: Linkuri utile
+              - generic [ref=e222]:
+                - link "Portal formulare web – ANAF" [ref=e223] [cursor=pointer]:
+                  - /url: https://www.anaf.ro/declaratii/
+                  - img [ref=e224]
+                  - text: Portal formulare web – ANAF
+                - link "Instrucțiuni de completare a declarației unice" [ref=e226] [cursor=pointer]:
+                  - /url: https://static.anaf.ro/static/10/Anaf/formulare/Instructiuni_D212_2736_2025.pdf
+                  - img [ref=e227]
+                  - text: Instrucțiuni de completare a declarației unice
+                - link "Broșură de asistență pentru completarea declarației unice" [ref=e229] [cursor=pointer]:
+                  - /url: https://static.anaf.ro/static/10/Anaf/AsistentaContribuabili_r/Brosura_Declaratia_Unica_212_2025.pdf
+                  - img [ref=e230]
+                  - text: Broșură de asistență pentru completarea declarației unice
+                - link "Norme de venit pe anul 2025" [ref=e232] [cursor=pointer]:
+                  - /url: https://www.anaf.ro/anaf/internet/ANAF/asistenta_contribuabili/declararea_obligatiilor_fiscale/norme_venit
+                  - img [ref=e233]
+                  - text: Norme de venit pe anul 2025
+    - contentinfo [ref=e235]:
+      - text: V-1.8.06 / 16.04.2026 © 2026 — Ministerul Finanțelor / ANAF drepturile rezervate.
+      - generic [ref=e236]: "| Mediu: Public"
+  - alert [ref=e237]
