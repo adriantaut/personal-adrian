@@ -13,25 +13,40 @@
 
 ---
 
-## Ce trebuie declarat
+## Venituri din dividende 2025
 
-- Venituri din dividende încasate în 2025 de la **DevOps Box SRL** (CUI: RO44948266)
-- Impozit pe dividende: **8%** (reținut la sursă de firmă)
-- CASS pe dividende: **10%** (dacă totalul veniturilor depășește 6 salarii minime brute)
+- **Sursă:** DevOps Box SRL (CUI: RO44948266)
+- **Total dividende încasate:** 809.288 RON
 
-## Documente necesare
+### Calcul taxe
 
-- [ ] Hotărârea AGA de distribuire dividende 2025
-- [ ] Extrasul de cont cu plățile de dividende
-- [ ] Certificat fiscal de la firmă (dacă e necesar)
-- [ ] Acces SPV (Spațiul Privat Virtual ANAF)
+| Tax | Bază | Procent | Sumă |
+|-----|------|---------|------|
+| Impozit dividende | 809.288 RON | 8% | **64.743 RON** (reținut la sursă) |
+| CASS | plafonat la 6 × salariu minim brut | 10% | vezi mai jos |
+
+**CASS 2025:**
+- Salariu minim brut 2025: 3.700 RON
+- Prag 6 salarii minime: 6 × 3.700 = **22.200 RON**
+- Dividendele (809.288 RON) >> 22.200 RON → **datorezi CASS**
+- Plafon CASS: 60 × salariu minim brut = 60 × 3.700 = **222.000 RON**
+- **CASS datorat: 10% × 222.000 = 22.200 RON**
+
+### Total de plată
+
+| Ce | Sumă | Cine plătește |
+|----|------|---------------|
+| Impozit 8% | 64.743 RON | Reținut la sursă de firmă |
+| CASS 10% | **22.200 RON** | Adrian - prin Declarația Unică |
+
+## Link depunere
+
+**https://www.anaf.ro/declaratii/duf**
 
 ## TODO
 
-- [ ] Adună documentele necesare
-- [ ] Calculează totalul dividendelor 2025
-- [ ] Verifică dacă datorezi CASS (prag: 6 × salariu minim brut)
-- [ ] Completează Declarația Unică pe SPV
+- [x] Calculează totalul dividendelor 2025 ✓ (809.288 RON)
+- [ ] **Completează Declarația Unică pe ANAF** (https://www.anaf.ro/declaratii/duf)
 - [ ] Depune până la **25 Mai 2026**
 
 ---
@@ -39,5 +54,5 @@
 ## Note
 
 - Impozitul de 8% pe dividende e reținut la sursă de firmă → verifică dacă a fost virat
-- CASS 10% se datorează dacă veniturile totale din dividende > 6 × salariu minim brut pe economie
-- Se depune online pe SPV (Spațiul Privat Virtual) - anaf.ro
+- CASS 10% se datorează plafonat la 60 × salariu minim brut = 222.000 RON
+- Se depune online pe https://www.anaf.ro/declaratii/duf
