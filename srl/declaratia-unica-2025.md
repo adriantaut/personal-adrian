@@ -37,7 +37,7 @@
 | Ce | Sumă | Cine plătește |
 |----|------|---------------|
 | Impozit 8% | 64.743 RON | Reținut la sursă de firmă |
-| CASS 10% | **22.200 RON** | Adrian - prin Declarația Unică |
+| CASS 10% | **9.720 RON** | Adrian - plătit pe ghiseul.ro (22 Apr 2026) |
 
 ## Link depunere
 
@@ -48,7 +48,7 @@
 - [x] Calculează totalul dividendelor 2025 ✓ (809.288 RON)
 - [x] Completează Declarația Unică pe ANAF ✓ (21 Apr 2026)
 - [x] Depune pe SPV ANAF ✓ (21 Apr 2026) - recipisă primită pe email
-- [ ] **Plată CASS: 22.200 RON** - deadline **25 Mai 2026**
+- [x] Plată CASS: **9.720 RON** - plătit pe ghiseul.ro ✓ (22 Apr 2026)
 
 ---
 

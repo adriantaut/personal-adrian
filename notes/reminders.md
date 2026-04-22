@@ -10,8 +10,7 @@
 | 16 Apr 2026 | Actualizare cod CAEN la Rev3 - confirmare primită ONRC | ✅ |
 | **25 ale fiecărei luni** | **Factura pentru ZAR** | 🔁 |
 | 21 Apr 2026 | Declarația Unică ANAF 2025 - depusă, recipisă primită | ✅ |
-| **5 Mai 2026** | **Verifică ghiseul.ro** - ar trebui să apară CASS de plată | ⏳ |
-| **20 Mai 2026** | **Plată CASS dividende: 22.200 RON** (deadline 25 Mai) | ⏳ |
+| 22 Apr 2026 | Plată CASS dividende: 9.720 RON - plătit pe ghiseul.ro | ✅ |
 | **31 Mar 2026** | **Sponsorizare ONG Rotary din impozit** (trimestrial) | ⏳ |
 | 19 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ✅ |
 | 27 Mar 2026 | Decide tichete cadou Paște (300 lei) - cadouri în bani, tabel nominal creat | ✅ |
