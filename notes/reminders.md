@@ -48,7 +48,7 @@
 | Data | Reminder | Status |
 |------|----------|--------|
 | 4 Mar 2026 | Înscriere curs B125 - Toni Auto | ✅ |
-| **Vin 24 Apr, 12:00** | **Plată factură Stables** | ⏳ |
+| 24 Apr 2026 | Plată factură Stables | ✅ |
 
 ---
 
