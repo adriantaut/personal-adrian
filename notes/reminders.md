@@ -8,7 +8,7 @@
 | 19 Mar 2026 | Închide contul Banca Transilvania | ✅ |
 | 17 Mar 2026 | Verifică SmartBill - facturi ghiseul.ro (Taxa Talon + Taxa Numere Scuter) | ✅ |
 | 16 Apr 2026 | Actualizare cod CAEN la Rev3 - confirmare primită ONRC | ✅ |
-| **25 ale fiecărei luni** | **Factura pentru ZAR** | 🔁 |
+| **25 ale fiecărei luni** | **Factura pentru ZAR** (ultima: Apr 2026 ✅) | 🔁 |
 | 21 Apr 2026 | Declarația Unică ANAF 2025 - depusă, recipisă primită | ✅ |
 | 22 Apr 2026 | Plată CASS dividende: 9.720 RON - plătit pe ghiseul.ro | ✅ |
 | **31 Mar 2026** | **Sponsorizare ONG Rotary din impozit** (trimestrial) | ⏳ |
@@ -38,7 +38,7 @@
 | 5 Mar 2026 | Postare Instagram Rotary Opera - design 3.5% | ✅ |
 | **Mie 25 Feb** | ⚠️ Pregătire prezentare Rotary (2 săpt înainte) | ⏳ |
 | **Mie 4 Mar** | ⚠️ Pregătire prezentare Rotary (1 săpt înainte) | ⏳ |
-| **Mie 8 Apr, 18:30** | **🎤 PREZENTARE despre mine la Rotary** (amânată de pe 1 Apr) | ⏳ |
+| Mie 8 Apr, 18:30 | 🎤 PREZENTARE despre mine la Rotary (amânată de pe 1 Apr) | ✅ |
 | **25 Mai 2026** | **DEADLINE Formular 230** | ⏳ |
 
 ---
