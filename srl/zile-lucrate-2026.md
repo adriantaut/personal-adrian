@@ -10,7 +10,7 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 | Februarie | 20 | | | |
 | Martie | 22 | | | |
 | Aprilie | 20 | | | |
-| Mai | 19 | | | |
+| Mai | 20 | | | |
 | Iunie | 21 | | | |
 | Iulie | 23 | | | |
 | August | 20 | | | |
@@ -18,7 +18,7 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 | Octombrie | 22 | | | |
 | Noiembrie | 20 | | | |
 | Decembrie | 20 | | | |
-| **TOTAL** | **250** | | | |
+| **TOTAL** | **251** | | | |
 
 ---
 
@@ -62,8 +62,8 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 
 ### Mai 2026
 
-- **Zile lucrătoare calendar:** 19
-- **Sărbători legale:** 2 (1 Mai, Rusalii)
+- **Zile lucrătoare calendar:** 20
+- **Sărbători legale:** 1 (1 Mai - Vineri). Duminica Rusaliilor (31 Mai) cade duminică, nu reduce zilele lucrătoare
 - **Concediu (CO):**
 - **Medical:**
 - **Zile lucrate efectiv:**
@@ -75,7 +75,7 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 ### Iunie 2026
 
 - **Zile lucrătoare calendar:** 21
-- **Sărbători legale:** 1 (1 Iunie - Ziua Copilului)
+- **Sărbători legale:** 1 (1 Iunie - Luni: Lunea Rusaliilor + Ziua Copilului - coincid în 2026)
 - **Concediu (CO):**
 - **Medical:**
 - **Zile lucrate efectiv:**
