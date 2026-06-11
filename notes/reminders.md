@@ -51,6 +51,7 @@
 | 4 Mar 2026 | Înscriere curs B125 - Toni Auto | ✅ |
 | 24 Apr 2026 | Plată factură Stables | ✅ |
 | **8-14 Iul 2026** | **Delegație București** (vezi `srl/delegatie-bucuresti-2026-07.md`) | ⏳ |
+| **7 Iul 2026** | **Plată diurnă delegație București** (402,5 RON) | ⏳ |
 | - | Update CV pe LinkedIn | ⏳ |
 
 ---

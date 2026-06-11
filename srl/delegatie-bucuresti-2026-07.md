@@ -1,27 +1,46 @@
 # Delegație București - 8-14 Iulie 2026
 
-**Perioada:** 8-14 Iulie 2026 (7 zile)
+**Perioada:** 8-14 Iulie 2026 (7 zile calendaristice)
 **Destinație:** București
+**Motivare:** Focus week / sesiune de lucru offsite cu echipa ZAR
 **Status:** ⏳ În pregătire
 
 ## TODO
 
-- [ ] **Confirmare primire factură HiSky**
-- [ ] **Documente contabilitate** - găsit un eveniment IT în perioada 8-14 Iul ca justificare delegație
-- [ ] **Calcul diurnă** (diurnă internă neimpozabilă 2026: max 50 RON/zi × 7 = 350 RON)
+- [x] **Confirmare primire factură HiSky** ✅
+- [x] **Ordin de deplasare emis** ✅
+- [ ] **Plată diurnă** (7 iulie 2026)
+- [ ] Centralizare bonuri/facturi cazare + transport + masă
+
+## Diurnă
+
+**Calcul:** 7 zile × 57,5 RON = **402,5 RON neimpozabil**
+
+| Zi | Data | Diurnă |
+|----|------|--------|
+| Mie | 8 Iul | 57,5 RON |
+| Joi | 9 Iul | 57,5 RON |
+| Vin | 10 Iul | 57,5 RON |
+| Sâm | 11 Iul | 57,5 RON |
+| Dum | 12 Iul | 57,5 RON |
+| Lun | 13 Iul | 57,5 RON |
+| Mar | 14 Iul | 57,5 RON |
+| **TOTAL** | | **402,5 RON** |
+
+> Diurna se acordă pe zile calendaristice (inclusiv weekend), conform legislației RO 2026.
 
 ## Note
 
-- Diurna internă în RO (2026): plafon scutire 50 RON/zi pentru deplasări interne (de verificat actual cu CEDEXPERT)
-- Pentru justificare delegație SRL: e nevoie de un eveniment/scop business documentabil
+- Plafon neimpozabil RO 2026: 57,5 RON/zi (2,5 × diurna sector public de 23 RON)
+- Justificare business: Focus week ZAR (offsite team)
 - Cheltuieli decontabile: cazare, transport, masă (cu facturi/bonuri pe firmă)
 
-## Cheltuieli (de completat)
+## Cheltuieli
 
 | Tip | Sumă | Dată | Document |
 |-----|------|------|----------|
-| Transport | | | |
+| Transport (HiSky) | | | ✅ Factură primită |
 | Cazare | | | |
 | Masă | | | |
-| Eveniment IT | | | |
+| Diurnă | 402,5 RON | 7 Iul 2026 | Ordin deplasare ✅ |
 | **TOTAL** | | | |
