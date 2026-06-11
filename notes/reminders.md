@@ -34,7 +34,6 @@
 | Lun 23 Feb 2026, 08:00 | 120 ani Rotary - Opera | ✅ |
 | Mie 25 Feb 2026 | EDUCATIO Ed. 2 - eveniment | ✅ |
 | 4 Mar 2026 | Upload video EDUCATIO Ed. 2 pe YouTube | ✅ |
-| Fiecare ședință | Reminder: redirectioneaza.ro/rotary-club-cluj-napoca-opera | 🔁 |
 | 23 Feb 2026 | Contact Anca Pintilie - primit design 3.5% | ✅ |
 | 5 Mar 2026 | Postare Instagram Rotary Opera - design 3.5% | ✅ |
 | Mie 25 Feb | ⚠️ Pregătire prezentare Rotary (2 săpt înainte) | ✅ |
@@ -51,6 +50,7 @@
 |------|----------|--------|
 | 4 Mar 2026 | Înscriere curs B125 - Toni Auto | ✅ |
 | 24 Apr 2026 | Plată factură Stables | ✅ |
+| **8-14 Iul 2026** | **Delegație București** (vezi `srl/delegatie-bucuresti-2026-07.md`) | ⏳ |
 | - | Update CV pe LinkedIn | ⏳ |
 
 ---
