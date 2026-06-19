@@ -1,4 +1,7 @@
 {
+  "enabledPlugins": {
+    "nexus-ingest@zarpay-nexus": false
+  },
   "hooks": {
     "UserPromptSubmit": [
       {
