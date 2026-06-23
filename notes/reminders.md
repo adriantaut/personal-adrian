@@ -54,6 +54,9 @@
 | 24 Apr 2026 | Plată factură Stables | ✅ |
 | **8-14 Iul 2026** | **Delegație București** (vezi `srl/delegatie-bucuresti-2026-07.md`) | ⏳ |
 | **7 Iul 2026** | **Plată diurnă delegație București** (402,5 RON) | ⏳ |
+| **25 Iul - 8 Aug 2026** | **Delegație Cappadocia** (vezi `srl/delegatie-cappadocia-2026-07.md`) | ⏳ |
+| **24 Iul 2026** | **Plată diurnă delegație Cappadocia** (~525 EUR) | ⏳ |
+| **După 8 Aug 2026** | **Reimbursement ZAR pentru bilete avion Cappadocia** | ⏳ |
 | - | Update CV pe LinkedIn | ⏳ |
 
 ---

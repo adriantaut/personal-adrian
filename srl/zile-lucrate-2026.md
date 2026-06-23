@@ -12,13 +12,13 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 | Aprilie | 20 | 18 | 0 | 810 RON |
 | Mai | 20 | 19 | 0 | 855 RON |
 | Iunie | 22 | 21 | 0 | 945 RON |
-| Iulie | 23 | | | |
-| August | 20 | | | |
+| Iulie | 23 | 13 | 10 (delegații) | 585 RON |
+| August | 21 | 16 | 5 (delegație) | 720 RON |
 | Septembrie | 22 | | | |
 | Octombrie | 22 | | | |
 | Noiembrie | 20 | | | |
 | Decembrie | 20 | | | |
-| **TOTAL** | **251** | | | |
+| **TOTAL** | **252** | | | |
 
 ---
 
@@ -90,22 +90,27 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 
 - **Zile lucrătoare calendar:** 23
 - **Sărbători legale:** 0
-- **Concediu (CO):**
-- **Medical:**
-- **Zile lucrate efectiv:**
-- **Valoare tichete:**
+- **Concediu (CO):** 0
+- **Medical:** 0
+- **Delegații:** 10 zile lucrătoare
+  - Delegația 1 — București (8-14 Iul): 5 zile lucrătoare (Mie 8, Joi 9, Vin 10, Lun 13, Mar 14)
+  - Delegația 2 — Cappadocia (25 Iul → 31 Iul): 5 zile lucrătoare (Lun 27 → Vin 31)
+- **Zile lucrate efectiv (Edenred):** 13
+- **Valoare tichete:** 13 × 45 = **585 RON**
 - **Raportat la contabil:** ☐
 
 ---
 
 ### August 2026
 
-- **Zile lucrătoare calendar:** 20
-- **Sărbători legale:** 1 (15 Aug - Adormirea Maicii Domnului)
-- **Concediu (CO):**
-- **Medical:**
-- **Zile lucrate efectiv:**
-- **Valoare tichete:**
+- **Zile lucrătoare calendar:** 21
+- **Sărbători legale:** 1 (15 Aug - Adormirea Maicii Domnului, **cade sâmbătă în 2026** → NU reduce zilele lucrătoare)
+- **Concediu (CO):** 0
+- **Medical:** 0
+- **Delegații:** 5 zile lucrătoare
+  - Delegația 2 — Cappadocia (1 Aug → 8 Aug): 5 zile lucrătoare (Lun 3 → Vin 7)
+- **Zile lucrate efectiv (Edenred):** 16
+- **Valoare tichete:** 16 × 45 = **720 RON**
 - **Raportat la contabil:** ☐
 
 ---
