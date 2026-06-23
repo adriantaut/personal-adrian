@@ -11,6 +11,8 @@
 | **25 ale fiecărei luni** | **Factura pentru ZAR** (ultima: Mai 2026 ✅ 25 Mai) | 🔁 |
 | 15 Mai 2026 | Raport zile lucrate Mai → CEDEXPERT | ✅ |
 | 15 Mai 2026 | Comandă Edenred - tichete masă Mai (19 × 45 = 855 RON) | ✅ |
+| 19 Iun 2026 | Raport zile lucrate Iunie → CEDEXPERT | ✅ |
+| 19 Iun 2026 | Comandă Edenred - tichete masă Iunie (21 × 45 = 945 RON) | ✅ |
 | 21 Apr 2026 | Declarația Unică ANAF 2025 - depusă, recipisă primită | ✅ |
 | 22 Apr 2026 | Plată CASS dividende: 9.720 RON - plătit pe ghiseul.ro | ✅ |
 | **31 Mar 2026** | **Sponsorizare ONG Rotary din impozit** (trimestrial) | ⏳ |

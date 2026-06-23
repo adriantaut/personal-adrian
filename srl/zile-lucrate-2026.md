@@ -11,7 +11,7 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 | Martie | 22 | 22 | 0 | 990 RON |
 | Aprilie | 20 | 18 | 0 | 810 RON |
 | Mai | 20 | 19 | 0 | 855 RON |
-| Iunie | 21 | | | |
+| Iunie | 22 | 21 | 0 | 945 RON |
 | Iulie | 23 | | | |
 | August | 20 | | | |
 | Septembrie | 22 | | | |
@@ -75,13 +75,14 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 
 ### Iunie 2026
 
-- **Zile lucrătoare calendar:** 21
+- **Zile lucrătoare calendar:** 22
 - **Sărbători legale:** 1 (1 Iunie - Luni: Lunea Rusaliilor + Ziua Copilului - coincid în 2026)
-- **Concediu (CO):**
-- **Medical:**
-- **Zile lucrate efectiv:**
-- **Valoare tichete:**
-- **Raportat la contabil:** ☐
+- **Concediu (CO):** 0
+- **Medical:** 0
+- **Zile lucrate efectiv:** 21
+- **Valoare tichete:** 21 × 45 = **945 RON**
+- **Raportat la contabil:** ✅ (19 Iun 2026)
+- **Comandă Edenred:** ✅ (19 Iun 2026)
 
 ---
 
