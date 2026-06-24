@@ -8,7 +8,7 @@
 ## TODO
 
 - [ ] **Plată diurnă delegație Cappadocia** (de plătit înainte de plecare — 24 Iul)
-- [ ] **Reimbursement de la ZAR pentru biletele de avion**
+- [ ] **Reimbursement de la ZAR pentru biletele de avion** — ⏳ mail trimis 19 Iun 2026, aștept confirmare/plată
 - [ ] Ordin de deplasare
 - [ ] Centralizare bonuri cazare + transport + masă
 - [ ] Confirmare cazare
