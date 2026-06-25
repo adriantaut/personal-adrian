@@ -22,6 +22,7 @@
 | 16 Apr 2026 | Comandă Edenred - tichete masă Aprilie (18 zile × 45 = 810 RON) | ✅ |
 | 25 Mar 2026 | Transferat dividende | ✅ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
+| - | Factură DropShot Coffee | ⏳ |
 
 ---
 
