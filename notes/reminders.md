@@ -8,7 +8,7 @@
 | 19 Mar 2026 | Închide contul Banca Transilvania | ✅ |
 | 17 Mar 2026 | Verifică SmartBill - facturi ghiseul.ro (Taxa Talon + Taxa Numere Scuter) | ✅ |
 | 16 Apr 2026 | Actualizare cod CAEN la Rev3 - confirmare primită ONRC | ✅ |
-| **25 ale fiecărei luni** | **Factura pentru ZAR** (ultima: Mai 2026 ✅ 25 Mai) | 🔁 |
+| **25 ale fiecărei luni** | **Factura pentru ZAR** (ultima: Iunie 2026 ✅ 25 Iun, standard rate; ZAR deduce $1050 laptop separat) | 🔁 |
 | 15 Mai 2026 | Raport zile lucrate Mai → CEDEXPERT | ✅ |
 | 15 Mai 2026 | Comandă Edenred - tichete masă Mai (19 × 45 = 855 RON) | ✅ |
 | 19 Iun 2026 | Raport zile lucrate Iunie → CEDEXPERT | ✅ |
