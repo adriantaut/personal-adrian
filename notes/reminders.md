@@ -22,7 +22,7 @@
 | 16 Apr 2026 | Comandă Edenred - tichete masă Aprilie (18 zile × 45 = 810 RON) | ✅ |
 | 25 Mar 2026 | Transferat dividende | ✅ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
-| - | Factură DropShot Coffee | ⏳ |
+| 26 Iun 2026 | Factură DropShot Coffee | ✅ |
 | **7 Iul 2026** | **Plată diurnă delegație București** (402,5 RON) | ⏳ |
 | **8-14 Iul 2026** | **Delegație București** (vezi `srl/delegatie-bucuresti-2026-07.md`) | ⏳ |
 | **24 Iul 2026** | **Plată diurnă delegație Cappadocia** (~525 EUR) | ⏳ |
