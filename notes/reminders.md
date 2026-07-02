@@ -27,7 +27,7 @@
 | **8-14 Iul 2026** | **Delegație București** (vezi `srl/delegatie-bucuresti-2026-07.md`) | ⏳ |
 | **24 Iul 2026** | **Plată diurnă delegație Cappadocia** (~525 EUR) | ⏳ |
 | **25 Iul - 8 Aug 2026** | **Delegație Cappadocia** (vezi `srl/delegatie-cappadocia-2026-07.md`) | ⏳ |
-| 19 Iun 2026 | Reimbursement ZAR bilete avion Cappadocia - mail trimis, aștept | ⏳ |
+| 2 Iul 2026 | Reimbursement ZAR bilete avion Cappadocia - primit ✅ | ✅ |
 
 ---
 
