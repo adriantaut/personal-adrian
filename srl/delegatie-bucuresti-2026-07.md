@@ -9,7 +9,7 @@
 
 - [x] **Confirmare primire factură HiSky** ✅
 - [x] **Ordin de deplasare emis** ✅
-- [ ] **Plată diurnă** (7 iulie 2026)
+- [x] **Plată diurnă** ✅ (6 Iul 2026, 402,5 RON)
 - [ ] Centralizare bonuri/facturi cazare + transport + masă
 
 ## Diurnă
