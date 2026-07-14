@@ -3,14 +3,14 @@
 **Perioada:** 8-14 Iulie 2026 (7 zile calendaristice)
 **Destinație:** București
 **Motivare:** Focus week / sesiune de lucru offsite cu echipa ZAR
-**Status:** ⏳ În pregătire
+**Status:** ✅ Finalizată
 
 ## TODO
 
 - [x] **Confirmare primire factură HiSky** ✅
 - [x] **Ordin de deplasare emis** ✅
 - [x] **Plată diurnă** ✅ (6 Iul 2026, 402,5 RON)
-- [ ] Centralizare bonuri/facturi cazare + transport + masă
+- [x] **Centralizare bonuri/facturi cazare + transport + masă** ✅ (14 Iul 2026, trimise la CEDEXPERT)
 
 ## Diurnă
 
