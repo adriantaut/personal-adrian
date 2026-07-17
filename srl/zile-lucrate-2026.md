@@ -97,7 +97,8 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
   - Delegația 2 — Cappadocia (25 Iul → 31 Iul): 5 zile lucrătoare (Lun 27 → Vin 31)
 - **Zile lucrate efectiv (Edenred):** 13
 - **Valoare tichete:** 13 × 45 = **585 RON**
-- **Raportat la contabil:** ☐
+- **Raportat la contabil:** ✅ (17 Iul 2026)
+- **Comandă Edenred:** ✅ (17 Iul 2026)
 
 ---
 
