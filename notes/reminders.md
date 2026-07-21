@@ -13,6 +13,8 @@
 | 15 Mai 2026 | Comandă Edenred - tichete masă Mai (19 × 45 = 855 RON) | ✅ |
 | 19 Iun 2026 | Raport zile lucrate Iunie → CEDEXPERT | ✅ |
 | 19 Iun 2026 | Comandă Edenred - tichete masă Iunie (21 × 45 = 945 RON) | ✅ |
+| 21 Iul 2026 | Raport zile lucrate Iulie → CEDEXPERT (13 zile) | ✅ |
+| 21 Iul 2026 | Comandă Edenred - tichete masă Iulie (13 × 45 = 585 RON) | ✅ |
 | 17 Iul 2026 | Raport zile lucrate Iulie → CEDEXPERT (13 zile, 2 delegații) | ✅ |
 | 17 Iul 2026 | Comandă Edenred - tichete masă Iulie (13 × 45 = 585 RON) | ✅ |
 | 21 Apr 2026 | Declarația Unică ANAF 2025 - depusă, recipisă primită | ✅ |
