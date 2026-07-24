@@ -3,48 +3,50 @@
 **Perioada:** 25 Iulie - 8 August 2026 (15 zile calendaristice)
 **Destinație:** Cappadocia, Turcia
 **Motivare:** Sesiune de lucru offsite cu echipa ZAR (extended)
-**Status:** ⏳ În pregătire
+**Status:** ⏳ În desfășurare
 
 ## TODO
 
-- [ ] **Plată diurnă delegație Cappadocia** (de plătit înainte de plecare — 24 Iul)
+- [x] **Plată diurnă delegație Cappadocia** ✅ (24 Iul 2026, 570 USD / 2.620,52 RON)
 - [x] **Reimbursement de la ZAR pentru biletele de avion** ✅ (primit 2 Iul 2026)
-- [ ] Ordin de deplasare
-- [ ] Centralizare bonuri cazare + transport + masă
-- [ ] Confirmare cazare
-- [ ] Confirmare bilete avion
+- [ ] **Ordin de deplasare Cappadocia → CEDEXPERT** ⏳
+- [ ] Centralizare bonuri cazare + transport + masă (după întoarcere)
+- [x] Confirmare cazare
+- [x] Confirmare bilete avion
 
-## Diurnă (externă — Turcia)
+## Diurnă externă — Turcia (HG 518/1995)
 
-> ⚠️ **Pentru delegații externe** se aplică diurnă externă, NU diurna internă RO de 57,5 RON/zi.
-> Plafon Turcia (HG 518/1995): **35 EUR/zi** neimpozabil (de verificat valoare exactă 2026 cu CEDEXPERT)
+**Valoare oficială:** **38 USD/zi** (Categoria I, personal obișnuit)
+Sursă: [HG 518/1995 - Portal legislativ](https://legislatie.just.ro/Public/DetaliiDocument/7037)
 
-**Calcul estimat (35 EUR/zi):**
+**Calcul:** 15 zile × 38 USD = **570 USD**
+
+**Conversie RON (curs BNR 24 Iul 2026: 1 USD = 4,5974 RON):** **2.620,52 RON**
 
 | Zi | Data | Diurnă |
 |----|------|--------|
-| Sâm | 25 Iul | 35 EUR |
-| Dum | 26 Iul | 35 EUR |
-| Lun | 27 Iul | 35 EUR |
-| Mar | 28 Iul | 35 EUR |
-| Mie | 29 Iul | 35 EUR |
-| Joi | 30 Iul | 35 EUR |
-| Vin | 31 Iul | 35 EUR |
-| Sâm | 1 Aug | 35 EUR |
-| Dum | 2 Aug | 35 EUR |
-| Lun | 3 Aug | 35 EUR |
-| Mar | 4 Aug | 35 EUR |
-| Mie | 5 Aug | 35 EUR |
-| Joi | 6 Aug | 35 EUR |
-| Vin | 7 Aug | 35 EUR |
-| Sâm | 8 Aug | 35 EUR |
-| **TOTAL** | **15 zile** | **525 EUR** |
+| Sâm | 25 Iul | 38 USD |
+| Dum | 26 Iul | 38 USD |
+| Lun | 27 Iul | 38 USD |
+| Mar | 28 Iul | 38 USD |
+| Mie | 29 Iul | 38 USD |
+| Joi | 30 Iul | 38 USD |
+| Vin | 31 Iul | 38 USD |
+| Sâm | 1 Aug | 38 USD |
+| Dum | 2 Aug | 38 USD |
+| Lun | 3 Aug | 38 USD |
+| Mar | 4 Aug | 38 USD |
+| Mie | 5 Aug | 38 USD |
+| Joi | 6 Aug | 38 USD |
+| Vin | 7 Aug | 38 USD |
+| Sâm | 8 Aug | 38 USD |
+| **TOTAL** | **15 zile** | **570 USD / 2.620,52 RON** |
 
 > Diurna externă se acordă pe zile calendaristice (inclusiv weekend), conform HG 518/1995.
 
 ## Note
 
-- **Diurnă externă Turcia:** plafon de verificat (estimat 35 EUR/zi în 2026)
+- **Diurnă externă Turcia 2026:** 38 USD/zi (Categoria I, per HG 518/1995)
 - **Justificare business:** Focus week / offsite team ZAR (extended)
 - **Cheltuieli decontabile:** cazare, transport (avion), masă (cu facturi/bonuri pe firmă)
 - **Bilete avion:** Reimbursement de la ZAR (nu prin firma SRL)
@@ -54,8 +56,8 @@
 
 | Tip | Sumă | Dată | Document |
 |-----|------|------|----------|
-| Transport (avion) | | | ⏳ Reimbursement ZAR |
+| Transport (avion) | | | ✅ Reimbursat de ZAR 2 Iul 2026 |
 | Cazare | | | |
 | Masă | | | |
-| Diurnă | ~525 EUR | 24 Iul 2026 | Ordin deplasare |
+| Diurnă | 2.620,52 RON (570 USD) | 24 Iul 2026 | Ordin deplasare ⏳ |
 | **TOTAL** | | | |
