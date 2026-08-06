@@ -10,7 +10,7 @@
 - [x] **Plată diurnă delegație Cappadocia** ✅ (24 Iul 2026, 570 USD / 2.620,52 RON)
 - [x] **Reimbursement de la ZAR pentru biletele de avion** ✅ (primit 2 Iul 2026)
 - [ ] **Ordin de deplasare Cappadocia → CEDEXPERT** ⏳
-- [ ] Centralizare bonuri cazare + transport + masă (după întoarcere)
+- [x] ~~Centralizare bonuri cazare + transport + masă~~ (nu e cazul — diurna acoperă tot)
 - [x] Confirmare cazare
 - [x] Confirmare bilete avion
 
