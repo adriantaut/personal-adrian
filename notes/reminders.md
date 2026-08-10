@@ -65,6 +65,8 @@
 | 4 Mar 2026 | Înscriere curs B125 - Toni Auto | ✅ |
 | 24 Apr 2026 | Plată factură Stables | ✅ |
 | - | Update CV pe LinkedIn | ⏳ |
+| - | 🎾 Padel — discută cu Petru Melniciuc | ⏳ |
+| - | 🎾 Padel — discută cu Milan Terkovics | ⏳ |
 
 ---
 
