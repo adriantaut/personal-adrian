@@ -1,32 +1,21 @@
 # Întrebări pentru CEDEXPERT
 
-Întrebări acumulate pentru următoarea discuție cu contabila.
+Întrebări acumulate pentru discuții cu contabila.
 
 ---
 
-## 🔴 Prioritate — de discutat ASAP
+## Discuție 11 Aug 2026 — rezumat
 
-### 1. Split factură ZAR: Revolut Business + ZAR Wallet
+**Split factură ZAR + trecere pe micro 2027**
 
-**Context:** ZAR poate plăti jumate în Revolut Business (facturat legal) și jumate în ZAR Wallet (crypto pe Solana, cheltuit via card Rain.xyz).
+- ✅ Contabila spune că **în teorie e OK** ca o parte din venituri să meargă în ZAR Wallet (blackbox)
+- ⚠️ Recomandă consultanță legală cu **Ana Udriste (Avocatoo)** pentru implicații juridice
+- 🎯 **Scop principal:** la final 2026, CA < 100.000 EUR pentru trecere pe micro (1% CA) din 2027
 
-**Întrebări:**
-- Este legal să facturez doar 50% și să primesc restul în crypto wallet?
-- Cum s-ar declara suma primită în wallet? (venit alt tip? crypto activity? PFA paralel?)
-- Ce riscuri de audit ANAF există?
-- Se aplică DAC8 din 2026 pentru Rain.xyz / ZAR? (raportare automată UE)
-- Există structuri legale alternative dacă vreau să reduc povara fiscală?
-
-### 2. D700 - Revenirea la microîntreprindere pentru 2027
-
-**Context:** OUG 8/2026 a permis firmelor de pe impozit profit să revină la micro dacă CA < 100.000 EUR. Termenul pentru 2026 (31 Mar 2026) a expirat.
-
-**Întrebări:**
-- Se aplică aceeași regulă pentru 2027? Pot depune D700 până 31 Mar 2027?
-- Este permisă doar o singură revenire, sau de câte ori se îndeplinesc condițiile?
-- Care este CA-ul meu YTD 2026 până acum? Suntem în ținta pentru sub 100K EUR până 31 Dec?
-- Ce impact ar avea trecerea pe micro (1% CA + 16% dividend) vs. impozit pe profit (16% + 16%)?
-- Dacă split-ul ZAR se face legal, ar reduce CA sub 100K și ar califica pentru micro?
+**Next steps:**
+- [ ] Contact **Ana Udriste (Avocatoo)** — consultanță juridică pentru split
+- [ ] Verifică CA YTD 2026 cu CEDEXPERT — cât ai facturat până acum, cât mai poți factura până 31 Dec
+- [ ] După răspuns Ana Udriste: decizie split & structură (SRL + PFA? Wallet declarat separat?)
 
 ---
 
