@@ -31,7 +31,7 @@
 | 6 Iul 2026 | Plată diurnă delegație București (402,5 RON) | ✅ |
 | 8-14 Iul 2026 | Delegație București (bonuri trimise la CEDEXPERT ✅) | ✅ |
 | 24 Iul 2026 | Plată diurnă delegație Cappadocia (570 USD / 2.620,52 RON) | ✅ |
-| - | **Ordin de deplasare Cappadocia → CEDEXPERT** | ⏳ |
+| 11 Aug 2026 | Ordin de deplasare Cappadocia → CEDEXPERT | ✅ |
 | **25 Iul - 8 Aug 2026** | **Delegație Cappadocia** (vezi `srl/delegatie-cappadocia-2026-07.md`) | ⏳ |
 | 2 Iul 2026 | Reimbursement ZAR bilete avion Cappadocia - primit ✅ | ✅ |
 

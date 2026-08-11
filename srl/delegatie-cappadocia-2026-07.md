@@ -3,13 +3,13 @@
 **Perioada:** 25 Iulie - 8 August 2026 (15 zile calendaristice)
 **Destinație:** Cappadocia, Turcia
 **Motivare:** Sesiune de lucru offsite cu echipa ZAR (extended)
-**Status:** ⏳ În desfășurare
+**Status:** ✅ Finalizată
 
 ## TODO
 
 - [x] **Plată diurnă delegație Cappadocia** ✅ (24 Iul 2026, 570 USD / 2.620,52 RON)
 - [x] **Reimbursement de la ZAR pentru biletele de avion** ✅ (primit 2 Iul 2026)
-- [ ] **Ordin de deplasare Cappadocia → CEDEXPERT** ⏳
+- [x] **Ordin de deplasare Cappadocia → CEDEXPERT** ✅ (11 Aug 2026)
 - [x] ~~Centralizare bonuri cazare + transport + masă~~ (nu e cazul — diurna acoperă tot)
 - [x] Confirmare cazare
 - [x] Confirmare bilete avion
