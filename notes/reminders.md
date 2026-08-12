@@ -70,7 +70,7 @@
 | - | Update CV pe LinkedIn | ⏳ |
 | - | 🎾 Padel — discută cu Petru Melniciuc | ⏳ |
 | - | 🎾 Padel — discută cu Milan Terkovics | ⏳ |
-| **31 Aug 2026** | 💪 **BFC baseline measurement** (DEXA / smart scale / calipers) — vezi `personal/bfc-2026.md` | ⏳ |
+| **13 Aug 2026, 16:00** | 💪 **DEXA scan baseline BFC @ MedEndo Center** — vezi `personal/bfc-2026.md` | 🔴 |
 | **1 Sep 2026** | 💪 BFC start — submit baseline to Sebastian | ⏳ |
 | **31 Oct 2026** | 💪 BFC mid-point check-in measurement | ⏳ |
 | **1 Ian 2027** | 💪 BFC final measurement + submit | ⏳ |
