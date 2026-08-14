@@ -4,6 +4,24 @@
 
 ---
 
+## Răspunsuri primite 14 Aug 2026 (via email)
+
+**Întrebări trimise:** plafon micro 2027, ce se ia în calcul (CA vs. încasări), curs valutar
+
+**Răspunsuri:**
+
+1. **La CA se iau în calcul facturile emise în cursul anului 2026** — fără diferenţe de curs (confirmat cu Alexandra)
+2. **Cursul valutar de conversie** = cel de la **31.12.2026** (NU 31.12.2025 cum crezusem) — nu îl ştim decât în primele zile din ianuarie 2027
+3. **CA la 31.07.2026:** 398.528 lei (confirmat cu SmartBill)
+4. **Recomandare CEDEXPERT:** buffer de **5.000-10.000 lei sub plafonul limită** (100.000 EUR × 5,2... = ~520.000 RON)
+
+**Implicaţii:**
+- Target CA final 2026 ≤ **510.000-515.000 RON** (cu buffer)
+- Rămas de facturat (Aug-Dec): ~111.500-116.500 RON (5 luni)
+- **Max ~22-23K RON/lună** pentru siguranţă
+
+---
+
 ## Discuție 11 Aug 2026 — rezumat
 
 **Split factură ZAR + trecere pe micro 2027**

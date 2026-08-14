@@ -11,7 +11,8 @@
 | **25 ale fiecărei luni** | **Factura pentru ZAR** (ultima: Iulie 2026 ✅ 24 Iul) | 🔁 |
 | ✅ 11 Aug 2026 | Discuție CEDEXPERT: aprobare tehnică, redirect la avocat | ✅ |
 | 🔴 **ASAP** | **Contact Ana Udriste (Avocatoo)** — consultanță juridică split ZAR (vezi `srl/intrebari-ana-udriste.md`) | ⏳ |
-| 🎯 **Q4 2026** | **Monitor CA YTD** — target < 100K EUR până 31 Dec pentru micro 2027 | ⏳ |
+| 🎯 **Q4 2026** | **Monitor CA YTD** — target ≤ 510-515K RON (100K EUR × 5,2 - buffer 5-10K conform CEDEXPERT) | ⏳ |
+| 14 Aug 2026 | ✅ Confirmări CEDEXPERT: CA = facturi emise, curs 31.12.2026 (necunoscut), buffer recomandat 5-10K RON | ✅ |
 | 📅 **31 Mar 2027** | **Depunere D700** — trecere pe micro (dacă CA 2026 < 100K EUR) | ⏳ |
 | 15 Mai 2026 | Raport zile lucrate Mai → CEDEXPERT | ✅ |
 | 15 Mai 2026 | Comandă Edenred - tichete masă Mai (19 × 45 = 855 RON) | ✅ |
@@ -79,7 +80,9 @@ Sep 1, 2026 → Jan 1, 2027 · ZAR company challenge · plan detaliat: `personal
 
 | Data | Reminder | Status |
 |------|----------|--------|
-| **13 Aug 2026, 16:00** | 💪 DEXA scan baseline @ MedEndo Center | 🔴 |
+| ~~13 Aug 2026, 16:00~~ | ~~DEXA scan MedEndo~~ — replanificat | ❌ |
+| **23 Aug 2026** | 📞 Reminder: programează DEXA pentru ultima săptămână din august | 🔴 |
+| **24-31 Aug 2026** | 💪 DEXA scan baseline @ MedEndo Center | ⏳ |
 | **1 Sep 2026** | 💪 Challenge start — submit baseline to Sebastian | ⏳ |
 | **31 Oct 2026** | 💪 Mid-point check-in measurement | ⏳ |
 | **1 Ian 2027** | 💪 Final measurement + submit | ⏳ |
