@@ -72,6 +72,7 @@
 | - | Update CV pe LinkedIn | ⏳ |
 | - | 🎾 Padel — discută cu Petru Melniciuc | ⏳ |
 | - | 🎾 Padel — discută cu Milan Terkovics | ⏳ |
+| **ASAP** | ✈️ **Cazare Londra — ASOT** (13-16 Noiembrie 2026) | 🔴 |
 
 ---
 
