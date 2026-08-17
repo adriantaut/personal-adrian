@@ -1,9 +1,15 @@
-# Delegație Londra — 13-17/18 Noiembrie 2026
+# Delegație Londra — 13-18 Noiembrie 2026
 
-**Perioada:** 13 Noiembrie → 17 sau 18 Noiembrie 2026 (5-6 zile calendaristice)
+**Perioada:** 13 → 18 Noiembrie 2026 (6 zile calendaristice)
 **Destinație:** Londra, Marea Britanie
-**Motivare:** **Solana Breakpoint 2026** (conferință tehnică flagship pentru ecosistemul Solana, relevantă direct pentru clientul principal ZAR)
+**Motivare:** **Solana Breakpoint 2026** — vizită de lucru / conferință tehnică flagship pentru ecosistemul Solana (relevantă direct pentru clientul principal ZAR)
 **Status:** ⏳ În pregătire
+
+## Structura delegației
+
+- **Core eveniment (Breakpoint):** 15-17 Nov — justificarea principală de business
+- **Extindere:** 13-14 Nov (înainte) + 18 Nov (după) — declarate ca **vizită de lucru** (networking, întâlniri ecosistem Solana, follow-up)
+- Întreaga perioadă 13-18 Nov = delegație de business documentată
 
 ---
 
@@ -55,20 +61,7 @@
 
 Diurna se acordă pe zile calendaristice (inclusiv weekend).
 
-### Scenariu A: 13-17 Nov (5 zile)
-
-| Zi | Data | Diurnă |
-|----|------|--------|
-| Vin | 13 Nov | 40 GBP |
-| Sâm | 14 Nov | 40 GBP |
-| Dum | 15 Nov | 40 GBP |
-| Lun | 16 Nov | 40 GBP |
-| Mar | 17 Nov | 40 GBP |
-| **TOTAL** | **5 zile** | **200 GBP** |
-
-Echivalent RON (curs BNR ~6,14): **~1.230 RON**
-
-### Scenariu B: 13-18 Nov (6 zile) — recomandat
+### Calcul 13-18 Nov (6 zile)
 
 | Zi | Data | Diurnă |
 |----|------|--------|

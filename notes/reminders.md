@@ -72,7 +72,7 @@
 | - | Update CV pe LinkedIn | ⏳ |
 | 17 Aug 2026 | 🎾 Padel — discutat cu Petru Melniciuc | ✅ |
 | - | 🎾 Padel — discută cu Milan Terkovics | ⏳ |
-| **13-17/18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
+| **13-18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
 | **ASAP** | 🎟️ Cumpără bilet Solana Breakpoint ($250-450) | 🔴 |
 | **ASAP** | 🏨 Extinde rezervare Hilton la 4-5 nopți (13→17 sau 18 Nov) | 🔴 |
 | **12 Nov 2026** | 💷 Plată diurnă delegație Londra (~200-240 GBP) | ⏳ |
