@@ -40,11 +40,11 @@
 
 ### Pre-delegație
 
-- [ ] **Cumpără bilet Breakpoint** (Developer $250 dacă eligibil, altfel General $450)
-- [ ] **Extinde rezervare Hilton** de la 2 nopți (13-15) la 4-5 nopți (13-17 sau 13-18)
-- [ ] **Cere factură Hilton** pe DevOps Box SRL (vezi email template în chat)
-- [ ] **Bilet avion** (dus-întors LON) — verifică integrare cu Cappadocia rules
-- [ ] **Ordin de deplasare** intern SRL
+- [ ] **Bilet Breakpoint** — cumpără (reimbursement de la ZAR)
+- [ ] **Zbor avion** RO ↔ LON — cumpără pe SRL (factură pe firmă)
+- [ ] **Cere factură Hilton** pe DevOps Box SRL (vezi email template în chat) — SRL suportă
+- [ ] Clarifică split cazare: câte nopți Hilton (SRL) vs. rest (ZAR)
+- [ ] **Ordin de deplasare** intern SRL (13-18 Nov)
 - [ ] **Plată diurnă** (înainte de plecare — 12 Nov)
 
 ### Post-delegație
@@ -75,17 +75,25 @@ Diurna se acordă pe zile calendaristice (inclusiv weekend).
 
 Echivalent RON (curs BNR ~6,14): **~1.475 RON**
 
-## Cheltuieli estimate (buget)
+## Cheltuieli — cine suportă ce
 
-| Tip | Sumă estimată | Sursă |
-|-----|---------------|-------|
-| Bilet Breakpoint | $250-450 | Luma / Solana |
-| Cazare Hilton (4-5 nopți) | £600-1.000 | Hilton |
-| Transport (avion RO ↔ LON) | £150-300 | Wizz/Ryanair/BA |
-| Transport local (Oyster/CTL) | £30-50 | TfL |
-| Masă | acoperit din diurnă | — |
-| Diurnă | 200-240 GBP | plată din firmă |
-| **TOTAL** | **~£1.200-2.000** | |
+### 🏢 DevOps Box SRL (deductibil pe firmă)
+
+| Tip | Sumă estimată | Document |
+|-----|---------------|----------|
+| **Zbor avion RO ↔ LON** | £150-300 | factură pe SRL |
+| **Cazare Hilton** | £[X] nopți | factură pe SRL (vezi email template) |
+| Diurnă externă (240 GBP) | ~1.475 RON | ordin deplasare |
+| Transport local (Oyster/TfL) | £30-50 | bonuri |
+
+### 🟣 ZAR (decontat de client — reimbursement)
+
+| Tip | Sumă estimată | Note |
+|-----|---------------|------|
+| **Bilet Solana Breakpoint** | $250-450 | reimbursement ZAR (ca la biletele Cappadocia) |
+| **Restul cazării** (non-Hilton) | £[X] | reimbursement ZAR |
+
+> ⚠️ De clarificat: "restul cazării" = nopțile din afara Hilton? (dacă schimbi hotelul pe parcurs, sau nopți suplimentare). Confirmă split-ul exact al nopților Hilton vs. altă cazare.
 
 ## Note
 
