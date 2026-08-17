@@ -70,6 +70,29 @@ Mecanism propus: split-ul plății de la ZAR între:
 
 ---
 
+## Procedura confirmată de ZAR (Adeel, finance) — 18 Aug 2026
+
+Adeel a confirmat structura:
+- **Două facturi** separate, ambele către **GADL Pte Ltd** (entitatea ZAR, Singapore)
+- **Ambele emise de DEVOPS BOX SRL** (nu una pe SRL + una pe persoană fizică — contractul ZAR e pe numele SRL)
+- Aceleași billing details pe ambele
+- Factura 1 → plată în Revolut Business
+- Factura 2 → livrare în ZAR Wallet
+- Context anterior: CFO ZAR a spus că facturile îi trebuie "doar pt informația lui, nu sunt înregistrate nicăieri"
+
+## 🚨 PROBLEMA CRITICĂ de clarificat cu Ana Udriste
+
+**Ambele facturi poartă numele DEVOPS BOX SRL → în teorie ambele sunt venit al SRL-ului.**
+
+CEDEXPERT a confirmat: **CA = facturile EMISE în 2026.** Dacă emit 2 facturi de la DEVOPS BOX SRL, logic **ambele contează la plafonul micro** → planul de a rămâne sub 100K EUR NU funcţionează dacă ambele sunt facturi oficiale ale SRL.
+
+**Întrebări esenţiale pentru Ana:**
+1. Dacă factura #2 (wallet) e emisă de DEVOPS BOX SRL dar **NU e înregistrată** în contabilitatea mea RO (SmartBill / e-Factura / jurnal vânzări) — care e statutul ei juridic?
+2. Există riscul ca ANAF, la un cross-check cu GADL/ZAR, să vadă factura #2 ca venit nedeclarat al SRL → evaziune?
+3. Cum se împacă "factura emisă de SRL" cu "venit personal neimpozabil în wallet"? Sunt contradictorii?
+4. E mai sigur ca factura #2 să NU poarte numele SRL (ex: document intern ZAR, nu factură fiscală)? Dar Adeel spune că trebuie pe SRL (contractul e pe SRL)...
+5. Care e forma corectă a documentului #2 ca să: (a) satisfacă nevoia internă ZAR, (b) NU conteze la CA-ul SRL, (c) fie apărabilă la audit?
+
 ## Formatare notițe după discuție
 
 - **Data consultanței:**
