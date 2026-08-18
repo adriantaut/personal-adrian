@@ -40,7 +40,7 @@
 
 ### Pre-delegație
 
-- [ ] **Bilet Breakpoint** — cumpără (reimbursement de la ZAR)
+- [x] **Bilet Breakpoint** ✅ — primit gratis de la ZAR
 - [ ] **Zbor avion** RO ↔ LON — cumpără pe SRL (factură pe firmă)
 - [ ] **Cere factură Hilton** pe DevOps Box SRL (vezi email template în chat) — SRL suportă
 - [ ] Clarifică split cazare: câte nopți Hilton (SRL) vs. rest (ZAR)
@@ -86,12 +86,12 @@ Echivalent RON (curs BNR ~6,14): **~1.475 RON**
 | Diurnă externă (240 GBP) | ~1.475 RON | ordin deplasare |
 | Transport local (Oyster/TfL) | £30-50 | bonuri |
 
-### 🟣 ZAR (decontat de client — reimbursement)
+### 🟣 ZAR (suportat de client)
 
-| Tip | Sumă estimată | Note |
-|-----|---------------|------|
-| **Bilet Solana Breakpoint** | $250-450 | reimbursement ZAR (ca la biletele Cappadocia) |
-| **Restul cazării** (non-Hilton) | £[X] | reimbursement ZAR |
+| Tip | Sumă | Note |
+|-----|------|------|
+| **Bilet Solana Breakpoint** | gratis ✅ | oferit de ZAR |
+| **Restul cazării** (non-Hilton) | £[X] | suportat de ZAR |
 
 > ⚠️ De clarificat: "restul cazării" = nopțile din afara Hilton? (dacă schimbi hotelul pe parcurs, sau nopți suplimentare). Confirmă split-ul exact al nopților Hilton vs. altă cazare.
 
