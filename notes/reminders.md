@@ -25,7 +25,7 @@
 | 17 Iul 2026 | Comandă Edenred - tichete masă Iulie (13 × 45 = 585 RON) | ✅ |
 | 21 Apr 2026 | Declarația Unică ANAF 2025 - depusă, recipisă primită | ✅ |
 | 22 Apr 2026 | Plată CASS dividende: 9.720 RON - plătit pe ghiseul.ro | ✅ |
-| **31 Mar 2026** | **Sponsorizare ONG Rotary din impozit** (trimestrial) | ⏳ |
+| Q4 2026 | Sponsorizare ONG Rotary din impozit (Q3 amânat — reluăm în Q4) | ⏳ |
 | 19 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ✅ |
 | 27 Mar 2026 | Decide tichete cadou Paște (300 lei) - cadouri în bani, tabel nominal creat | ✅ |
 | 14 Apr 2026 | Trimite la CEDEXPERT: pontaj Aprilie + Tabel Paște | ✅ |
