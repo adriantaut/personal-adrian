@@ -59,11 +59,10 @@
 ### Ale mele (până Vineri 21 Aug)
 - [ ] **Decide** cohorta Noiembrie (program full) și/sau mentorat standalone
 - [ ] **Trimite lui Cosmin** un sample de clip AI video/character (e curios, posibil beta tester)
-- [ ] **Dă contactul lui Cosmin** prietenului cu produs CFO virtual
-- [ ] **Dă lui Cosmin** contactul prietenului (produs CFO virtual, vinde la SME owners, cold-call heavy)
+- [x] **Schimb contacte** Cosmin ↔ prietenul cu produs CFO virtual ✅ (19 Aug 2026)
 
 ### Ale lui Cosmin
-- [ ] Contact cu prietenul meu (CFO virtual) săptămâna asta, după ce primește contactul
+- [ ] Contact cu prietenul meu (CFO virtual) săptămâna asta
 
 ---
 
