@@ -78,6 +78,19 @@
 
 ---
 
+## 🚀 VSFA / Highflyers (RBL Mentorship)
+
+Program antreprenoriat 12 luni · contact Cosmin (RBL) · detalii: `projects/vsfa-highflyers-mentorship.md`
+
+| Data | Reminder | Status |
+|------|----------|--------|
+| **Vineri 21 Aug 2026** | 🎯 **DECIDE** — cohorta Noiembrie (full) și/sau mentorat standalone | 🔴 |
+| **Vineri 21 Aug 2026** | Trimite lui Cosmin sample clip AI video/character | 🔴 |
+| **Săpt. asta** | Dă contactul lui Cosmin ↔ prietenul cu produs CFO virtual | 🔴 |
+| Noiembrie 2026 | Cohortă target (dacă intru) — 300 EUR depozit rezervare | ⏳ |
+
+---
+
 ## 💪 BFC (Body Fat Challenge)
 
 Sep 1, 2026 → Jan 1, 2027 · ZAR company challenge · plan detaliat: `personal/bfc-2026.md`
