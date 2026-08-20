@@ -72,6 +72,7 @@
 | - | Update CV pe LinkedIn | ⏳ |
 | 17 Aug 2026 | 🎾 Padel — discutat cu Petru Melniciuc | ✅ |
 | - | 🎾 Padel — discută cu Milan Terkovics | ⏳ |
+| **Săpt. asta (24-30 Aug)** | 🏠 Calcule apartament Manu | 🔴 |
 | **13-18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
 | 18 Aug 2026 | 🎟️ Bilet Solana Breakpoint — primit gratis de la ZAR | ✅ |
 | **12 Nov 2026** | 💷 Plată diurnă delegație Londra (~200-240 GBP) | ⏳ |
