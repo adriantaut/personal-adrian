@@ -14,10 +14,18 @@ Verifică ce am de făcut azi și în perioada următoare.
 3. **Rotary Opera**
    - Citește `rotary/educatio.md` - verifică TODO-uri și timeline
 
-4. **Output**
-   - Prezintă un sumar scurt și acționabil
-   - Evidențiază deadline-urile urgente (< 7 zile)
-   - Listează TODO-urile în ordinea priorității
+4. **BFC (Body Fat Challenge)**
+   - Citește ultimele postări din canalul Mattermost `bfc-participants` (channel id `1wesw8dcn78u9md5chatwom46y`) via mm-mcp:
+     `ReadMcpResourceTool(server="mm-mcp", uri="agora:///channels/1wesw8dcn78u9md5chatwom46y/posts")`
+   - Evidențiază update-uri noi (de la ultimul briefing): anunțuri organizator, deadline-uri măsurători, provocări, orice acțiune necesară din partea mea
+   - Corelează cu milestone-urile din `personal/bfc-2026.md`
+
+## Output
+
+- Prezintă un sumar scurt și acționabil
+- Evidențiază deadline-urile urgente (< 7 zile)
+- Listează TODO-urile în ordinea priorității
+- La BFC: menționează doar update-uri noi/relevante din canal (nu re-lista tot istoricul)
 
 ## Format Output
 
@@ -30,6 +38,10 @@ Verifică ce am de făcut azi și în perioada următoare.
 
 ### 🔵 Rotary Opera
 - [ ] Task de făcut (deadline: DATA)
+
+### 💪 BFC
+- Update nou din canal: ...
+- [ ] Task/deadline BFC
 
 ### ⚠️ Urgente (< 7 zile)
 - ...
