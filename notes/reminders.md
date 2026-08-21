@@ -106,7 +106,7 @@ Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu D
 | 21 Aug 2026 | Completat locația în spreadsheet BFC | ✅ |
 | 21 Aug 2026 | Sign up BFC | ✅ |
 | **🔴 până 31 Aug** | ⚠️ Confirmă cu Sebastian că **DEXA** e acceptat (era nerezolvat) | 🔴 |
-| **🔴 până 31 Aug** | Comandă cântar Vitality Lab Smart (240 RON, rambursat ~$30) | 🔴 |
+| 21 Aug 2026 | Comandat cântar Vitality Lab Smart (220 RON, rambursat ~$30) | ✅ |
 | **🔴 până 31 Aug** | Programează DEXA deschidere (1-7 Sep) ȘI finală (25-31 Dec) — aceeași clinică/aparat | 🔴 |
 | Înainte de 1 Sep | 📊 Copie spreadsheet caloric BFC + cifrele tale (RMR/TEE/macro) | ⏳ |
 | Înainte de 1 Sep | 🏋️ Testează baseline fitness: flotări/tracțiuni (2 min) + 1 milă | ⏳ |
