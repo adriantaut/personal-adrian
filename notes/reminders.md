@@ -10,7 +10,7 @@
 | 16 Apr 2026 | Actualizare cod CAEN la Rev3 - confirmare primită ONRC | ✅ |
 | **25 ale fiecărei luni** | **Factura pentru ZAR** (ultima: Iulie 2026 ✅ 24 Iul) | 🔁 |
 | **Lunar (înainte de stat)** | 🔁 **Raport zile lucrate → CEDEXPERT** + **Comandă Edenred** | 🔁 |
-| **August 2026** | 🟡 Pontaj August (16 zile) + Comandă Edenred (720 RON) | ⏳ |
+| 21 Aug 2026 | Pontaj August (16 zile) → CEDEXPERT + Comandă Edenred (720 RON) | ✅ |
 | ✅ 11 Aug 2026 | Discuție CEDEXPERT: aprobare tehnică, redirect la avocat | ✅ |
 | 🔴 **ASAP** | **Contact Ana Udriste (Avocatoo)** — consultanță juridică split ZAR (vezi `srl/intrebari-ana-udriste.md`) | ⏳ |
 | **Lun 17 Aug 2026** | 💬 Scrie lui Adeel despre împărțirea facturilor la ZAR (SRL / wallet) | 🔴 |
