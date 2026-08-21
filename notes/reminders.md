@@ -99,17 +99,21 @@ Program antreprenoriat 12 luni · contact Cosmin (RBL) · detalii: `projects/vsf
 
 Sep 1, 2026 → Jan 1, 2027 · ZAR company challenge · plan detaliat: `personal/bfc-2026.md`
 
+Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu DEXA)
+
 | Data | Reminder | Status |
 |------|----------|--------|
-| ~~13 Aug 2026, 16:00~~ | ~~DEXA scan MedEndo~~ — replanificat | ❌ |
-| 21 Aug 2026 | Completat locația în spreadsheet BFC (echipament per geografie) | ✅ |
-| **23 Aug 2026** | 📞 Reminder: programează DEXA pentru ultima săptămână din august | 🔴 |
-| **Înainte de 1 Sep** | 📊 Copie spreadsheet caloric BFC + pune cifrele tale (RMR/TEE/macro) | ⏳ |
-| **24-31 Aug 2026** | 💪 DEXA scan baseline @ MedEndo Center | ⏳ |
-| **1 Sep 2026** | 💪 Challenge start — submit baseline to Sebastian | ⏳ |
-| **31 Oct 2026** | 💪 Mid-point check-in measurement | ⏳ |
-| **1 Ian 2027** | 💪 Final measurement + submit | ⏳ |
-| First week Jan 2027 | 💪 Results + prizes announced | — |
+| ~~DEXA MedEndo~~ | ❌ ANULAT — provocarea cere **InBody**, nu DEXA | ❌ |
+| 21 Aug 2026 | Completat locația în spreadsheet BFC | ✅ |
+| **🔴 până 31 Aug** | **Sign up BFC** (înscrierea se închide 31 Aug) | 🔴 |
+| **🔴 până 31 Aug** | Comandă cântar smart bioimpedanță ($15-30, rambursat firmă) + cântar mâncare ($12) | 🔴 |
+| **🔴 până 31 Aug** | Găsește InBody + programează scanare deschidere (1-7 Sep) ȘI scanare finală (25-31 Dec) | 🔴 |
+| Înainte de 1 Sep | 📊 Copie spreadsheet caloric BFC + cifrele tale (RMR/TEE/macro) | ⏳ |
+| Înainte de 1 Sep | 🏋️ Testează baseline fitness: flotări/tracțiuni (2 min) + 1 milă | ⏳ |
+| **1-7 Sep 2026** | 💪 Scanare InBody deschidere (mergi DEVREME) | ⏳ |
+| **25-31 Oct 2026** | 💪 Scanare InBody midterm (checkpoint, nu se punctează) | ⏳ |
+| **25-31 Dec 2026** | 💪 Scanare InBody finală (mergi TÂRZIU) + probele fitness filmate | ⏳ |
+| Prima săpt. Ian 2027 | 💪 Rezultate + premii | — |
 
 ---
 
