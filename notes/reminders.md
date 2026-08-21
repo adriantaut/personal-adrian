@@ -105,7 +105,7 @@ Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu D
 |------|----------|--------|
 | ~~DEXA MedEndo~~ | ❌ ANULAT — provocarea cere **InBody**, nu DEXA | ❌ |
 | 21 Aug 2026 | Completat locația în spreadsheet BFC | ✅ |
-| **🔴 până 31 Aug** | **Sign up BFC** (înscrierea se închide 31 Aug) | 🔴 |
+| 21 Aug 2026 | Sign up BFC | ✅ |
 | **🔴 până 31 Aug** | Comandă cântar smart bioimpedanță ($15-30, rambursat firmă) + cântar mâncare ($12) | 🔴 |
 | **🔴 până 31 Aug** | Găsește InBody + programează scanare deschidere (1-7 Sep) ȘI scanare finală (25-31 Dec) | 🔴 |
 | Înainte de 1 Sep | 📊 Copie spreadsheet caloric BFC + cifrele tale (RMR/TEE/macro) | ⏳ |
