@@ -102,7 +102,9 @@ Sep 1, 2026 → Jan 1, 2027 · ZAR company challenge · plan detaliat: `personal
 | Data | Reminder | Status |
 |------|----------|--------|
 | ~~13 Aug 2026, 16:00~~ | ~~DEXA scan MedEndo~~ — replanificat | ❌ |
+| 21 Aug 2026 | Completat locația în spreadsheet BFC (echipament per geografie) | ✅ |
 | **23 Aug 2026** | 📞 Reminder: programează DEXA pentru ultima săptămână din august | 🔴 |
+| **Înainte de 1 Sep** | 📊 Copie spreadsheet caloric BFC + pune cifrele tale (RMR/TEE/macro) | ⏳ |
 | **24-31 Aug 2026** | 💪 DEXA scan baseline @ MedEndo Center | ⏳ |
 | **1 Sep 2026** | 💪 Challenge start — submit baseline to Sebastian | ⏳ |
 | **31 Oct 2026** | 💪 Mid-point check-in measurement | ⏳ |
