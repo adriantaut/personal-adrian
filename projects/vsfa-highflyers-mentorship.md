@@ -3,7 +3,7 @@
 **Contact:** Cosmin (RBL — Romanian Business Leaders)
 **Discuție inițială:** 19 Aug 2026 (miercuri)
 **Deadline decizie:** **Vineri 21 Aug 2026** (regula lor de 48h de la call)
-**Status:** ⏳ De decis
+**Status:** ❌ AMÂNAT — decizie 21 Aug 2026: nu intru acum (fără produs lansat la X>0). Reia când am un produs de scalat.
 
 ---
 

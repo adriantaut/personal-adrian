@@ -88,10 +88,10 @@ Program antreprenoriat 12 luni · contact Cosmin (RBL) · detalii: `projects/vsf
 
 | Data | Reminder | Status |
 |------|----------|--------|
-| **Vineri 21 Aug 2026** | 🎯 **DECIDE** — cohorta Noiembrie (full) și/sau mentorat standalone | 🔴 |
+| 21 Aug 2026 | 🎯 DECIZIE: **amânare** — nu intru acum (fără produs lansat la X>0) | ✅ |
 | 20 Aug 2026 | Trimite lui Cosmin sample clip AI video/character | ✅ |
 | 19 Aug 2026 | Schimb contacte Cosmin ↔ prietenul cu produs CFO virtual | ✅ |
-| Noiembrie 2026 | Cohortă target (dacă intru) — 300 EUR depozit rezervare | ⏳ |
+| Când lansez un produs | Reia discuția VSFA (cohortă viitoare, când am X>0 de scalat) | ⏳ |
 
 ---
 
