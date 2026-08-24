@@ -107,7 +107,7 @@ Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu D
 | 21 Aug 2026 | Sign up BFC | ✅ |
 | 24 Aug 2026 | ⚠️ Sebastian: **DEXA NU se punctează** — scorul e pe InBody (același aparat pt toți). DEXA ok doar personal | ✅ |
 | 21 Aug 2026 | Comandat cântar Vitality Lab Smart (220 RON, rambursat ~$30) | ✅ |
-| **🔴 până 31 Aug** | Găsește **InBody în Cluj** + programează deschidere (1-7 Sep) ȘI finală (25-31 Dec) — pt SCOR | 🔴 |
+| **🔴 până 31 Aug** | Reia apel **Synobis Medical** (InBody 770, 150 RON, 0725 946 789) — programează deschidere (1-7 Sep) + finală (25-31 Dec) | 🔴 |
 | Opțional | DEXA personal (pt tine, nu pt competiție) | ⏳ |
 | Înainte de 1 Sep | 📊 Copie spreadsheet caloric BFC + cifrele tale (RMR/TEE/macro) | ⏳ |
 | Înainte de 1 Sep | 🏋️ Testează baseline fitness: flotări/tracțiuni (2 min) + 1 milă | ⏳ |
