@@ -105,14 +105,15 @@ Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu D
 |------|----------|--------|
 | 21 Aug 2026 | Completat locația în spreadsheet BFC | ✅ |
 | 21 Aug 2026 | Sign up BFC | ✅ |
-| 21 Aug 2026 | ⚠️ Întrebat pe canal dacă DEXA e acceptat — **aștept răspuns Sebastian** | ⏳ |
+| 24 Aug 2026 | ⚠️ Sebastian: **DEXA NU se punctează** — scorul e pe InBody (același aparat pt toți). DEXA ok doar personal | ✅ |
 | 21 Aug 2026 | Comandat cântar Vitality Lab Smart (220 RON, rambursat ~$30) | ✅ |
-| **🔴 până 31 Aug** | Programează DEXA deschidere (1-7 Sep) ȘI finală (25-31 Dec) — aceeași clinică/aparat | 🔴 |
+| **🔴 până 31 Aug** | Găsește **InBody în Cluj** + programează deschidere (1-7 Sep) ȘI finală (25-31 Dec) — pt SCOR | 🔴 |
+| Opțional | DEXA personal (pt tine, nu pt competiție) | ⏳ |
 | Înainte de 1 Sep | 📊 Copie spreadsheet caloric BFC + cifrele tale (RMR/TEE/macro) | ⏳ |
 | Înainte de 1 Sep | 🏋️ Testează baseline fitness: flotări/tracțiuni (2 min) + 1 milă | ⏳ |
-| **1-7 Sep 2026** | 💪 Scanare DEXA deschidere (mergi DEVREME) | ⏳ |
-| **25-31 Oct 2026** | 💪 Scanare DEXA midterm (checkpoint, nu se punctează) | ⏳ |
-| **25-31 Dec 2026** | 💪 Scanare DEXA finală (mergi TÂRZIU) + probele fitness filmate | ⏳ |
+| **1-7 Sep 2026** | 💪 Scanare InBody deschidere (mergi DEVREME) | ⏳ |
+| **25-31 Oct 2026** | 💪 Scanare InBody midterm (checkpoint, nu se punctează) | ⏳ |
+| **25-31 Dec 2026** | 💪 Scanare InBody finală (mergi TÂRZIU) + probele fitness filmate | ⏳ |
 | Prima săpt. Ian 2027 | 💪 Rezultate + premii | — |
 
 ---
