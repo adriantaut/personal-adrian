@@ -12,8 +12,8 @@
 | **Lunar (înainte de stat)** | 🔁 **Raport zile lucrate → CEDEXPERT** + **Comandă Edenred** | 🔁 |
 | 21 Aug 2026 | Pontaj August (16 zile) → CEDEXPERT + Comandă Edenred (720 RON) | ✅ |
 | ✅ 11 Aug 2026 | Discuție CEDEXPERT: aprobare tehnică, redirect la avocat | ✅ |
-| 🔴 **ASAP** | **Contact Ana Udriste (Avocatoo)** — consultanță juridică split ZAR (vezi `srl/intrebari-ana-udriste.md`) | ⏳ |
-| **Lun 17 Aug 2026** | 💬 Scrie lui Adeel despre împărțirea facturilor la ZAR (SRL / wallet) | 🔴 |
+| 24 Aug 2026 | ✅ Ana Udriste: OK pt 2 facturi ZAR (1 oficială Revolut + 1 neoficială Wallet, în afara CA) | ✅ |
+| 17 Aug 2026 | Discuție Adeel: 2 facturi, ambele pe DEVOPS BOX SRL, către GADL Pte Ltd | ✅ |
 | 🎯 **Q4 2026** | **Monitor CA YTD** — target ≤ 510-515K RON (100K EUR × 5,2 - buffer 5-10K conform CEDEXPERT) | ⏳ |
 | 14 Aug 2026 | ✅ Confirmări CEDEXPERT: CA = facturi emise, curs 31.12.2026 (necunoscut), buffer recomandat 5-10K RON | ✅ |
 | 📅 **31 Mar 2027** | **Depunere D700** — trecere pe micro (dacă CA 2026 < 100K EUR) | ⏳ |

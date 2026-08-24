@@ -4,7 +4,7 @@
 
 **Contact:** Ana Udriste, Avocatoo (https://avocatoo.ro)
 
-**Status:** ⏳ De contactat
+**Status:** ✅ Rezolvat (24 Aug 2026) — decizie: 2 facturi la ZAR, una oficială (Revolut Business, în contabilitate/CA), una neoficială (ZAR Wallet, în afara CA-ului SRL). Confirmat legal cu Ana Udriste.
 
 ---
 
