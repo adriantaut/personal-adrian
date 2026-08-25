@@ -109,7 +109,7 @@ Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu D
 | 21 Aug 2026 | Comandat cântar Vitality Lab Smart (220 RON, rambursat ~$30) | ✅ |
 | **Joi 27 Aug, 16:30** | 💪 Scanare InBody (Synobis) — baseline | 🔴 |
 | **până 31 Aug** | Programează și scanarea InBody finală (25-31 Dec) la Synobis | 🔴 |
-| Opțional | DEXA personal (pt tine, nu pt competiție) | ⏳ |
+| **Joi 3 Sep, 17:30** | 🩻 DEXA personal @ MedEndo (viscerală + oase, nu pt competiție) | 🔴 |
 | Înainte de 1 Sep | 📊 Copie spreadsheet caloric BFC + cifrele tale (RMR/TEE/macro) | ⏳ |
 | Înainte de 1 Sep | 🏋️ Testează baseline fitness: flotări/tracțiuni (2 min) + 1 milă | ⏳ |
 | **1-7 Sep 2026** | 💪 Scanare InBody deschidere (mergi DEVREME) | ⏳ |
