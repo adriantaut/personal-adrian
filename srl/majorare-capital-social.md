@@ -2,7 +2,7 @@
 
 **Notificare CEDEXPERT:** 1 Sep 2026
 **Termen limită:** **31 Decembrie 2026** (recomandat mai devreme)
-**Status:** 🔴 De făcut
+**Status:** 🔴 ASAP — depunere online (am semnătură electronică calificată)
 
 ---
 
