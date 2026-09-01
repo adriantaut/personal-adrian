@@ -42,60 +42,50 @@ Facilitatea 9% prelungită până 30 Sep 2026, DAR **apartamentul ROW NU se cali
 
 ---
 
-## Apartament nou ROW
+## Ofertă dezvoltator (Cristiana Popovici Zenia — 1 Sep 2026)
 
-- 73,5 mp util + 16 terasă + parcare
-- Preț site: **211.500 EUR + TVA** (fără discount)
-- Calcul pe mp utilă (agreat)
+**2 opțiuni de apartament** în blocul ROW, swap deja aplicat de dezvoltator:
 
-### Preț per mp utilă (net)
-| | Net EUR | mp util | €/mp net |
-|---|---------|---------|----------|
-| Vechi (124.370 incl 9% ÷ 1,09) | 114.101 | 53 | 2.152,85 |
-| Nou (211.500 net) | 211.500 | 73,5 | 2.877,55 |
+| | **Apt 34 + parcare S2** | **Apt 32 + parcare S2** |
+|---|------------------------|-------------------------|
+| Preț net | 161.407 EUR + TVA | 186.054,50 EUR + TVA |
+| **+ 21% TVA** | **195.302 EUR** | **225.126 EUR** |
 
-### Structura swap
-| Componentă | mp | €/mp net | Net EUR |
-|-----------|-----|----------|---------|
-| Swap (preț vechi) | 53 | 2.152,85 | 114.101 |
-| Diferență suprafață (preț nou) | 20,5 | 2.877,55 | 58.990 |
-| **Total apartament net** | 73,5 | | **173.091** |
-| **+ 21% TVA** | | | **209.440 incl** |
+### Cum au calculat (confirmat de dezvoltator)
+- Cei **53 mp util + 7,5 mp balcon** deja achiziționați = echivalați **la prețul de atunci**
+- Diferența de suprafață = la **prețul de azi, cu discount**
+- Preț listă azi: **2.665 EUR + TVA/mp util**
+- Preț cu discount pt Manu: **2.525 EUR + TVA/mp util** → economie **140 EUR/mp** (~5,25%)
+- Diferența 32 vs 34 ≈ 9,8 mp util (~29.800 EUR incl TVA)
 
----
+## 💰 Sold de plată (estimat)
 
-## 💰 Sold de plată
+Plătit deja: 110.150 EUR (103.500 avans + 6.650 altă firmă)
 
-| | EUR |
-|---|-----|
-| Apartament ROW (incl 21% TVA) | 209.440 |
-| Parcare (swap 1:1, neutru) | 13.625 |
-| **Total angajament nou** | **223.065** |
-| − Plătit deja | −110.150 |
-| **= SOLD DE PLATĂ** | **112.915** |
+| | Apt 34 | Apt 32 |
+|---|--------|--------|
+| Total (incl 21% TVA) | 195.302 EUR | 225.126 EUR |
+| − Plătit deja | −110.150 | −110.150 |
+| **≈ REST DE PLATĂ** | **~85.150 EUR** | **~114.975 EUR** |
 
-**La cursul de azi (5,2535):** **112.915 EUR = ~593.199 RON**
-
----
-
-## 📉 Decompoziția pierderilor (fără beneficiu real)
-
-| Cauză | Impact |
-|-------|--------|
-| TVA 9%→21% pe cei 53 mp | +13.692 EUR (114.101 × 12%) |
-| Curs +5,62% pe sold (5,2535 vs 4,974) | +~31.500 RON |
-| **Total "aruncat"** | **~103.400 RON** |
-
-Suprafața extra (20,5 mp = +71.378 EUR incl TVA) NU e pierdere — primește mai mult apartament.
+> Tot ce se plătește acum → la cursul EUR curent (~5,25 RON), nu cel din 2024.
 
 ---
 
 ## ⚠️ De confirmat cu dezvoltatorul
 
-1. **Creditul pe cei 53 mp** — la prețul real plătit (124.370, cu tot cu 6.650 la altă firmă) sau doar la contractul oficial (117.720)? Dacă doar oficial → +~6.000 EUR în plus.
-2. **Parcarea** — swap 1:1 confirmat, dar TVA-ul pe parcare rămâne 9% sau trece și el la 21%?
-3. **Cursul de conversie** — la ce curs se creditează plățile vechi (EUR vs. re-conversie)?
-4. **VAT regularization** — cum tratează avansul plătit la 9% când factura finală e la 21%?
+1. **Din prețul quotat, cât mai am efectiv de plătit** — se scad cei 110.150 EUR (cu tot cu 6.650 la altă firmă) sau doar avansul de 103.500 primit de ei?
+2. **La ce curs** se creditează plata veche (EUR value 1:1, sau re-conversie)?
+3. **Util-ul exact** al fiecărui apartament (32 vs 34) + etaj/orientare
+4. **VAT regularization** — avansul plătit la 9%, factura finală la 21% (cum se reglează)
+
+---
+
+## Note
+
+- Discount-ul (2.525 vs 2.665) e un beneficiu real: ~2.600 EUR (apt 34) / ~4.000 EUR (apt 32) economisiți pe suprafața extra
+- Prețurile dezvoltatorului (161.407 / 186.054,50) înlocuiesc estimarea mea veche (211.500 pt 73,5 mp)
+- TVA 21% confirmat pe tot (facilitatea 9% nu se aplică — livrare 2027+, preț peste plafon)
 
 ---
 
