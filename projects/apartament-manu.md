@@ -58,17 +58,38 @@ Facilitatea 9% prelungită până 30 Sep 2026, DAR **apartamentul ROW NU se cali
 - Preț cu discount pt Manu: **2.525 EUR + TVA/mp util** → economie **140 EUR/mp** (~5,25%)
 - Diferența 32 vs 34 ≈ 9,8 mp util (~29.800 EUR incl TVA)
 
-## 💰 Sold de plată (estimat)
+## ✅ DECIZIE: Apartament 32 (73 mp util + parcare S2)
 
-Plătit deja: 110.150 EUR (103.500 avans + 6.650 altă firmă)
+- **Preț:** 186.054,50 EUR + TVA = **225.126 EUR incl 21% TVA**
+- **Suprafață:** 73 mp util (vs. 53 mp vechi) → **extra 20 mp**
 
-| | Apt 34 | Apt 32 |
-|---|--------|--------|
-| Total (incl 21% TVA) | 195.302 EUR | 225.126 EUR |
-| − Plătit deja | −110.150 | −110.150 |
-| **≈ REST DE PLATĂ** | **~85.150 EUR** | **~114.975 EUR** |
+### Descompunere
+
+| Componentă | Net EUR | Incl 21% TVA |
+|-----------|---------|--------------|
+| Vechi creditat (53 mp + balcon + parcare, la preț vechi) | 135.554,50 | — |
+| **Suprafață extra (20 mp × 2.525)** | **50.500** | **~61.105** |
+| **TOTAL apt 32** | 186.054,50 | 225.126 |
+
+> Dezvoltatorul creditează vechiul apartament la ~135.550 net — mai mult decât valoarea din contractul oficial (120.500). Favorabil pt Manu.
+
+### Închiderea contractului 2024 (recalculat la 21%)
+- Rest principal neplătit: 27.845 EUR (incl 9%)
+- + Diferență TVA 9→21% pe toată suma: 14.460 EUR
+- = 42.305 EUR (partea "veche")
+
+## 💰 REST DE PLATĂ — Apt 32
+
+| | EUR |
+|---|-----|
+| Total apt 32 (incl 21% TVA) | 225.126 |
+| − Avans plătit (2024) | −103.500 |
+| **= REST DE PLATĂ** | **~121.626 EUR** |
+
+(sau ~114.976 EUR dacă se creditează și cei 6.650 de la altă firmă)
 
 > Tot ce se plătește acum → la cursul EUR curent (~5,25 RON), nu cel din 2024.
+> La 5,25: 121.626 EUR ≈ **638.500 RON**
 
 ---
 
