@@ -78,7 +78,7 @@ Facilitatea 9% prelungită până 30 Sep 2026, DAR **apartamentul ROW NU se cali
 - + Diferență TVA 9→21% pe toată suma: 14.460 EUR
 - = 42.305 EUR (partea "veche")
 
-## 💰 REST DE PLATĂ — Apt 32
+## 💰 REST DE PLATĂ — Apt 32 (FINAL)
 
 | | EUR |
 |---|-----|
@@ -86,7 +86,7 @@ Facilitatea 9% prelungită până 30 Sep 2026, DAR **apartamentul ROW NU se cali
 | − Avans plătit (2024) | −103.500 |
 | **= REST DE PLATĂ** | **~121.626 EUR** |
 
-(sau ~114.976 EUR dacă se creditează și cei 6.650 de la altă firmă)
+> Cei 6.650 EUR (altă firmă) au fost **extra**, peste cei 120.500 net → NU se creditează, nu influențează. Se scade doar avansul de 103.500.
 
 > Tot ce se plătește acum → la cursul EUR curent (~5,25 RON), nu cel din 2024.
 > La 5,25: 121.626 EUR ≈ **638.500 RON**
