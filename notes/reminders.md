@@ -115,7 +115,8 @@ Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu D
 | Înainte de 1 Sep | 🏋️ Testează baseline fitness: flotări/tracțiuni (2 min) + 1 milă | ⏳ |
 | ✅ 2 Sep 2026 | Scanare InBody deschidere — baseline 21,8% (făcută) | ✅ |
 | **🔴 1-7 Sep** | Trimite poza raportului InBody lui Sebastian (o pune în tracker) | 🔴 |
-| Recomandat | Progress photos (aceeași poziție/lumină zilnic) + app InBody | ⏳ |
+| 1 Sep 2026 | App InBody — raport scanat pt tracking | ✅ |
+| Recomandat | Progress photos (aceeași poziție/lumină zilnic) | ⏳ |
 | **25-31 Oct 2026** | 💪 Scanare InBody midterm (checkpoint, nu se punctează) | ⏳ |
 | **25-31 Dec 2026** | 💪 Scanare InBody finală (mergi TÂRZIU) + probele fitness filmate | ⏳ |
 | Prima săpt. Ian 2027 | 💪 Rezultate + premii | — |
