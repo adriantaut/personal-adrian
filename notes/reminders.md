@@ -10,6 +10,7 @@
 | 16 Apr 2026 | Actualizare cod CAEN la Rev3 - confirmare primită ONRC | ✅ |
 | **25 ale fiecărei luni** | **Factura ZAR** (total $11.600): (1) oficială **$4.000** în SmartBill (Revolut, în CA); (2) neoficială **$7.600** în sheet tab `Bill` — bump nr. (Z 0001 → Z 0002 → ...) + datele | 🔁 |
 | **Lunar (înainte de stat)** | 🔁 **Raport zile lucrate → CEDEXPERT** + **Comandă Edenred** | 🔁 |
+| **Septembrie 2026** | 🟡 Pontaj Sep (22 zile) + Edenred (990 RON) + Factură ZAR ($4.000 + $7.600) | ⏳ |
 | 21 Aug 2026 | Pontaj August (16 zile) → CEDEXPERT + Comandă Edenred (720 RON) | ✅ |
 | ✅ 11 Aug 2026 | Discuție CEDEXPERT: aprobare tehnică, redirect la avocat | ✅ |
 | 24 Aug 2026 | ✅ Ana Udriste: OK pt 2 facturi ZAR (1 oficială Revolut + 1 neoficială Wallet, în afara CA) | ✅ |
@@ -111,7 +112,9 @@ Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu D
 | **Joi 3 Sep, 17:30** | 🩻 DEXA personal @ MedEndo (viscerală + oase, nu pt competiție) | 🔴 |
 | Înainte de 1 Sep | 📊 Copie spreadsheet caloric BFC + cifrele tale (RMR/TEE/macro) | ⏳ |
 | Înainte de 1 Sep | 🏋️ Testează baseline fitness: flotări/tracțiuni (2 min) + 1 milă | ⏳ |
-| **1-7 Sep 2026** | 💪 Scanare InBody deschidere (mergi DEVREME) | ⏳ |
+| ✅ 2 Sep 2026 | Scanare InBody deschidere — baseline 21,8% (făcută) | ✅ |
+| **🔴 1-7 Sep** | Trimite poza raportului InBody lui Sebastian (o pune în tracker) | 🔴 |
+| Recomandat | Progress photos (aceeași poziție/lumină zilnic) + app InBody | ⏳ |
 | **25-31 Oct 2026** | 💪 Scanare InBody midterm (checkpoint, nu se punctează) | ⏳ |
 | **25-31 Dec 2026** | 💪 Scanare InBody finală (mergi TÂRZIU) + probele fitness filmate | ⏳ |
 | Prima săpt. Ian 2027 | 💪 Rezultate + premii | — |
