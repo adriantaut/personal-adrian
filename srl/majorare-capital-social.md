@@ -20,13 +20,35 @@ Demersuri la **ONRC** (Oficiul Național al Registrului Comerțului):
 1. **Singur** — cu informațiile de pe site-ul ONRC sau de la biroul unic din incinta sediului ONRC
 2. **Delegare** — Av. **Bogdan Popa**, tel. **0740083007**
 
-## Pași estimați (majorare capital SRL)
+## Pași concreți (asociat unic, aport numerar)
 
-1. Decizia asociatului unic de majorare capital (200 → 5.000 lei)
-2. Depunere efectivă a diferenței (4.800 lei) în contul firmei / dovada vărsământului
-3. Act constitutiv actualizat
-4. Depunere dosar la ONRC (online prin portal sau la ghișeu)
-5. Primire certificat / rezoluție ONRC
+### 1. Decizia Asociatului Unic
+Document semnat de tine (asociat unic) care conține:
+- Metoda majorării: **aport în numerar**
+- Capital nou: de la **200 lei → 5.000 lei** (diferență 4.800 lei)
+- Nr. și valoarea nominală a părților sociale noi
+- Termen de vărsământ
+
+### 2. Vărsământul (4.800 lei)
+- Depui **4.800 lei** în contul firmei (Revolut Business sau BT)
+- Obții **dovada vărsământului** (extras/ordin de plată cu mențiunea "aport majorare capital social")
+
+### 3. Act Constitutiv actualizat
+- Actualizezi actul constitutiv cu noul capital (5.000 lei) și noua structură a părților sociale
+
+### 4. Depunere dosar la ONRC
+- **Online:** portal.onrc.ro (necesită **semnătură electronică calificată**)
+- **Sau la ghișeu:** biroul unic ONRC Cluj
+- Include: Decizia Asociatului Unic + Act Constitutiv actualizat + dovada vărsământ + cererea de înregistrare (formular ONRC)
+
+### 5. Publicare Monitorul Oficial (Partea IV)
+- ✅ **Reducere 50% la tariful de publicare** dacă depui până **31.12.2026** (doar dacă modificarea privește EXCLUSIV majorarea)
+
+### 6. Primire documente
+- Certificat de înregistrare mențiuni + act constitutiv actualizat (~3 zile lucrătoare de la dosar complet)
+
+### 7. Trimite CEDEXPERT
+- Un exemplar al documentelor depuse (actualizare bază de date)
 
 ## ⚠️ Consecințe dacă NU se face până la termen
 
