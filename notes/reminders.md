@@ -77,7 +77,7 @@
 | 17 Aug 2026 | 🎾 Padel — discutat cu Petru Melniciuc | ✅ |
 | - | 🎾 Padel — discută cu Milan Terkovics | ⏳ |
 | 20 Aug 2026 | 🏠 Calcule apartament Manu — sold ~112.915 EUR (vezi `projects/apartament-manu.md`) | ✅ |
-| - | 🏠 Manu: confirmă cu dezvoltatorul 4 puncte (credit 53mp, TVA parcare, curs) | ⏳ |
+| **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — discută gap-ul de ~18.000 EUR (descompunere 186.054,50) + cursul de conversie | 🔴 |
 | **13-18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
 | 18 Aug 2026 | 🎟️ Bilet Solana Breakpoint — primit gratis de la ZAR | ✅ |
 | **12 Nov 2026** | 💷 Plată diurnă delegație Londra (~200-240 GBP) | ⏳ |
@@ -110,7 +110,7 @@ Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu D
 | 24 Aug 2026 | ⚠️ Sebastian: **DEXA NU se punctează** — scorul e pe InBody (același aparat pt toți). DEXA ok doar personal | ✅ |
 | 21 Aug 2026 | Comandat cântar Vitality Lab Smart (220 RON, rambursat ~$30) | ✅ |
 | **Joi 27 Aug, 16:30** | 💪 Scanare InBody (Synobis) — baseline | 🔴 |
-| **Joi 3 Sep, 17:30** | 🩻 DEXA personal @ MedEndo (viscerală + oase, nu pt competiție) | 🔴 |
+| 3 Sep 2026 | 🩻 DEXA personal @ MedEndo — făcut (rezultate ~la fel ca InBody, de salvat cifrele) | ✅ |
 | Înainte de 1 Sep | 📊 Copie spreadsheet caloric BFC + cifrele tale (RMR/TEE/macro) | ⏳ |
 | Înainte de 1 Sep | 🏋️ Testează baseline fitness: flotări/tracțiuni (2 min) + 1 milă | ⏳ |
 | ✅ 2 Sep 2026 | Scanare InBody deschidere — baseline 21,8% (făcută) | ✅ |
