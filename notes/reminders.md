@@ -41,7 +41,7 @@
 | 8-14 Iul 2026 | Delegație București (bonuri trimise la CEDEXPERT ✅) | ✅ |
 | 24 Iul 2026 | Plată diurnă delegație Cappadocia (570 USD / 2.620,52 RON) | ✅ |
 | 11 Aug 2026 | Ordin de deplasare Cappadocia → CEDEXPERT | ✅ |
-| **25 Iul - 8 Aug 2026** | **Delegație Cappadocia** (vezi `srl/delegatie-cappadocia-2026-07.md`) | ⏳ |
+| 25 Iul - 8 Aug 2026 | Delegație Cappadocia (finalizată) | ✅ |
 | 2 Iul 2026 | Reimbursement ZAR bilete avion Cappadocia - primit ✅ | ✅ |
 
 ---
@@ -63,7 +63,7 @@
 | Mie 4 Mar | ⚠️ Pregătire prezentare Rotary (1 săpt înainte) | ✅ |
 | Mie 8 Apr, 18:30 | 🎤 PREZENTARE despre mine la Rotary (amânată de pe 1 Apr) | ✅ |
 | Mie 20 Mai 2026, 18:30 | Ședință Rotary - **NU particip** | ❌ |
-| **25 Mai 2026** | **DEADLINE Formular 230** | ⏳ |
+| 25 Mai 2026 | DEADLINE Formular 230 (trecut) | ✅ |
 
 ---
 
@@ -109,9 +109,9 @@ Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu D
 | 21 Aug 2026 | Sign up BFC | ✅ |
 | 24 Aug 2026 | ⚠️ Sebastian: **DEXA NU se punctează** — scorul e pe InBody (același aparat pt toți). DEXA ok doar personal | ✅ |
 | 21 Aug 2026 | Comandat cântar Vitality Lab Smart (220 RON, rambursat ~$30) | ✅ |
-| **Joi 27 Aug, 16:30** | 💪 Scanare InBody (Synobis) — baseline | 🔴 |
+| 27 Aug 2026 | Scanare InBody programată (efectuată 2 Sep) | ✅ |
 | 3 Sep 2026 | 🩻 DEXA personal @ MedEndo — făcut (rezultate ~la fel ca InBody, de salvat cifrele) | ✅ |
-| Înainte de 1 Sep | 📊 Copie spreadsheet caloric BFC + cifrele tale (RMR/TEE/macro) | ⏳ |
+| 28 Aug 2026 | 📊 Spreadsheet caloric completat (2.233 kcal, 197g proteină) | ✅ |
 | Înainte de 1 Sep | 🏋️ Testează baseline fitness: flotări/tracțiuni (2 min) + 1 milă | ⏳ |
 | ✅ 2 Sep 2026 | Scanare InBody deschidere — baseline 21,8% (făcută) | ✅ |
 | 2 Sep 2026 | Trimis raportul InBody lui Sebastian (confirmat, în tracker) | ✅ |
