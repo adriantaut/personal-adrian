@@ -8,6 +8,7 @@
 | 19 Mar 2026 | Închide contul Banca Transilvania | ✅ |
 | 17 Mar 2026 | Verifică SmartBill - facturi ghiseul.ro (Taxa Talon + Taxa Numere Scuter) | ✅ |
 | 16 Apr 2026 | Actualizare cod CAEN la Rev3 - confirmare primită ONRC | ✅ |
+| 30 Aug 2026 | Factura ZAR August — încasată integral (Revolut $4.000 ✅ + Wallet $7.600 ✅) | ✅ |
 | **25 ale fiecărei luni** | **Factura ZAR** (total $11.600): (1) oficială **$4.000** în SmartBill (Revolut, în CA); (2) neoficială **$7.600** în sheet tab `Bill` — bump nr. (Z 0001 → Z 0002 → ...) + datele | 🔁 |
 | **Lunar (înainte de stat)** | 🔁 **Raport zile lucrate → CEDEXPERT** + **Comandă Edenred** | 🔁 |
 | **Septembrie 2026** | 🟡 Pontaj Sep (22 zile) + Edenred (990 RON) + Factură ZAR ($4.000 + $7.600) | ⏳ |
