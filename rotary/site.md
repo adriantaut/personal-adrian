@@ -40,10 +40,22 @@ Preluarea site-ului clubului și refacerea lui pe o platformă nouă.
 - [ ] Acord GDPR pentru publicare
 
 ### 5. 🛒 Magazin online
-- [ ] Ce se vinde? (merch club, bilete evenimente, donații?)
+- [ ] Ce se vinde? (merch club, bilete evenimente)
 - [ ] Platformă/plugin (WooCommerce, Shopify, altceva)
-- [ ] Procesare plăți — cine încasează (contul clubului?)
-- [ ] Aspecte fiscale — ONG-ul poate vinde? ce regim?
+- [ ] Aspecte fiscale — activitate economică ONG, plafon, TVA?
+
+### 6. 💳 Stripe / Donații
+- [ ] Cont **Stripe** pe entitatea juridică a clubului (nu personal)
+- [ ] Documente pentru onboarding Stripe: CUI ONG, statut, act constitutiv, IBAN club, ID reprezentant legal
+- [ ] Flux donații pe site (one-off + recurent lunar?)
+- [ ] Sume predefinite + sumă liberă
+- [ ] Pagină de mulțumire + email de confirmare automat
+- [ ] Integrare cu redirecționarea 3,5% (vezi `rotary/redirectioneaza.md`)
+- [ ] Evidență donatori — export pentru trezorierul clubului
+- [ ] Comisioane Stripe (~1,5% + 1 RON pt carduri EU) — cine le suportă, se afișează?
+- [ ] GDPR — stocarea datelor donatorilor
+
+**De clarificat fiscal:** regimul donațiilor primite de ONG (neimpozabile) vs. vânzări din magazin (activitate economică).
 
 ---
 
