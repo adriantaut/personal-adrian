@@ -65,6 +65,7 @@
 | Mie 8 Apr, 18:30 | 🎤 PREZENTARE despre mine la Rotary (amânată de pe 1 Apr) | ✅ |
 | Mie 20 Mai 2026, 18:30 | Ședință Rotary - **NU particip** | ❌ |
 | 25 Mai 2026 | DEADLINE Formular 230 (trecut) | ✅ |
+| 16 Sep 2026 | 🌐 **Preluare site Rotary Opera** — vorbește cu **Vasile** și **Iulia** pentru credențiale | ⏳ |
 
 ---
 
