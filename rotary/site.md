@@ -9,6 +9,33 @@
 
 Preluarea site-ului clubului și refacerea lui pe o platformă nouă.
 
+## 🔍 Situația actuală (verificat 16 Sep 2026)
+
+**Site vechi:** http://rotaryoperacluj.ro/ — **nu se încarcă**
+
+| Verificare | Rezultat |
+|---|---|
+| Domeniu în registrul .RO | **ACTIV** ✅ — înregistrat 22 mai 2018, status OK |
+| Registrar | ICI - Registrar (ROTLD) |
+| Nameservere delegate | `dns1.host-vision.com`, `dns2.host-vision.com` |
+| Interogare directă NS | **REFUSED** → zona DNS nu mai există la Host-Vision |
+| Rezolvare publică (8.8.8.8) | **SERVFAIL** |
+
+### Concluzie
+**Domeniul NU e expirat. Hostingul de la Host-Vision e expirat/anulat** — au șters zona DNS, dar delegarea din registru încă arată spre ei. Foarte probabil și fișierele + baza de date au fost șterse.
+
+### 🚨 Urgent de aflat
+- [ ] **Când expiră domeniul?** (WHOIS public .ro nu arată data — doar contul de la registrar)
+- [ ] **Pe ce email/cont e înregistrat domeniul la ICI/ROTLD?** ← activul cel mai valoros
+- [ ] Contul Host-Vision mai există? **Există backup al site-ului vechi?**
+
+> Dacă se pierde accesul la contul de registrar, se pierde domeniul la următoarea reînnoire — și îl poate cumpăra oricine.
+
+### Vestea bună
+Oricum se reface site-ul pe altă platformă → pierderea hostingului vechi nu e critică. Trebuie doar: recuperat accesul la domeniu, schimbate nameserverele, eventual recuperat conținutul vechi din Wayback Machine.
+
+---
+
 ## Workstream-uri
 
 ### 1. 🔑 Credențiale (blocant — primul pas)
