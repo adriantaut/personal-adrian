@@ -24,15 +24,32 @@ Preluarea site-ului clubului și refacerea lui pe o platformă nouă.
 ### Concluzie
 **Domeniul NU e expirat. Hostingul de la Host-Vision e expirat/anulat** — au șters zona DNS, dar delegarea din registru încă arată spre ei. Foarte probabil și fișierele + baza de date au fost șterse.
 
-### 🚨 Urgent de aflat
-- [ ] **Când expiră domeniul?** (WHOIS public .ro nu arată data — doar contul de la registrar)
-- [ ] **Pe ce email/cont e înregistrat domeniul la ICI/ROTLD?** ← activul cel mai valoros
-- [ ] Contul Host-Vision mai există? **Există backup al site-ului vechi?**
+### Hostingul: Host-Vision → CyberFolks
 
-> Dacă se pierde accesul la contul de registrar, se pierde domeniul la următoarea reînnoire — și îl poate cumpăra oricine.
+`host-vision.com` și `hostvision.ro` redirecționează 301 către **cyberfolks.ro** — brandul a fost preluat de grupul cyber_Folks.
 
-### Vestea bună
-Oricum se reface site-ul pe altă platformă → pierderea hostingului vechi nu e critică. Trebuie doar: recuperat accesul la domeniu, schimbate nameserverele, eventual recuperat conținutul vechi din Wayback Machine.
+**Discuție cu suportul CyberFolks (Paul N), 17 Sep 2026:**
+- Contul de client **există** ✅
+- Pachetul de găzduire **nu a fost prelungit, a expirat și a fost ȘTERS de pe server la finalul lunii august 2026**
+- Restaurarea din backup e posibilă, dar solicitarea trebuie făcută din contul de client
+- Adresa autorizată era `contact@rotaryoperacluj.ro` (nefuncțională odată cu expirarea serviciilor)
+- GDPR — nu pot dezvălui cine e titularul contului
+
+### ✅ Progres (17 Sep 2026)
+- [x] **Găsită parola** de la contul CyberFolks — acces recăpătat
+- [x] **Schimbată adresa autorizată** → `rotaryoperacluj@gmail.com`
+- [x] **Trimisă solicitarea de restaurare** a pachetului de găzduire
+- [ ] ⏳ Aștept răspuns CyberFolks pe restaurare
+- [ ] Verifică dacă e nevoie de reactivare/plată a pachetului ca să aibă unde restaura
+
+### 🚨 Rămâne urgent
+- [ ] **Domeniul `rotaryoperacluj.ro` e în contul CyberFolks? Când expiră?** ← activul ireversibil
+  - WHOIS arată registrar `ICI - Registrar` — de verificat dacă e gestionat prin CyberFolks sau direct la ROTLD
+  - Dacă expiră curând → **reînnoiește imediat**
+- [ ] După restaurare: **descarcă backup complet** (fișiere + bază de date) local + pe Drive-ul clubului
+- [ ] Credențialele la **minim 2 persoane** din club (password manager / doc în Drive-ul organizației)
+
+> Situația a apărut pentru că accesul era legat de un email care a murit odată cu serviciul. Bucla se repetă dacă nu e ruptă acum.
 
 ---
 
