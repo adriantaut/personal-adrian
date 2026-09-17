@@ -66,6 +66,9 @@
 | Mie 20 Mai 2026, 18:30 | Ședință Rotary - **NU particip** | ❌ |
 | 25 Mai 2026 | DEADLINE Formular 230 (trecut) | ✅ |
 | 16 Sep 2026 | 🌐 **Site Rotary Opera** — preluare + refacere (vezi `rotary/site.md`). Next: credențiale de la **Vasile** și **Iulia** | ⏳ |
+| **Sâm 26 Sep 2026** | 🚶 Promenada Inimilor | ⏳ |
+| **Dum 27 Sep 2026** | 🍖 Grătar la Levi | ⏳ |
+| **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** | ⏳ |
 
 ---
 

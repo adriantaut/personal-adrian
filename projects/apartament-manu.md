@@ -78,7 +78,34 @@ Facilitatea 9% prelungită până 30 Sep 2026, DAR **apartamentul ROW NU se cali
 - + Diferență TVA 9→21% pe toată suma: 14.460 EUR
 - = 42.305 EUR (partea "veche")
 
-## 💰 REST DE PLATĂ — Apt 32 (FINAL)
+## 🔄 STRUCTURĂ NOUĂ (16 Sep 2026): achiziție pe firmă
+
+**Decizie:** apartamentul se cumpără **pe firma lui Manu** (cabinet stomatologic), cu **taxare inversă**, și va fi **închiriat**.
+
+| | Persoană fizică (TVA 21%) | Firmă + taxare inversă |
+|---|---|---|
+| Preț total | 225.126 EUR | **186.054 EUR** |
+| **Economie** | | **~39.000 EUR** |
+
+### Secvența plăților
+
+| Etapă | Sumă | Curs |
+|---|---|---|
+| **1. Acum** — contract rezervare, avans 5% | **9.302,70 EUR** | BNR ziua semnării |
+| **2. Ian 2028** — Hexagon returnează suma inițială, se re-achită tranșa 2 | **103.500 EUR** | **cursul din 2024 (4,9740)** — neutru |
+| **3. La intabulare** — restul | **~73.251 EUR** | BNR ziua intabulării |
+| **TOTAL** | 186.054 EUR | |
+
+> Etapa 2 e neutră valutar: cei 103.500 EUR din 2024 valorează tot 103.500 EUR în 2028.
+> ⚠️ Hexagon poate returna doar **103.500 EUR** (cât au primit ei). Cei 6.650 EUR sunt la altă firmă.
+
+### Condiții TVA — vezi `srl/manu-tva-caen.md`
+
+Economia de 39.000 EUR depinde de: înregistrarea în scopuri de TVA + **notificarea de opțiune pentru taxarea închirierii** + alocare directă (nu pro-rata). Angajament 20 ani (ajustarea TVA).
+
+---
+
+## 💰 REST DE PLATĂ — Apt 32 (calcul vechi, persoană fizică — ISTORIC)
 
 | | EUR |
 |---|-----|
