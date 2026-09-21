@@ -70,14 +70,30 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - SSH: **nu e expus** (doar 2083/2087 deschise) — de cerut la suport dacă e nevoie
 - API token cPanel: `~/.rotary_cpanel_token` (local, de revocat când nu mai e nevoie)
 
-### 🚨 Rămâne urgent
-- [ ] **Domeniul `rotaryoperacluj.ro` e în contul CyberFolks? Când expiră?** ← activul ireversibil
-  - WHOIS arată registrar `ICI - Registrar` — de verificat dacă e gestionat prin CyberFolks sau direct la ROTLD
-  - Dacă expiră curând → **reînnoiește imediat**
-- [ ] După restaurare: **descarcă backup complet** (fișiere + bază de date) local + pe Drive-ul clubului
-- [ ] Credențialele la **minim 2 persoane** din club (password manager / doc în Drive-ul organizației)
+### ✅ Domeniul — securizat (21 Sep 2026)
 
-> Situația a apărut pentru că accesul era legat de un email care a murit odată cu serviciul. Bucla se repetă dacă nu e ruptă acum.
+| | |
+|---|---|
+| Registrar | ROTLD — administrare online la rotld.ro |
+| Cont / email autorizat | **`rotaryoperacluj@gmail.com`** ✅ (email controlat, nu unul mort) |
+| Nameservere | `rc01.octosquid.com` / `rc02.octosquid.com` — propagate ✅ |
+| **Expiră** | **2028** ✅ — fără presiune |
+
+### 🔓 Workstream 1 (Credențiale) — ÎNCHIS
+
+| Acces | Status |
+|---|---|
+| cPanel hosting | ✅ user `rotaryop` @ hv115.c-f.ro:2083 |
+| Domeniu ROTLD | ✅ pe rotaryoperacluj@gmail.com |
+| Site funcțional | ✅ HTTP 200 |
+
+### Rămas de făcut (nu urgent)
+- [ ] **Backup complet** (fișiere + SQL) local + pe Drive-ul clubului
+- [ ] Verifică accesul la **WP admin** (`/wp-login.php`) — dacă nu există, resetare din DB
+- [ ] Credențialele la **minim 2 persoane** din club (password manager / doc în Drive-ul organizației)
+- [ ] Revocă API tokenul cPanel + șterge `~/.rotary_cpanel_token` când nu mai e nevoie
+
+> Situația a apărut pentru că accesul era legat de un email care a murit odată cu serviciul. Acum e pe un Gmail al clubului — bucla e ruptă.
 
 ---
 
