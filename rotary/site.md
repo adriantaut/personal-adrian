@@ -42,6 +42,34 @@ Preluarea site-ului clubului și refacerea lui pe o platformă nouă.
 - [ ] ⏳ Aștept răspuns CyberFolks pe restaurare
 - [ ] Verifică dacă e nevoie de reactivare/plată a pachetului ca să aibă unde restaura
 
+### ✅ REZOLVAT — site-ul e funcțional (21 Sep 2026)
+
+**Cronologie:**
+1. CyberFolks a restaurat contul din backup (taxă 40 EUR + TVA + plata pachetului) — Lavinia Florian a gestionat plata
+2. NS-uri schimbate la registrar → `rc01.octosquid.com` / `rc02.octosquid.com`
+3. Site-ul răspundea **HTTP 500** pe toate rutele
+
+**Cauza reală (diagnosticată prin cPanel API):**
+```
+PHP Parse error: syntax error, unexpected '?', expecting variable (T_VARIABLE)
+in /home/rotaryop/public_html/wp-includes/compat-utf8.php on line 47
+```
+- Fișierul e **core WordPress 6.9** (legitim), folosește nullable type hints (`?int`, `?bool`) → necesită **PHP 7.1+**
+- Serverul rula **`ea-php70`** (PHP 7.0)
+- WordPress s-a auto-actualizat la 6.9 pe un PHP prea vechi → **probabil asta a omorât site-ul inițial**, nu expirarea
+
+**Fix aplicat:** MultiPHP `ea-php70` → **`ea-php82`** (PHP 8.2), via cPanel UAPI.
+
+**Rezultat:** `/`, `/wp-login.php`, `/robots.txt` → **200** ✅
+Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery Page Builder
+
+**Rămas cosmetic:** warning de la plugin-ul `facebook-pagelike-widget` (`implode(): Invalid arguments`) — nu blochează nimic.
+
+**Acces tehnic:**
+- cPanel: https://hv115.c-f.ro:2083 · user `rotaryop`
+- SSH: **nu e expus** (doar 2083/2087 deschise) — de cerut la suport dacă e nevoie
+- API token cPanel: `~/.rotary_cpanel_token` (local, de revocat când nu mai e nevoie)
+
 ### 🚨 Rămâne urgent
 - [ ] **Domeniul `rotaryoperacluj.ro` e în contul CyberFolks? Când expiră?** ← activul ireversibil
   - WHOIS arată registrar `ICI - Registrar` — de verificat dacă e gestionat prin CyberFolks sau direct la ROTLD
