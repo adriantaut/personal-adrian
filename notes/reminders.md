@@ -84,7 +84,7 @@
 | 20 Aug 2026 | 🏠 Calcule apartament Manu — sold ~112.915 EUR (vezi `projects/apartament-manu.md`) | ✅ |
 | 22 Sep 2026 | 🏠 Manu: **coduri CAEN adăugate** ✅ (6820, 7020 etc.) | ✅ |
 | ⏳ WIP | 🏠 Manu: **înregistrare în scopuri de TVA** — la contabilă | ⏳ |
-| **După înreg. TVA** | 🚨 Manu: **notificare opțiune TAXARE închiriere** la ANAF (fără ea se pierd ~39.000 EUR) | 🔴 |
+| **2028** (la predare apartament) | 🚨 Manu: **notificare opțiune TAXARE închiriere** la ANAF, înainte de prima chirie (fără ea se pierd ~39.000 EUR) | ⏳ |
 | **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — discută gap-ul de ~18.000 EUR (descompunere 186.054,50) + cursul de conversie | 🔴 |
 | **13-18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
 | 18 Aug 2026 | 🎟️ Bilet Solana Breakpoint — primit gratis de la ZAR | ✅ |
