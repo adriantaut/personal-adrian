@@ -11,7 +11,7 @@
 | 30 Aug 2026 | Factura ZAR August — încasată integral (Revolut $4.000 ✅ + Wallet $7.600 ✅) | ✅ |
 | **25 ale fiecărei luni** | **Factura ZAR** (total $11.600): (1) oficială **$4.000** în SmartBill (Revolut, în CA); (2) neoficială **$7.600** în sheet tab `Bill` — bump nr. (Z 0001 → Z 0002 → ...) + datele | 🔁 |
 | **Lunar (înainte de stat)** | 🔁 **Raport zile lucrate → CEDEXPERT** + **Comandă Edenred** | 🔁 |
-| **Septembrie 2026** | 🟡 Pontaj Sep (22 zile) + Edenred (990 RON) + Factură ZAR ($4.000 + $7.600) | ⏳ |
+| 24 Sep 2026 | Pontaj Sep (22 zile) → CEDEXPERT + Comandă Edenred (990 RON) | ✅ |
 | 21 Aug 2026 | Pontaj August (16 zile) → CEDEXPERT + Comandă Edenred (720 RON) | ✅ |
 | ✅ 11 Aug 2026 | Discuție CEDEXPERT: aprobare tehnică, redirect la avocat | ✅ |
 | 24 Aug 2026 | ✅ Ana Udriste: OK pt 2 facturi ZAR (1 oficială Revolut + 1 neoficială Wallet, în afara CA) | ✅ |
