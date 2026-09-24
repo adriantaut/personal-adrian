@@ -83,7 +83,7 @@
 | 22 Sep 2026 | 🎾 Padel — discutat cu Milan Terkovics | ✅ |
 | 20 Aug 2026 | 🏠 Calcule apartament Manu — sold ~112.915 EUR (vezi `projects/apartament-manu.md`) | ✅ |
 | 22 Sep 2026 | 🏠 Manu: **coduri CAEN adăugate** ✅ (6820, 7020 etc.) | ✅ |
-| ⏳ WIP | 🏠 Manu: **înregistrare în scopuri de TVA** — la contabilă | ⏳ |
+| ⏳ WIP | 🏠 Manu: **înregistrare în scopuri de TVA** — la contabilă. Contractul de rezervare se semnează **după** înregistrare (deci avansul de 5% intră corect pe taxare inversă) | ⏳ |
 | **2028** (la predare apartament) | 🚨 Manu: **notificare opțiune TAXARE închiriere** la ANAF, înainte de prima chirie (fără ea se pierd ~39.000 EUR) | ⏳ |
 | **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — discută gap-ul de ~18.000 EUR (descompunere 186.054,50) + cursul de conversie | 🔴 |
 | **13-18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
