@@ -16,9 +16,9 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 | August | 21 | 16 | 5 (delegație) | 720 RON |
 | Septembrie | 22 | 22 | 0 | 990 RON |
 | Octombrie | 22 | | | |
-| Noiembrie | 20 | | | |
-| Decembrie | 20 | | | |
-| **TOTAL** | **252** | | | |
+| Noiembrie | 21 | 16 | 4 (delegație) | 720 RON |
+| Decembrie | 23 | 21 | 0 | 945 RON |
+| **TOTAL** | **256** | | | |
 
 ---
 
@@ -144,24 +144,25 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 
 ### Noiembrie 2026
 
-- **Zile lucrătoare calendar:** 20
-- **Sărbători legale:** 2 (30 Nov - Sf. Andrei, 1 Dec - Ziua Națională)
+- **Zile lucrătoare calendar:** 21
+- **Sărbători legale:** 1 (30 Nov - Sf. Andrei, **Luni**). *1 Dec e în Decembrie, nu aici.*
 - **Concediu (CO):**
 - **Medical:**
-- **Zile lucrate efectiv:**
-- **Valoare tichete:**
+- **Delegații:** 4 zile lucrătoare — Londra / Solana Breakpoint (13-18 Nov): Vin 13, Lun 16, Mar 17, Mie 18
+- **Zile lucrate efectiv (Edenred):** 16
+- **Valoare tichete:** 16 × 45 = **720 RON**
 - **Raportat la contabil:** ☐
 
 ---
 
 ### Decembrie 2026
 
-- **Zile lucrătoare calendar:** 20
-- **Sărbători legale:** 3 (25-26 Dec Crăciun + 1 Dec dacă cade în dec)
+- **Zile lucrătoare calendar:** 23
+- **Sărbători legale:** 2 (1 Dec - Ziua Națională, **Marți**; 25 Dec - Crăciun, **Vineri**). *26 Dec cade sâmbătă → nu reduce.*
 - **Concediu (CO):**
 - **Medical:**
-- **Zile lucrate efectiv:**
-- **Valoare tichete:**
+- **Zile lucrate efectiv:** 21
+- **Valoare tichete:** 21 × 45 = **945 RON**
 - **Raportat la contabil:** ☐
 
 ---
