@@ -9,7 +9,8 @@
 | 17 Mar 2026 | Verifică SmartBill - facturi ghiseul.ro (Taxa Talon + Taxa Numere Scuter) | ✅ |
 | 16 Apr 2026 | Actualizare cod CAEN la Rev3 - confirmare primită ONRC | ✅ |
 | 30 Aug 2026 | Factura ZAR August — încasată integral (Revolut $4.000 ✅ + Wallet $7.600 ✅) | ✅ |
-| **25 ale fiecărei luni** | **Factura ZAR** (total $11.600): (1) oficială **$4.000** în SmartBill (Revolut, în CA); (2) neoficială **$7.600** în sheet tab `Bill` — bump nr. (Z 0001 → Z 0002 → ...) + datele | 🔁 |
+| 24 Sep 2026 | Factura ZAR Septembrie trimisă (F0058 $4.000 + Z 0002 $7.600) — aștept încasarea | ⏳ |
+| **25 ale fiecărei luni** | **Factura ZAR** (total $11.600): (1) oficială **$4.000** în SmartBill (Revolut, în CA); (2) neoficială **$7.600** în [sheet](https://docs.google.com/spreadsheets/d/12diQb4tKPk-1W90Kz_2FfWg_fiy0RYGrJlrt1R2K8oU/edit) tab **`Factura`** — bump seria în F18 (Z 0002 → Z 0003…) + data în F19 | 🔁 |
 | **Lunar (înainte de stat)** | 🔁 **Raport zile lucrate → CEDEXPERT** + **Comandă Edenred** | 🔁 |
 | 24 Sep 2026 | Pontaj Sep (22 zile) → CEDEXPERT + Comandă Edenred (990 RON) | ✅ |
 | 21 Aug 2026 | Pontaj August (16 zile) → CEDEXPERT + Comandă Edenred (720 RON) | ✅ |
