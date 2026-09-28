@@ -88,8 +88,10 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 | Site funcțional | ✅ HTTP 200 |
 
 ### Rămas de făcut (nu urgent)
-- [ ] **Backup complet** (fișiere + SQL) local + pe Drive-ul clubului
-- [ ] Verifică accesul la **WP admin** (`/wp-login.php`) — dacă nu există, resetare din DB
+- [ ] **Backup pe Drive** — descarcă ultimul backup Softaculous (`softaculous_backups/wp.26_90965.2026-09-24_*.tar.gz`, ~425 MB) pe Drive-ul clubului
+- [x] **WP admin** (28 Sep 2026) — creat `adrian.taut` (ID 5, administrator, adriantaut@gmail.com); parola în `~/.rotary_wp_admin`. Useri existenți: ID 1 `YvYNAlHqPv` (Vasile, nan.vasile@yahoo.com), ID 2 `sonia.luca`, ID 4 `iulia.magdas`
+- [ ] WP Toolkit „Log in”/WP-CLI crapă: pluginul `themesflat` cheamă `themesflat_map_icons()` din tema `finance` (WP-CLI rulează fără temă). Site-ul live nu e afectat
+- [x] **Cotă disc** (28 Sep 2026) — 5 GB, era plină de backup-uri Softaculous automate (~425 MB fiecare). Șterse cele vechi, păstrate 22/23/24 Sep → 2.2 GB folosiți. ⚠️ Backup-urile automate umplu din nou cota — limitează retenția în Softaculous
 - [ ] Credențialele la **minim 2 persoane** din club (password manager / doc în Drive-ul organizației)
 - [ ] Revocă API tokenul cPanel + șterge `~/.rotary_cpanel_token` când nu mai e nevoie
 
