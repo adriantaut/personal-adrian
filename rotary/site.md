@@ -195,10 +195,11 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Rollback: redenumește directoarele înapoi + setează `home`/`siteurl` la nou.
 
 ### 🛡️ Securitate + SEO (28 Sep 2026)
-- Wordfence: alerte → rotaryoperacluj@gmail.com, lockout după 5 încercări, blocare user „admin”, erori login mascate, fără enumerare autori, scanări programate, auto-update
+- Wordfence: alerte → adriantaut@gmail.com, lockout după 5 încercări, blocare user „admin”, erori login mascate, fără enumerare autori, scanări programate, auto-update
 - Auto-update pentru toate pluginurile/temele + core; `admin_email` = rotaryoperacluj@gmail.com
 - `.htaccess` blocul `rop-security`: fără listare directoare, headere de securitate (HSTS, nosniff, SAMEORIGIN…), xmlrpc/readme/wp-config blocate
 - Membrii nu mai au pagini publice individuale (doar pe /echipa/)
 - SEO: The SEO Framework — titlu/descriere home, imagine share (og-default.jpg), date organizație + FB/IG; sitemap: /sitemap.xml
 - Favicon: roata Rotary
 - **De făcut de Adrian:** 2FA pe contul lui (Wordfence → Login Security) · Google Search Console (trimite codul de verificare)
+- Pagina **/termeni-donatii/** (cerută de Stripe) — link în footer lângă Confidențialitate
