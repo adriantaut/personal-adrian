@@ -186,3 +186,10 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - **De primit înainte de lansare:** logo oficial club · IBAN asociație · locația întâlnirilor · validare listă membri (my.rotary.org) · proiecte 2025-26 (EDUCATIO, Promenada Inimilor…) · link-uri Facebook/Instagram · decizie Stripe (RUB check)
 - Logo: header = lockup oficial fără val (`rotary-cluj-napoca-opera.png`), footer = varianta albă; logo-ul cu val păstrat în Media (`rotary-opera-logo*.png`)
 - IBAN RO40BTRLRONCRT0440380101 (BT), beneficiar ROTARY CLUB CLUJ-NAPOCA OPERA · Întâlniri: miercuri 18:30, Hotel Victoria · FB/IG în footer · RUB ✅ înscris
+
+### 🚀 LANSAT pe rotaryoperacluj.ro (28 Sep 2026)
+- `public_html` = site-ul nou (fost `nou.rotaryoperacluj.ro`); PHP 8.3; `WP_ENVIRONMENT_TYPE=production`; indexare Google pornită
+- Site vechi (hack-uit) mutat în `/home/rotaryop/old-site-hacked-2019` — NU e accesibil public; DB vechi `rotaryop_wp` încă există (de șters după ce confirmăm că nu mai trebuie nimic)
+- `nou.rotaryoperacluj.ro` → 301 către domeniul principal
+- `.htaccess`: blocul `rop-redirects` (URL-uri vechi → noi: /despre-noi/, /doneaza/, /portfolios/*, articole 2019-2024)
+- Rollback: redenumește directoarele înapoi + setează `home`/`siteurl` la nou.
