@@ -91,7 +91,7 @@ Contact
 - Only **3.5% redirection** via https://redirectioneaza.ro/rotary-club-cluj-napoca-opera/ — no card/IBAN option. See `rotary/plati-donatii.md`.
 
 ### Contact / legal
-- **ASOCIAȚIA ROTARY CLUB CLUJ-NAPOCA OPERA**, CUI **39347197**, str. Becaș nr. 11, ap. 3, Cluj-Napoca (verify still current).
+- **ASOCIAȚIA ROTARY CLUB CLUJ-NAPOCA OPERA**, CUI **39347197**, str. Constantin Dobrogeanu Gherea nr. 21, ap. 1, Cluj-Napoca, jud. Cluj (confirmat 28 Sep 2026).
 - Email: contact@rotaryoperacluj.ro (does the mailbox still work?). Meetings: Wednesday 18:30.
 - GDPR policy (Nov 2019) — reusable after update; cookie consent via CookieYes.
 - Mailchimp form (MC4WP) — is there an active Mailchimp list?

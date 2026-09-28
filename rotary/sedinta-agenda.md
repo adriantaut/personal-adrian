@@ -6,7 +6,6 @@
 
 - [ ] **Vrem pagină de LinkedIn?** (canal bun pentru sponsorizări corporate / CSR; ~15 min de creat; cine e al doilea admin?)
 - [ ] Stripe: reprezentantul legal în acte este **Cristian Zaharia** (președinte/director în documentele asociației, nu Ovidiu) → Cristian face pasul de verificare identitate (buletin + selfie), împreună cu Adrian
-- [ ] Se actualizează actele asociației (Registrul asociațiilor) cu noul președinte, Ovidiu Pop? Dacă da, după actualizare schimbăm și reprezentantul în Stripe
 - [ ] Photo shooting pentru membrii fără poză (12 persoane) — când?
 - [ ] Proiectele 2025-2026 pe site (EDUCATIO, Promenada Inimilor, Grătar la Levi…) — cine trimite text + poze?
 - [ ] Cine mai primește cont de editor pe site (ex. Public Image Chair)?
