@@ -12,7 +12,7 @@ Research date: 2026-09-28. For: the rebuilt rotaryoperacluj.ro (static site or W
 | Seat | Str. Constantin Dobrogeanu Gherea nr. 21, ap. 1, Cluj-Napoca |
 | Status | Active (not inactive). Not in the e-Factura register |
 | Revenue (totalfirme) | 2021: 85k, 2022: 29k, 2023: 113k, 2024: 138k RON. 2025 shows **0**, so check that the 2025 financial statements were filed (this matters for the RUB) |
-| RUB (sponsorship registry) | **Unknown.** The ANAF lookup is behind a captcha. Check manually at [anaf.ro/RegistrulEntitatilorUnitatilorCult](https://www.anaf.ro/RegistrulEntitatilorUnitatilorCult/) with CIF 39347197 |
+| RUB (sponsorship registry) | ✅ **Înscris** (confirmat de Adrian, 28 Sep 2026) — CIF 39347197 |
 | 3.5% page | Already on [redirectioneaza.ro/rotary-club-cluj-napoca-opera](https://redirectioneaza.ro/rotary-club-cluj-napoca-opera/) (see `redirectioneaza.md`) |
 
 Sources: ANAF `PlatitorTvaRest/v9` API; [totalfirme.ro](https://www.totalfirme.ro/asociatia-rotary-club-cluj-napoca-opera-39347197).

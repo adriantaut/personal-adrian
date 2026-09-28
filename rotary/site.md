@@ -184,3 +184,5 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Design: global styles (Royal Blue/Gold, Literata + Manrope), header sticky + buton Donează, bară Donează pe mobil, view transitions
 - Conținut sursă curat: `rotary/site-content/proiecte.json`
 - **De primit înainte de lansare:** logo oficial club · IBAN asociație · locația întâlnirilor · validare listă membri (my.rotary.org) · proiecte 2025-26 (EDUCATIO, Promenada Inimilor…) · link-uri Facebook/Instagram · decizie Stripe (RUB check)
+- Logo: header = lockup oficial fără val (`rotary-cluj-napoca-opera.png`), footer = varianta albă; logo-ul cu val păstrat în Media (`rotary-opera-logo*.png`)
+- IBAN RO40BTRLRONCRT0440380101 (BT), beneficiar ROTARY CLUB CLUJ-NAPOCA OPERA · Întâlniri: miercuri 18:30, Hotel Victoria · FB/IG în footer · RUB ✅ înscris
