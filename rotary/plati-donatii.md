@@ -120,3 +120,7 @@ Cost example for a 100 RON donation: Stripe EEA card **2.50 RON**, monthly Strip
 9. [ ] Accounting flow: a monthly Stripe export (CSV) for the treasurer and CEDEXPERT-style accountant, **tagged donation vs. economic activity**, so the €15k / 10% ceiling can be tracked.
 10. [ ] Sponsorship contract template (Legea 32/1994): parties, CIF, purpose ("sprijinirea proiectului EDUCATIO…"), amount, payment IBAN, duration, visibility obligations, and a clause confirming the RUB status on the signing date. Have the accountant review it.
 11. [ ] Calendar reminders: **Feb-25 May** for the 230 campaign, **Apr-25 June** for the D177 pitch to companies, **December** for year-end CSR budgets, plus the annual financial statements deadline.
+
+## Stripe — reprezentant (28 Sep 2026)
+- Varianta B: contul creat de Adrian pe rotaryoperacluj@gmail.com; **reprezentant KYC = Cristian Zaharia** (președinte/director în actele asociației; Ovidiu Pop e președinte în anul rotarian 2026-27, dar nu e încă în acte).
+- Dacă actele se actualizează cu Ovidiu → se schimbă reprezentantul în Stripe (Settings → Business → Persons).
