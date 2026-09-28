@@ -166,3 +166,9 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Temă block modernă (child theme custom în git), Gutenberg, fără WPBakery/Slider Revolution. Max 5-6 pluginuri, auto-update, backup pe Drive.
 - Rămânem pe **CyberFolks** (plătit 1 an). Email: `contact@rotaryoperacluj.ro` (260 MB) → forward la dominicgidro@gmail.com.
 - Plăți: Stripe (vezi `plati-donatii.md`), de verificat RUB la ANAF.
+
+### Staging (28 Sep 2026)
+- **https://nou.rotaryoperacluj.ro** — WP curat, PHP 8.3, DB `rotaryop_nou` (prefix `rop_`), noindex, SSL wildcard LE
+- Admin `adrian.taut` (email rotaryoperacluj@gmail.com); parola `~/.rotary_nou_admin`, app password `~/.rotary_nou_app`, DB `~/.rotary_nou_db`
+- Cod: repo local `/Users/ataut/work/zar/rotaryoperacluj` (temă child TT25 + mu-plugins) → GitHub privat `adriantaut/` (de creat)
+- Email: `contact@` → forward la dominicgidro@gmail.com **și** rotaryoperacluj@gmail.com
