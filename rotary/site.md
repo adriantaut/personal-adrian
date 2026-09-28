@@ -155,3 +155,14 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Buget disponibil?
 - Deadline / eveniment țintă?
 - Cine mai lucrează la asta în afară de tine?
+
+
+---
+
+## 🧭 Decizie platformă (28 Sep 2026): **WordPress, refăcut curat**
+
+- Motiv: club de voluntari cu echipă care se schimbă anual → oricine/orice freelancer îl poate prelua.
+- Instalare **nouă** (nu upgrade la cea hack-uită — spam SEO în DB, vezi `site-inventory.md`); importăm doar conținutul curat.
+- Temă block modernă (child theme custom în git), Gutenberg, fără WPBakery/Slider Revolution. Max 5-6 pluginuri, auto-update, backup pe Drive.
+- Rămânem pe **CyberFolks** (plătit 1 an). Email: `contact@rotaryoperacluj.ro` (260 MB) → forward la dominicgidro@gmail.com.
+- Plăți: Stripe (vezi `plati-donatii.md`), de verificat RUB la ANAF.
