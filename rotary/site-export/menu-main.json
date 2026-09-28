@@ -1,0 +1,602 @@
+[
+ {
+  "id": 4182,
+  "title": {
+   "rendered": "Acasa"
+  },
+  "status": "publish",
+  "url": "https://rotaryoperacluj.ro/?page_id=1392",
+  "attr_title": "",
+  "description": "",
+  "type": "post_type",
+  "type_label": "Page",
+  "object": "page",
+  "object_id": 1392,
+  "parent": 0,
+  "menu_order": 1,
+  "target": "",
+  "classes": [
+   ""
+  ],
+  "xfn": [
+   ""
+  ],
+  "invalid": true,
+  "meta": {
+   "ngg_post_thumbnail": 0
+  },
+  "menus": 44,
+  "_links": {
+   "self": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items/4182",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/types/nav_menu_item"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "nav_menu",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menus?post=4182"
+    }
+   ],
+   "wp:menu-item-object": [
+    {
+     "post_type": "page",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/pages/1392"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 4002,
+  "title": {
+   "rendered": "Despre noi"
+  },
+  "status": "publish",
+  "url": "https://rotaryoperacluj.ro/despre-noi/",
+  "attr_title": "",
+  "description": "",
+  "type": "post_type",
+  "type_label": "Page",
+  "object": "page",
+  "object_id": 3991,
+  "parent": 0,
+  "menu_order": 2,
+  "target": "",
+  "classes": [
+   ""
+  ],
+  "xfn": [
+   ""
+  ],
+  "invalid": false,
+  "meta": {
+   "ngg_post_thumbnail": 0
+  },
+  "menus": 44,
+  "_links": {
+   "self": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items/4002",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/types/nav_menu_item"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "nav_menu",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menus?post=4002"
+    }
+   ],
+   "wp:menu-item-object": [
+    {
+     "post_type": "page",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/pages/3991"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 4240,
+  "title": {
+   "rendered": "Membri activi"
+  },
+  "status": "publish",
+  "url": "https://rotaryoperacluj.ro/despre-noi/membri-activi/",
+  "attr_title": "",
+  "description": "",
+  "type": "post_type",
+  "type_label": "Page",
+  "object": "page",
+  "object_id": 1345,
+  "parent": 4002,
+  "menu_order": 3,
+  "target": "",
+  "classes": [
+   ""
+  ],
+  "xfn": [
+   ""
+  ],
+  "invalid": false,
+  "meta": {
+   "ngg_post_thumbnail": 0
+  },
+  "menus": 44,
+  "_links": {
+   "self": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items/4240",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/types/nav_menu_item"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "nav_menu",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menus?post=4240"
+    }
+   ],
+   "wp:menu-item-object": [
+    {
+     "post_type": "page",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/pages/1345"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 4005,
+  "title": {
+   "rendered": "Fosti presedinti"
+  },
+  "status": "publish",
+  "url": "https://rotaryoperacluj.ro/despre-noi/fosti-presedinti/",
+  "attr_title": "",
+  "description": "",
+  "type": "post_type",
+  "type_label": "Page",
+  "object": "page",
+  "object_id": 3998,
+  "parent": 4002,
+  "menu_order": 4,
+  "target": "",
+  "classes": [
+   ""
+  ],
+  "xfn": [
+   ""
+  ],
+  "invalid": false,
+  "meta": {
+   "ngg_post_thumbnail": 0
+  },
+  "menus": 44,
+  "_links": {
+   "self": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items/4005",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/types/nav_menu_item"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "nav_menu",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menus?post=4005"
+    }
+   ],
+   "wp:menu-item-object": [
+    {
+     "post_type": "page",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/pages/3998"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 4006,
+  "title": {
+   "rendered": "Comitet"
+  },
+  "status": "publish",
+  "url": "https://rotaryoperacluj.ro/despre-noi/comitet/",
+  "attr_title": "",
+  "description": "",
+  "type": "post_type",
+  "type_label": "Page",
+  "object": "page",
+  "object_id": 4000,
+  "parent": 4002,
+  "menu_order": 5,
+  "target": "",
+  "classes": [
+   ""
+  ],
+  "xfn": [
+   ""
+  ],
+  "invalid": false,
+  "meta": {
+   "ngg_post_thumbnail": 0
+  },
+  "menus": 44,
+  "_links": {
+   "self": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items/4006",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/types/nav_menu_item"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "nav_menu",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menus?post=4006"
+    }
+   ],
+   "wp:menu-item-object": [
+    {
+     "post_type": "page",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/pages/4000"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 4169,
+  "title": {
+   "rendered": "Evenimente"
+  },
+  "status": "publish",
+  "url": "https://rotaryoperacluj.ro/portfolio/proiectele-noastre/",
+  "attr_title": "",
+  "description": "",
+  "type": "post_type",
+  "type_label": "Page",
+  "object": "page",
+  "object_id": 842,
+  "parent": 0,
+  "menu_order": 6,
+  "target": "",
+  "classes": [
+   ""
+  ],
+  "xfn": [
+   ""
+  ],
+  "invalid": false,
+  "meta": {
+   "ngg_post_thumbnail": 0
+  },
+  "menus": 44,
+  "_links": {
+   "self": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items/4169",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/types/nav_menu_item"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "nav_menu",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menus?post=4169"
+    }
+   ],
+   "wp:menu-item-object": [
+    {
+     "post_type": "page",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/pages/842"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 6808,
+  "title": {
+   "rendered": "Doneaza"
+  },
+  "status": "publish",
+  "url": "https://rotaryoperacluj.ro/doneaza/",
+  "attr_title": "",
+  "description": "",
+  "type": "post_type",
+  "type_label": "Page",
+  "object": "page",
+  "object_id": 6802,
+  "parent": 0,
+  "menu_order": 7,
+  "target": "",
+  "classes": [
+   ""
+  ],
+  "xfn": [
+   ""
+  ],
+  "invalid": false,
+  "meta": {
+   "ngg_post_thumbnail": 0
+  },
+  "menus": 44,
+  "_links": {
+   "self": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items/6808",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/types/nav_menu_item"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "nav_menu",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menus?post=6808"
+    }
+   ],
+   "wp:menu-item-object": [
+    {
+     "post_type": "page",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/pages/6802"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 4007,
+  "title": {
+   "rendered": "Contact"
+  },
+  "status": "publish",
+  "url": "https://rotaryoperacluj.ro/contact/",
+  "attr_title": "",
+  "description": "",
+  "type": "post_type",
+  "type_label": "Page",
+  "object": "page",
+  "object_id": 1294,
+  "parent": 0,
+  "menu_order": 10,
+  "target": "",
+  "classes": [
+   ""
+  ],
+  "xfn": [
+   ""
+  ],
+  "invalid": false,
+  "meta": {
+   "ngg_post_thumbnail": 0
+  },
+  "menus": 44,
+  "_links": {
+   "self": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items/4007",
+     "targetHints": {
+      "allow": [
+       "GET",
+       "POST",
+       "PUT",
+       "PATCH",
+       "DELETE"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menu-items"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/types/nav_menu_item"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "nav_menu",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/menus?post=4007"
+    }
+   ],
+   "wp:menu-item-object": [
+    {
+     "post_type": "page",
+     "embeddable": true,
+     "href": "https://rotaryoperacluj.ro/wp-json/wp/v2/pages/1294"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]
