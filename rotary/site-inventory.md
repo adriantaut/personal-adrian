@@ -81,7 +81,11 @@ Contact
 | Service Projects Chair | Radu Serfezeu |
 | Young Leaders Contact | Cristian Zaharia |
 
-→ Need: 2025–26 board, current member list (my.rotary.org), photos, short bios.
+**Board 2025–2026:** Președinte Cristian Zaharia · Past President Lavinia Florian · Vicepreședinte Cătălin Niță · Secretar Lavinia Berinde · Trezorier Sebastian Andro · Sergeant at Arms Darius Popîrțac · PR Chair Alexandra Pintea · Membership Chair Iulia Sandu · Foundation Chair Cosmina Postescu · Service Projects Chair Paula Șeer (funcție creată la o lună după începutul mandatului) · Președinte ales 2026–27 Ovidiu Pop
+
+**Foști președinți (complet):** 2018–19 Cristian Avram (fondator) · 2019–20 Dominic Gidro · 2020–21 Cătălin Niță · 2021–22 Radu Miron · 2022–23 Florin Dehelean · 2023–24 Cosmina Postescu · 2024–25 Lavinia Florian · 2025–26 Cristian Zaharia · **2026–27 Ovidiu Pop (în funcție)**
+
+→ Need: current member list (my.rotary.org), photos, short bios.
 
 ### Doneaza
 - Only **3.5% redirection** via https://redirectioneaza.ro/rotary-club-cluj-napoca-opera/ — no card/IBAN option. See `rotary/plati-donatii.md`.
