@@ -172,3 +172,15 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Admin `adrian.taut` (email rotaryoperacluj@gmail.com); parola `~/.rotary_nou_admin`, app password `~/.rotary_nou_app`, DB `~/.rotary_nou_db`
 - **Fără repo/GitHub** — totul configurat din WordPress (Site Editor + Secure Custom Fields), ca oricine să-l poată prelua. Backup design: export periodic cu Create Block Theme
 - Email: `contact@` → forward la dominicgidro@gmail.com **și** rotaryoperacluj@gmail.com
+
+### 🔒 Site vechi oprit (28 Sep 2026)
+- `public_html/.htaccess` are blocul `rop-maintenance` → toate URL-urile dau **503** + `Retry-After: 172800` cu pagina `maintenance.html` (email + link 3,5%). WordPress-ul vechi e intact dar inaccesibil.
+- Restaurare: șterge blocul din `.htaccess` (copie originală: `.htaccess.bak-rop`).
+- Email neafectat. Țintă: site nou live în 1-2 zile.
+
+### 🏗️ Site nou — v1 pe staging (28 Sep 2026)
+- Conținut: 12 proiecte (cu poze, impact, galerii), 33 membri (25 cu poză), comitet 2026-27, istoric comitete 2018-2026, pagini Acasă/Despre/Echipa/Implică-te/Contact
+- Structură: CPT `proiect`/`membru`/`eveniment` (SCF), taxonomie `categorie-proiect`; mu-plugin `wp-content/mu-plugins/rop-blocks.php` (shortcode-uri impact/galerie/parteneri/echipă + CSS)
+- Design: global styles (Royal Blue/Gold, Literata + Manrope), header sticky + buton Donează, bară Donează pe mobil, view transitions
+- Conținut sursă curat: `rotary/site-content/proiecte.json`
+- **De primit înainte de lansare:** logo oficial club · IBAN asociație · locația întâlnirilor · validare listă membri (my.rotary.org) · proiecte 2025-26 (EDUCATIO, Promenada Inimilor…) · link-uri Facebook/Instagram · decizie Stripe (RUB check)
