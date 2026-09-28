@@ -201,5 +201,5 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Membrii nu mai au pagini publice individuale (doar pe /echipa/)
 - SEO: The SEO Framework — titlu/descriere home, imagine share (og-default.jpg), date organizație + FB/IG; sitemap: /sitemap.xml
 - Favicon: roata Rotary
-- **De făcut de Adrian:** 2FA pe contul lui (Wordfence → Login Security) · Google Search Console (trimite codul de verificare)
+- ✅ 2FA activ pe adrian.taut · ✅ Google Search Console verificat, sitemap trimis (28 Sep 2026)
 - Pagina **/termeni-donatii/** (cerută de Stripe) — link în footer lângă Confidențialitate
