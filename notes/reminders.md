@@ -66,7 +66,7 @@
 | Mie 8 Apr, 18:30 | 🎤 PREZENTARE despre mine la Rotary (amânată de pe 1 Apr) | ✅ |
 | Mie 20 Mai 2026, 18:30 | Ședință Rotary - **NU particip** | ❌ |
 | 25 Mai 2026 | DEADLINE Formular 230 (trecut) | ✅ |
-| 16 Sep 2026 | 🌐 **Site Rotary Opera** — preluare + refacere (vezi `rotary/site.md`). Next: credențiale de la **Vasile** și **Iulia** | ⏳ |
+| 16 Sep 2026 | 🌐 **Site Rotary Opera** — acces recuperat, site reparat, backup ✅. Rămâne WordPress; se lucrează în sesiune separată (vezi `rotary/site.md`) | 🔄 |
 | **Sâm 26 Sep 2026** | 🚶 Promenada Inimilor | ⏳ |
 | **Dum 27 Sep 2026** | 🍖 Grătar la Levi | ⏳ |
 | **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** | ⏳ |
