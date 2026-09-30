@@ -1,12 +1,18 @@
-# Ședință Rotary — întrebări / puncte de discutat
+# Ședință Rotary — Mie 30 Sep 2026, 18:30, Hotel Victoria
 
-Ședințe: miercuri, 18:30, Hotel Victoria. Următoarea: **Mie 30 Sep 2026**.
+## Site (rotaryoperacluj.ro — lansat 28 Sep)
 
-## Site nou (rotaryoperacluj.ro — lansat 28 Sep 2026)
+### Decizii
+- [ ] Pagină LinkedIn? Cine e al doilea admin?
+- [ ] Stripe (donații cu cardul): Cristian Zaharia (reprezentant legal) face verificarea de identitate cu Adrian — când?
+- [ ] Nr. înregistrare în Registrul Asociațiilor și Fundațiilor (pentru Stripe) — cine îl are?
+- [ ] Cine primește cont de editor pe site?
+- [ ] Membrii de onoare: îi afișăm sau nu?
+- [ ] Photo shooting — când, cine organizează?
 
-- [ ] **Vrem pagină de LinkedIn?** (canal bun pentru sponsorizări corporate / CSR; ~15 min de creat; cine e al doilea admin?)
-- [ ] Stripe: reprezentantul legal în acte este **Cristian Zaharia** (președinte/director în documentele asociației, nu Ovidiu) → Cristian face pasul de verificare identitate (buletin + selfie), împreună cu Adrian
-- [ ] Photo shooting pentru membrii fără poză (12 persoane) — când?
-- [ ] Proiectele 2025-2026 pe site (EDUCATIO, Promenada Inimilor, Grătar la Levi…) — cine trimite text + poze?
-- [ ] Cine mai primește cont de editor pe site (ex. Public Image Chair)?
-- [ ] Membrii de onoare: îi afișăm pe site (secțiune separată) sau nu?
+### De cerut colegilor
+- [ ] Poze (portret cap+umeri, fundal simplu, orice rezoluție, cu numele): Daniel Horvat, Horea Păcurar, Iulia Merca, Iulia Sandu, Loana Vultur, Oana Ometa, Paula Șeer, Radu Serfezeu, Valentin Hodis + onoare: Andrei Cîmpean, Florin Dehelean, Iulian Sandu, Oana Ianoș
+- [ ] Proiecte 2025-2026 (EDUCATIO, Promenada Inimilor, Grătar la Levi, altele): 3-5 fraze, 3-10 poze, cifre, parteneri — câte un responsabil per proiect
+- [ ] Evenimente viitoare publice (dată, loc, link înscriere)
+- [ ] Logo CXP Spedition + alți parteneri de adăugat (logo + link)
+- [ ] Verificați /echipa/: nume scrise corect, lipsește cineva?
