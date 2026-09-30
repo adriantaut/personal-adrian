@@ -13,6 +13,6 @@
 ### De cerut colegilor
 - [ ] Poze (portret cap+umeri, fundal simplu, orice rezoluție, cu numele): Daniel Horvat, Horea Păcurar, Iulia Merca, Iulia Sandu, Loana Vultur, Oana Ometa, Paula Șeer, Radu Serfezeu, Valentin Hodis + onoare: Andrei Cîmpean, Florin Dehelean, Iulian Sandu, Oana Ianoș
 - [ ] Proiecte 2025-2026 (EDUCATIO, Promenada Inimilor, Grătar la Levi, altele): 3-5 fraze, 3-10 poze, cifre, parteneri — câte un responsabil per proiect
-- [ ] Evenimente viitoare publice (dată, loc, link înscriere)
-- [ ] Logo CXP Spedition + alți parteneri de adăugat (logo + link)
+- [ ] Parteneri: actualizăm lista? (cine rămâne, cine se adaugă — logo + link; logo CXP Spedition)
 - [ ] Verificați /echipa/: nume scrise corect, lipsește cineva?
+- [ ] Pagina Donează: ce echivalențe concrete punem? (ex. 50 lei = …, 100 lei = …, 250 lei = …) și ce proiect e „activ” pentru donații acum?
