@@ -18,7 +18,7 @@
 | ✅ 11 Aug 2026 | Discuție CEDEXPERT: aprobare tehnică, redirect la avocat | ✅ |
 | 24 Aug 2026 | ✅ Ana Udriste: OK pt 2 facturi ZAR (1 oficială Revolut + 1 neoficială Wallet, în afara CA) | ✅ |
 | 17 Aug 2026 | Discuție Adeel: 2 facturi, ambele pe DEVOPS BOX SRL, către GADL Pte Ltd | ✅ |
-| 🎯 **Q4 2026** | **Monitor CA YTD** — target ≤ 510-515K RON (100K EUR × 5,2 - buffer 5-10K conform CEDEXPERT) | ⏳ |
+| 🎯 **Q4 2026** | **Monitor CA YTD** — la 1 Oct: **435.101 RON** (10 facturi). Proiectat final: ~489.3K RON ≈ 93.2K EUR ✅ (break-even la curs 4,89). Target ≤ 510-515K | ⏳ |
 | 14 Aug 2026 | ✅ Confirmări CEDEXPERT: CA = facturi emise, curs 31.12.2026 (necunoscut), buffer recomandat 5-10K RON | ✅ |
 | 📅 **31 Mar 2027** | **Depunere D700** — trecere pe micro (dacă CA 2026 < 100K EUR) | ⏳ |
 | 15 Mai 2026 | Raport zile lucrate Mai → CEDEXPERT | ✅ |
