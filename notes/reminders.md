@@ -67,7 +67,9 @@
 | Mie 8 Apr, 18:30 | 🎤 PREZENTARE despre mine la Rotary (amânată de pe 1 Apr) | ✅ |
 | Mie 20 Mai 2026, 18:30 | Ședință Rotary - **NU particip** | ❌ |
 | 25 Mai 2026 | DEADLINE Formular 230 (trecut) | ✅ |
-| 16 Sep 2026 | 🌐 **Site Rotary Opera** — acces recuperat, site reparat, backup ✅. Rămâne WordPress; se lucrează în sesiune separată (vezi `rotary/site.md`) | 🔄 |
+| 28 Sep 2026 | 🌐 **Site Rotary Opera** — site nou LIVE pe rotaryoperacluj.ro (vezi `rotary/site.md`) | ✅ |
+| **ASAP (după 30 Sep)** | 💳 **Stripe** — deschide cont pe rotaryoperacluj@gmail.com, verificare identitate cu **Cristian Zaharia** (aprobat la ședința 30 Sep). Apoi trimite-i lui Claude un restricted API key → butoane donație | ⏳ |
+| **ASAP** | 📝 **Proiecte 2025-2026 pe site** — ia legătura cu **Lavinia Berinde** (text + poze + cifre: EDUCATIO, Promenada Inimilor, Grătar la Levi…) | ⏳ |
 | **Sâm 26 Sep 2026** | 🚶 Promenada Inimilor | ⏳ |
 | **Dum 27 Sep 2026** | 🍖 Grătar la Levi | ⏳ |
 | **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** | ⏳ |
