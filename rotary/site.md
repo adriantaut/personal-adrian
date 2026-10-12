@@ -209,3 +209,5 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Exemplu live: /proiecte/toyjoy/ (2023 / 2024 / 2025). Colaj desene 2025 cu numele copiilor estompate
 - Unelte persistente: `rotary/site-content/tools/` (cp.py, oneshot.py, set-photo.sh, copie rop-blocks.php); badge foto: `rotary/site-content/badge.sh`
 - Material 2024-2026: `rotary/site-content/research-*.md` + `drafts-*.json`
+- **12 Oct 2026:** adăugate 9 proiecte 2024-2026 (EDUCATIO, Construim Bucurie actualizat, Promenada Inimilor, Învață să redai viața!, Souls & Strings, Retrosonic 2025, Cartare Rotaract Opera, Înfrățire RC București Nord, Pe scurt 2025-2026) + ToyJoy cu 3 ediții. Text sursă: `rotary/site-content/proiecte-2024-2026.json`. /proiecte/ arată toate cele 20 de proiecte
+- Foto Paula Șeer luată din raportul secretarului 2025-2026 (slide 3, image12) — confirmată de Adrian

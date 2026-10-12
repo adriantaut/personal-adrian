@@ -44,7 +44,9 @@ add_shortcode('rop_editii', function () {
 	usort($rows, fn($a, $b) => strcmp((string) $b['an'], (string) $a['an']));
 	$h = '<div class="rop-editions">';
 	foreach ($rows as $r) {
-		$h .= '<section class="rop-edition"><header><span class="rop-edition__year">' . esc_html($r['an']) . '</span><div><h2 class="wp-block-heading">' . esc_html($r['titlu'] ?: 'Ediția ' . $r['an']) . '</h2>'
+		$an = (string) $r['an']; // "2025" or an ISO date "2025-11-26" (shown as "nov. 2025")
+		$label = preg_match('/^\d{4}-\d{2}(-\d{2})?$/', $an) ? date_i18n('M Y', strtotime(strlen($an) === 7 ? $an . '-01' : $an)) : $an;
+		$h .= '<section class="rop-edition"><header><span class="rop-edition__year' . ($label !== $an ? ' rop-edition__year--date' : '') . '">' . esc_html($label) . '</span><div><h2 class="wp-block-heading">' . esc_html($r['titlu'] ?: 'Ediția ' . $r['an']) . '</h2>'
 			. ($r['detalii'] ? '<p class="rop-edition__meta">' . esc_html($r['detalii']) . '</p>' : '') . '</div></header>'
 			. '<div class="rop-edition__text">' . wp_kses_post(wpautop($r['text'])) . '</div>';
 		$r['galerie'] = array_filter((array) $r['galerie']);
@@ -104,6 +106,12 @@ add_filter('wp_sitemaps_add_provider', fn($p, $name) => $name === 'users' ? fals
 add_filter('query_loop_block_query_vars', function ($q) {
 	if (is_singular('proiect') && ($q['post_type'] ?? '') === 'proiect') $q['post__not_in'] = array_merge($q['post__not_in'] ?? [], [get_queried_object_id()]);
 	return $q;
+});
+
+
+// show every project on /proiecte/ and category pages (no pagination)
+add_action('pre_get_posts', function ($q) {
+	if (!is_admin() && $q->is_main_query() && ($q->is_post_type_archive('proiect') || $q->is_tax('categorie-proiect'))) $q->set('posts_per_page', 100);
 });
 
 add_action('wp_head', function () { ?>
@@ -205,10 +213,11 @@ body.admin-bar header.wp-block-template-part{top:-16px}
 .rop-editions{max-width:720px;margin:3rem auto 0;display:grid;gap:3rem}
 .rop-edition header{display:flex;gap:1.25rem;align-items:baseline;border-top:2px solid var(--wp--preset--color--accent-2);padding-top:1.25rem;margin-bottom:1rem}
 .rop-edition__year{font-family:var(--wp--preset--font-family--literata);font-size:clamp(2rem,4vw,3rem);color:var(--wp--preset--color--accent-2);line-height:1}
+.rop-edition__year--date{font-size:clamp(1.3rem,2.4vw,1.7rem)!important;white-space:nowrap;min-width:5.5em}
 .rop-edition h2{margin:0;font-size:clamp(1.4rem,2.4vw,1.9rem)}
 .rop-edition__meta{margin:.35rem 0 0;color:var(--wp--preset--color--muted);font-weight:600}
 .rop-edition__text{max-width:720px}
-.rop-edition .rop-gallery{margin-top:1.25rem}
+.rop-edition .rop-gallery{margin-top:1.25rem;grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}.rop-edition .rop-gallery img{height:140px}
 .rop-timeline{list-style:none;padding:0;border-left:2px solid var(--wp--preset--color--accent-6);margin-left:.4rem}
 .rop-timeline li{position:relative;padding:0 0 1.4rem 1.6rem}
 .rop-timeline li:before{content:"";position:absolute;left:-7px;top:.45em;width:12px;height:12px;border-radius:50%;background:var(--wp--preset--color--accent-2)}
