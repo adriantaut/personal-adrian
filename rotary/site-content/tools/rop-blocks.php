@@ -197,7 +197,7 @@ add_action('wp_head', function () { ?>
 header.wp-block-template-part{position:sticky;top:-48px;z-index:50}
 body.admin-bar header.wp-block-template-part{top:-16px}
 .rop-topbar{background:var(--wp--preset--color--accent-4);color:#fff;font-size:.85rem;padding:.45rem var(--wp--preset--spacing--50)}
-.rop-topbar__in{max-width:1200px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;gap:1rem}
+.rop-topbar__in{max-width:1200px;margin:0 auto;display:flex;justify-content:flex-end;align-items:center;gap:1rem}
 .rop-topbar a{color:#fff;text-decoration:none}.rop-topbar b{font-weight:600;opacity:.75;font-size:.75rem;letter-spacing:.06em}
 .rop-topbar__right{display:flex;align-items:center;gap:.6rem}.rop-topbar__mail{margin-right:.6rem}
 .rop-ico{width:34px;height:34px;border:2px solid var(--wp--preset--color--accent-2);border-radius:50%;display:inline-grid;place-items:center;color:#fff;transition:background .2s,color .2s}
