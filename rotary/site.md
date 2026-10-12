@@ -211,3 +211,11 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Material 2024-2026: `rotary/site-content/research-*.md` + `drafts-*.json`
 - **12 Oct 2026:** adăugate 9 proiecte 2024-2026 (EDUCATIO, Construim Bucurie actualizat, Promenada Inimilor, Învață să redai viața!, Souls & Strings, Retrosonic 2025, Cartare Rotaract Opera, Înfrățire RC București Nord, Pe scurt 2025-2026) + ToyJoy cu 3 ediții. Text sursă: `rotary/site-content/proiecte-2024-2026.json`. /proiecte/ arată toate cele 20 de proiecte
 - Foto Paula Șeer luată din raportul secretarului 2025-2026 (slide 3, image12) — confirmată de Adrian
+
+### ⏸️ De reluat
+- **Instagram pe homepage** — plugin Smash Balloon (`instagram-feed`) instalat, dar NU e conectat niciun cont (tabelele `sbi_sources`/`sbi_feeds` goale, 12 Oct 2026). De făcut: cont Instagram al clubului → Business/Creator → WP Admin → Instagram Feed → Add Source → finalizează conectarea + creează un feed; apoi Claude adaugă secțiunea „Pe Instagram” (6 postări) deasupra partenerilor. (Adrian a încercat cu pagina lui personală — se poate testa și cu ea.)
+- **Paul Harris Fellow** — lista membrilor PHF de la ședință → activat insigna pe /echipa/
+- **Stripe** — Adrian deschide contul cu Cristian Zaharia → restricted API key → butoane donație + pagina Donează nouă
+- **WebP / optimizare imagini** (LiteSpeed + QUIC.cloud) — opțional
+- **Formular de contact, pagină „Devino membru”, pagină „Impactul nostru”** — propuse, neîncepute
+- Ștergere site vechi (`old-site-hacked-2019` + DB `rotaryop_wp` + backup-uri Softaculous vechi) · revocare token cPanel + cheie SSH
