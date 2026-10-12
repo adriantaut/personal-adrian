@@ -217,5 +217,7 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - **Paul Harris Fellow** — lista membrilor PHF de la ședință → activat insigna pe /echipa/
 - **Stripe** — Adrian deschide contul cu Cristian Zaharia → restricted API key → butoane donație + pagina Donează nouă
 - **WebP / optimizare imagini** (LiteSpeed + QUIC.cloud) — opțional
-- **Formular de contact, pagină „Devino membru”, pagină „Impactul nostru”** — propuse, neîncepute
-- Ștergere site vechi (`old-site-hacked-2019` + DB `rotaryop_wp` + backup-uri Softaculous vechi) · revocare token cPanel + cheie SSH
+- ✅ Pagina **/devino-membru/** (12 Oct 2026; pași din minute: ședință → aspirant cu mentor → ~6 luni, max 9 → raport mentor → vot). Cotizația NU e pe site (suma nu apare în documente)
+- Formular de contact: Adrian nu-l vrea · Pagina „Impactul nostru” + pagina Donează nouă: după Stripe
+- ✅ Șters site vechi + DB `rotaryop_wp`/`rotaryop_wp56` + 3 backup-uri Softaculous (12 Oct 2026; disc 2.7 → 0.78 GB) · ⏳ revocare token cPanel + cheie SSH la final
+- ✅ Independent Analytics (statistici, WP Admin → Analytics) + LiteSpeed Cache (pagini ~0.1-0.3 s)
