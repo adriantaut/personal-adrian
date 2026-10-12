@@ -14,3 +14,6 @@
 - [x] Proiecte 2025-2026 → contact: **Lavinia Berinde** (3-5 fraze, 3-10 poze, cifre, parteneri per proiect)
 - [ ] Parteneri: actualizăm lista? (cine rămâne, cine se adaugă — logo + link; logo CXP Spedition)
 - [ ] Pagina Donează: ce echivalențe concrete punem? (ex. 50 lei = …, 100 lei = …, 250 lei = …) și ce proiect e „activ” pentru donații acum?
+
+## Următoarea ședință
+- [ ] **Paul Harris Fellow:** cine din club are PHF? (raportul 2025-26 pomenește 4 distincții în iunie 2026 — Paul Pop, Darius Popîrțac, Cristian Zaharia, Cristian Avram? + 1 PHF la conferința din 2025) → Claude activează insigna pe /echipa/

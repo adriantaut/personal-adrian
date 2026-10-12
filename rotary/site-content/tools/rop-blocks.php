@@ -136,7 +136,7 @@ add_action('wp_head', function () { ?>
 .rop-team--onoare{grid-template-columns:repeat(auto-fill,minmax(140px,1fr))}.rop-team--onoare img,.rop-team--onoare .rop-monogram{width:88px;height:88px;font-size:1.6rem}
 .rop-member__prof{color:var(--wp--preset--color--muted);font-size:.85rem}
 .rop-badge{font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;color:var(--wp--preset--color--accent-4);background:var(--wp--preset--color--accent-5);padding:.15em .6em;border-radius:999px;margin-top:.2rem}
-.rop-header{backdrop-filter:saturate(1.4) blur(8px);background:rgba(255,255,255,.92)!important;border-bottom:1px solid var(--wp--preset--color--accent-6)}
+.rop-header{background:#fff!important;border-bottom:1px solid var(--wp--preset--color--accent-6)}
 .rop-wordmark a{text-decoration:none;color:var(--wp--preset--color--accent-1);line-height:1.1;display:inline-block}
 .rop-wordmark b{font-size:1.45rem;font-weight:800;letter-spacing:-.01em}
 .rop-wordmark span{display:block;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--wp--preset--color--accent-4)}
@@ -230,6 +230,8 @@ body.admin-bar header.wp-block-template-part{top:-16px}
 .rop-header__right{gap:1.5rem;flex-wrap:nowrap}
 .rop-nav{font-weight:600;font-size:.95rem}
 .rop-nav a{color:var(--wp--preset--color--accent-4)}
+.rop-nav .wp-block-navigation__responsive-container.is-menu-open{padding:2rem 1.5rem;background:#fff}
+.rop-nav .is-menu-open .wp-block-navigation__container{gap:1.25rem;font-size:1.35rem;font-family:var(--wp--preset--font-family--literata)}
 .rop-donate .wp-block-button__link{padding:.55em 1.3em;font-size:.95rem}
 @media (max-width:781px){.rop-header .rop-donate{display:none}}
 .rop-footer{background:var(--wp--preset--color--accent-4);color:#c9d4ea;padding:4rem var(--wp--preset--spacing--50) 2rem;margin-top:0!important}
