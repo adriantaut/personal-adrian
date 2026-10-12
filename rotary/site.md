@@ -203,3 +203,9 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Favicon: roata Rotary
 - ✅ 2FA activ pe adrian.taut · ✅ Google Search Console verificat, sitemap trimis (28 Sep 2026)
 - Pagina **/termeni-donatii/** (cerută de Stripe) — link în footer lângă Confidențialitate
+
+### Proiecte recurente — ediții (12 Oct 2026)
+- Câmp SCF repeater `editii` pe `proiect` (an, titlu, detalii, text, poze) → shortcode `[rop_editii]` în șablonul `single-proiect`, cea mai nouă ediție prima
+- Exemplu live: /proiecte/toyjoy/ (2023 / 2024 / 2025). Colaj desene 2025 cu numele copiilor estompate
+- Unelte persistente: `rotary/site-content/tools/` (cp.py, oneshot.py, set-photo.sh, copie rop-blocks.php); badge foto: `rotary/site-content/badge.sh`
+- Material 2024-2026: `rotary/site-content/research-*.md` + `drafts-*.json`
