@@ -115,12 +115,30 @@ Este **factura de servicii din 2024** (cea de la "altă firmă", pentru încadra
 
 - Cei "6.650 EUR" din evidența veche = **totalul cu TVA** (33.100 lei). Corecție aplicată.
 - Hexagon creditează doar **netul** (5.591,88), rotunjit în jos la 5.554,50 ca prețul contractului să iasă 180.500 rotund → pierdere de rotunjire **37,38 EUR**, acceptabilă.
-- 🚨 **TVA-ul de 1.062,46 EUR (5.284,87 lei) NU se creditează și e probabil pierdut** — dacă factura e pe Manu PF, nu se deduce retroactiv (firma nu era înregistrată în scopuri de TVA în 2024). **De verificat beneficiarul de pe factură.**
+- ❌ **TVA-ul de 1.062,46 EUR (5.284,87 lei) e DEFINITIV PIERDUT** — confirmat 13 Oct: beneficiarul facturii e **Manu PF**, iar firma nu era înregistrată în scopuri de TVA în 2024 → nicio recuperare retroactivă. Cost scufundat din artificiul cu TVA 9%.
 
-#### ⚠️ De făcut înainte de semnare (vineri)
-1. 🚨 **Mențiune explicită în contract**: prețul de 180.500 EUR reflectă creditarea facturii nr. 1/11.09.2024, valoare netă 5.554,50 EUR. Banii au mers la **altă entitate juridică** decât Hexagon → fără mențiunea asta nu există nicio hârtie care leagă plata de obligația față de Hexagon.
-2. **Curs 4,9742** (al Cristianei) vs 4,9740 (evidența mea) — diferență ~21 lei, irelevantă, dar e singurul curs blocat în contract → se folosește **4,9742**, scris identic peste tot.
-3. **Verifică beneficiarul facturii din 2024** (Manu PF vs cabinet) — determină dacă TVA-ul de 1.062 EUR mai e recuperabil.
+#### 🚨 PROBLEMA CHEIE: plățile vechi sunt pe PF, cumpărătorul nou e firma
+
+| Ce | Plătitor |
+|---|---|
+| Avans 103.500 EUR (2024) | **Manu PF** |
+| Factură servicii, net 5.554,50 (2024) | **Manu PF** |
+| Avans 5% = 9.025 EUR (16 Oct 2026) | **firma** (cabinet) |
+| Rest 67.975 EUR (la CF) | **firma** |
+
+Firma semnează pentru 180.500 EUR dar virează doar **77.000**; restul de **109.054,50 EUR** e credit provenit de la persoana fizică. De rezolvat:
+
+1. **Cui returnează Hexagon cei 103.500 EUR?**
+   - Către Manu PF → banii trebuie să intre apoi în firmă prin **creditare asociat** (contract scris, fără dobândă) sau aport la capital. Neutru fiscal, dar necesită documentație.
+   - Direct către firmă → mai curat, dar firma primește bani pe care nu i-a plătit → tot trebuie documentat.
+2. **Contractul trebuie să recunoască explicit** că firma preia creditul de 109.054,50 EUR plătit de Manu PF în baza antecontractului din 2024.
+
+→ De discutat cu **Cristiana + contabila înainte de vineri**, nu la semnare.
+
+#### ⚠️ De făcut înainte de semnare (vineri 16 Oct)
+1. 🚨 **Mențiune explicită în contract**: prețul de 180.500 EUR reflectă creditarea facturii nr. 1/11.09.2024, valoare netă 5.554,50 EUR. Banii au mers la **altă entitate juridică** decât Hexagon → fără mențiune nu există hârtie care leagă plata de obligația față de Hexagon.
+2. 🚨 **Clarifică mecanica PF → firmă** (vezi mai sus).
+3. **Curs 4,9742** (al Cristianei) vs 4,9740 (evidența mea) — diferență ~21 lei, irelevantă, dar e singurul curs blocat în contract → se folosește **4,9742**, scris identic peste tot.
 
 ### Condiții TVA — vezi `srl/manu-tva-caen.md`
 
