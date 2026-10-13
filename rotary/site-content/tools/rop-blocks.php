@@ -223,6 +223,8 @@ body.admin-bar header.wp-block-template-part{top:-16px}
 .rop-steps li:before{content:counter(s);grid-row:span 2;width:2.6rem;height:2.6rem;border-radius:50%;background:var(--wp--preset--color--accent-1);color:var(--wp--preset--color--accent-2);display:grid;place-items:center;font-family:var(--wp--preset--font-family--literata);font-size:1.3rem}
 .rop-steps b{font-family:var(--wp--preset--font-family--literata);font-size:1.2rem;color:var(--wp--preset--color--accent-4)}
 .rop-steps span{color:var(--wp--preset--color--contrast)}
+/* test: justified text on EDUCATIO only (desktop) */
+@media (min-width:782px){body.postid-237 .wp-block-post-content p,body.postid-237 .rop-edition__text p{text-align:justify;hyphens:auto;-webkit-hyphens:auto;hyphenate-limit-chars:7 3 3}}
 .rop-timeline{list-style:none;padding:0;border-left:2px solid var(--wp--preset--color--accent-6);margin-left:.4rem}
 .rop-timeline li{position:relative;padding:0 0 1.4rem 1.6rem}
 .rop-timeline li:before{content:"";position:absolute;left:-7px;top:.45em;width:12px;height:12px;border-radius:50%;background:var(--wp--preset--color--accent-2)}
