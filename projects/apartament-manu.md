@@ -135,10 +135,28 @@ Firma semnează pentru 180.500 EUR dar virează doar **77.000**; restul de **109
 
 → De discutat cu **Cristiana + contabila înainte de vineri**, nu la semnare.
 
+#### 🚨 AVANSUL 2024 ERA BRUT (TVA 9% incl), CONTRACTUL NOU E NET — expunere 8.546 EUR
+
+Contractul vechi: 131.345 EUR **cu TVA 9% inclus**. Avansul de 103.500 EUR = 78,8% din suma brută → conținea TVA:
+
+| | EUR |
+|---|---|
+| Avans 2024 (brut) | 103.500 |
+| din care net | **94.954,13** |
+| din care TVA 9% | **8.545,87** |
+
+Contractul nou e **180.500 EUR net** (taxare inversă). Cristiana trece 103.500 ca tranșă din prețul net → creditează **brutul 1:1 contra netului**. ✅ Favorabil lui Manu.
+
+⚠️ Dar Hexagon trebuie să **storneze factura de avans din 2024** (avea TVA 9%) și să reemită în taxare inversă. La stornare poate apărea argumentul *"avansul net a fost 94.954, nu 103.500"* → **risc de 8.545,87 EUR**.
+
+→ De obținut confirmare scrisă ÎNAINTE de semnare.
+
 #### ⚠️ De făcut înainte de semnare (vineri 16 Oct)
 1. 🚨 **Mențiune explicită în contract**: prețul de 180.500 EUR reflectă creditarea facturii nr. 1/11.09.2024, valoare netă 5.554,50 EUR. Banii au mers la **altă entitate juridică** decât Hexagon → fără mențiune nu există hârtie care leagă plata de obligația față de Hexagon.
 2. 🚨 **Clarifică mecanica PF → firmă** (vezi mai sus).
-3. **Curs 4,9742** (al Cristianei) vs 4,9740 (evidența mea) — diferență ~21 lei, irelevantă, dar e singurul curs blocat în contract → se folosește **4,9742**, scris identic peste tot.
+3. 🚨 **Confirmă creditarea avansului brut** de 103.500 EUR 1:1 contra prețului net + modul de stornare a facturii de avans cu TVA 9% (risc 8.546 EUR).
+4. **Curs 4,9742** (al Cristianei) vs 4,9740 (evidența mea) — diferență ~21 lei, irelevantă, dar e singurul curs blocat în contract → se folosește **4,9742**, scris identic peste tot.
+5. **Util exact + etaj/orientare** apt 32 — trebuie oricum în contractul de rezervare.
 
 ### Condiții TVA — vezi `srl/manu-tva-caen.md`
 
@@ -166,7 +184,7 @@ Economia de 39.000 EUR depinde de: înregistrarea în scopuri de TVA + **notific
 1. ✅ **Răspuns:** se scad 103.500 (avans) + 5.554,50 (net factură altă firmă) → rest 77.000 EUR cash nou
 2. ✅ **Răspuns:** cei 103.500 la cursul din 2024 (4,9742); restul la BNR la data plății
 3. **Util-ul exact** al fiecărui apartament (32 vs 34) + etaj/orientare
-4. **VAT regularization** — avansul plătit la 9%, factura finală la 21% (cum se reglează)
+4. ⚠️ **VAT regularization** — avansul plătit la 9%, livrarea finală în taxare inversă → vezi secțiunea de expunere 8.546 EUR mai sus. **ÎNCĂ DESCHIS.**
 
 ---
 
