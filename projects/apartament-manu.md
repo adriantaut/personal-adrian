@@ -1,7 +1,7 @@
 # Apartament Manu (sora) — Calcul schimb ROW
 
-**Actualizat:** 20 Aug 2026
-**Status:** ⏳ Calcul preliminar (de confirmat cu dezvoltatorul)
+**Actualizat:** 13 Oct 2026
+**Status:** ✅ Structură confirmată — contract de rezervare se semnează **vineri 16 Oct 2026**
 
 ---
 
@@ -18,15 +18,15 @@
 
 - Preț total agreat: **138.000 EUR** (TVA 9% inclus)
   - Contract oficial: 131.345 EUR (apartament 117.720 + parcare 13.625, TVA incl)
-  - Plată la altă firmă: 6.650 EUR (artificiu pt. încadrare TVA 9% — plafon 600.000 lei net)
+  - Plată la altă firmă: **6.654,34 EUR** = 33.100 lei (27.815,13 net + 19% TVA) — factură servicii, artificiu pt. încadrare TVA 9%
 - Curs la semnare (10 Sep 2024): **1 EUR = 4,974 RON**
 
 ### Plătit efectiv (2024)
 | Componentă | EUR | RON (4,974) |
 |-----------|-----|-------------|
 | Avans | 103.500 | 514.809 |
-| Altă firmă | 6.650 | 33.077 |
-| **TOTAL** | **110.150** | **547.886** |
+| Altă firmă (factură servicii 1/11.09.2024: 27.815,13 net + 5.284,87 TVA 19%) | 6.654,34 | **33.100** |
+| **TOTAL** | **110.154,34** | **547.909** |
 
 - Restul din contractul vechi (27.845 EUR) NU s-a plătit (s-a schimbat apartamentul)
 
@@ -102,11 +102,25 @@ Facilitatea 9% prelungită până 30 Sep 2026, DAR **apartamentul ROW NU se cali
 > **Cash real nou: 77.000 EUR** (9.025 + 67.975). Cei 103.500 sunt returnați de Hexagon și re-achitați → net zero.
 > Expunere valutară doar pe ultimii 67.975 EUR: fiecare +0,10 la curs = +6.800 lei.
 
-#### ⚠️ De clarificat cu Cristiana înainte de semnare
-1. **Nr. + data facturii de 5.554,50 EUR** din 2024 — nu e în evidența mea (aveam doar 103.500 avans Hexagon + 6.650 la altă firmă). Structural: 135.554,50 − 5.554,50 = exact 130.000, iar 130.000 + 50.500 (20 mp extra) = 180.500. Trebuie menționată explicit în contract.
-2. **Curs 4,9742** (al ei) vs 4,9740 (ce aveam eu) — diferență ~21 lei, irelevantă, dar e singurul curs blocat în contract → se folosește 4,9742, scris identic peste tot.
+#### ✅ Identificată: factura de 5.554,50 EUR (13 Oct 2026)
 
-> ⚠️ Cei 6.650 EUR plătiți la altă firmă în 2024 rămân necreditați (confirmat: erau extra, peste cei 120.500 net).
+Este **factura de servicii din 2024** (cea de la "altă firmă", pentru încadrarea în TVA 9%):
+*"servicii conform convenție prestări servicii nr 1/11.09.2024"*
+
+| | Lei | EUR @ 4,9742 |
+|---|---|---|
+| Preț fără TVA | 27.815,13 | **5.591,88** |
+| TVA **19%** (cota standard RO în Sep 2024) | 5.284,87 | 1.062,46 |
+| **TOTAL** | **33.100,00** | **6.654,34** |
+
+- Cei "6.650 EUR" din evidența veche = **totalul cu TVA** (33.100 lei). Corecție aplicată.
+- Hexagon creditează doar **netul** (5.591,88), rotunjit în jos la 5.554,50 ca prețul contractului să iasă 180.500 rotund → pierdere de rotunjire **37,38 EUR**, acceptabilă.
+- 🚨 **TVA-ul de 1.062,46 EUR (5.284,87 lei) NU se creditează și e probabil pierdut** — dacă factura e pe Manu PF, nu se deduce retroactiv (firma nu era înregistrată în scopuri de TVA în 2024). **De verificat beneficiarul de pe factură.**
+
+#### ⚠️ De făcut înainte de semnare (vineri)
+1. 🚨 **Mențiune explicită în contract**: prețul de 180.500 EUR reflectă creditarea facturii nr. 1/11.09.2024, valoare netă 5.554,50 EUR. Banii au mers la **altă entitate juridică** decât Hexagon → fără mențiunea asta nu există nicio hârtie care leagă plata de obligația față de Hexagon.
+2. **Curs 4,9742** (al Cristianei) vs 4,9740 (evidența mea) — diferență ~21 lei, irelevantă, dar e singurul curs blocat în contract → se folosește **4,9742**, scris identic peste tot.
+3. **Verifică beneficiarul facturii din 2024** (Manu PF vs cabinet) — determină dacă TVA-ul de 1.062 EUR mai e recuperabil.
 
 ### Condiții TVA — vezi `srl/manu-tva-caen.md`
 
@@ -122,7 +136,7 @@ Economia de 39.000 EUR depinde de: înregistrarea în scopuri de TVA + **notific
 | − Avans plătit (2024) | −103.500 |
 | **= REST DE PLATĂ** | **~121.626 EUR** |
 
-> Cei 6.650 EUR (altă firmă) au fost **extra**, peste cei 120.500 net → NU se creditează, nu influențează. Se scade doar avansul de 103.500.
+> ⚠️ DEPĂȘIT (13 Oct): Hexagon **creditează** totuși netul facturii de la altă firmă (5.554,50 EUR). Vezi structura nouă mai sus.
 
 > Tot ce se plătește acum → la cursul EUR curent (~5,25 RON), nu cel din 2024.
 > La 5,25: 121.626 EUR ≈ **638.500 RON**
@@ -131,8 +145,8 @@ Economia de 39.000 EUR depinde de: înregistrarea în scopuri de TVA + **notific
 
 ## ⚠️ De confirmat cu dezvoltatorul
 
-1. **Din prețul quotat, cât mai am efectiv de plătit** — se scad cei 110.150 EUR (cu tot cu 6.650 la altă firmă) sau doar avansul de 103.500 primit de ei?
-2. **La ce curs** se creditează plata veche (EUR value 1:1, sau re-conversie)?
+1. ✅ **Răspuns:** se scad 103.500 (avans) + 5.554,50 (net factură altă firmă) → rest 77.000 EUR cash nou
+2. ✅ **Răspuns:** cei 103.500 la cursul din 2024 (4,9742); restul la BNR la data plății
 3. **Util-ul exact** al fiecărui apartament (32 vs 34) + etaj/orientare
 4. **VAT regularization** — avansul plătit la 9%, factura finală la 21% (cum se reglează)
 

@@ -88,7 +88,7 @@
 | 20 Aug 2026 | 🏠 Calcule apartament Manu — sold ~112.915 EUR (vezi `projects/apartament-manu.md`) | ✅ |
 | 22 Sep 2026 | 🏠 Manu: **coduri CAEN adăugate** ✅ (6820, 7020 etc.) | ✅ |
 | 13 Oct 2026 | 🏠 Manu: **înregistrare în scopuri de TVA** — DONE ✅ → taxarea inversă e deblocată | ✅ |
-| 🔴 **VINERI 16 Oct** | 🏠 Manu: **semnare contract rezervare** apt 32 + parcare S2 — **180.500 EUR**, avans 5% = **9.025 EUR** din firmă. Înainte de semnare: (1) cere nr. facturii de **5.554,50 EUR** din 2024, (2) verifică cursul **4,9742** scris identic peste tot | 🔴 |
+| 🔴 **VINERI 16 Oct** | 🏠 Manu: **semnare contract rezervare** apt 32 + parcare S2 — **180.500 EUR**, avans 5% = **9.025 EUR** din firmă. Înainte de semnare: (1) **mențiune în contract** a creditării facturii nr. 1/11.09.2024 (net 5.554,50 EUR — plătită altei firme!), (2) curs **4,9742** scris identic peste tot, (3) verifică beneficiarul facturii 2024 (PF vs cabinet) pt TVA-ul de 1.062 EUR | 🔴 |
 | **2028** (la predare apartament) | 🚨 Manu: **notificare opțiune TAXARE închiriere** la ANAF, înainte de prima chirie (fără ea se pierd ~39.000 EUR) | ⏳ |
 | **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — descompunere 186.054,50 + curs de conversie | ✅ |
 | **13-18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
