@@ -135,7 +135,7 @@ Firma semnează pentru 180.500 EUR dar virează doar **77.000**; restul de **109
 
 → De discutat cu **Cristiana + contabila înainte de vineri**, nu la semnare.
 
-#### 🚨 AVANSUL 2024 ERA BRUT (TVA 9% incl), CONTRACTUL NOU E NET — expunere 8.546 EUR
+#### ✅ REZOLVAT (13 Oct): avansul brut se creditează 1:1 — câștig 8.546 EUR
 
 Contractul vechi: 131.345 EUR **cu TVA 9% inclus**. Avansul de 103.500 EUR = 78,8% din suma brută → conținea TVA:
 
@@ -147,14 +147,23 @@ Contractul vechi: 131.345 EUR **cu TVA 9% inclus**. Avansul de 103.500 EUR = 78,
 
 Contractul nou e **180.500 EUR net** (taxare inversă). Cristiana trece 103.500 ca tranșă din prețul net → creditează **brutul 1:1 contra netului**. ✅ Favorabil lui Manu.
 
-⚠️ Dar Hexagon trebuie să **storneze factura de avans din 2024** (avea TVA 9%) și să reemită în taxare inversă. La stornare poate apărea argumentul *"avansul net a fost 94.954, nu 103.500"* → **risc de 8.545,87 EUR**.
+**✅ Confirmat de Hexagon (13 Oct):** returnează **întreaga sumă de 103.500 EUR**, iar Manu o re-achită la cursul din 2024 contra prețului net. Logica se închide:
 
-→ De obținut confirmare scrisă ÎNAINTE de semnare.
+| | |
+|---|---|
+| Hexagon stornează factura de avans 2024 | recuperează 8.546 EUR TVA de la ANAF |
+| Hexagon returnează 103.500 EUR (brutul integral) | poziția lor de cash: neutră |
+| Manu re-achită 103.500 EUR contra prețului **net** | cei 8.546 EUR TVA devin preț de apartament |
+
+→ TVA-ul de 9% din 2024 **nu se pierde**, se transformă în valoare de apartament sub taxare inversă. În lei e wash perfect: 514.829,70 în ambele direcții (de aici importanța cursului blocat 4,9742).
+
+⚠️ **Rămâne de aranjat ordinea mișcărilor:** dacă Hexagon returnează *înainte* de plată → ok. Dacă așteaptă plata întâi, firma trebuie să flotatizeze 514.829,70 lei. **Optim: compensare** (fără mișcare de cash, doar înregistrarea creditului contra prețului nou) — rezolvă simultan și problema PF → firmă. Neblocant.
 
 #### ⚠️ De făcut înainte de semnare (vineri 16 Oct)
 1. 🚨 **Mențiune explicită în contract**: prețul de 180.500 EUR reflectă creditarea facturii nr. 1/11.09.2024, valoare netă 5.554,50 EUR. Banii au mers la **altă entitate juridică** decât Hexagon → fără mențiune nu există hârtie care leagă plata de obligația față de Hexagon.
 2. 🚨 **Clarifică mecanica PF → firmă** (vezi mai sus).
-3. 🚨 **Confirmă creditarea avansului brut** de 103.500 EUR 1:1 contra prețului net + modul de stornare a facturii de avans cu TVA 9% (risc 8.546 EUR).
+3. ✅ **Creditarea avansului brut 1:1** — confirmat de Hexagon, returnează suma integrală.
+   → De cerut totuși **compensare** în loc de mișcare efectivă de cash (evită flotarea a 514.829,70 lei și transferul PF → firmă).
 4. **Curs 4,9742** (al Cristianei) vs 4,9740 (evidența mea) — diferență ~21 lei, irelevantă, dar e singurul curs blocat în contract → se folosește **4,9742**, scris identic peste tot.
 5. **Util exact + etaj/orientare** apt 32 — trebuie oricum în contractul de rezervare.
 
@@ -184,7 +193,7 @@ Economia de 39.000 EUR depinde de: înregistrarea în scopuri de TVA + **notific
 1. ✅ **Răspuns:** se scad 103.500 (avans) + 5.554,50 (net factură altă firmă) → rest 77.000 EUR cash nou
 2. ✅ **Răspuns:** cei 103.500 la cursul din 2024 (4,9742); restul la BNR la data plății
 3. **Util-ul exact** al fiecărui apartament (32 vs 34) + etaj/orientare
-4. ⚠️ **VAT regularization** — avansul plătit la 9%, livrarea finală în taxare inversă → vezi secțiunea de expunere 8.546 EUR mai sus. **ÎNCĂ DESCHIS.**
+4. ✅ **VAT regularization** — avansul brut (TVA 9% incl) se creditează 1:1 contra prețului net; Hexagon returnează suma integrală și stornează factura de avans. Câștig 8.546 EUR.
 
 ---
 
