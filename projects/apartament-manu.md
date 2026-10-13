@@ -87,17 +87,26 @@ Facilitatea 9% prelungită până 30 Sep 2026, DAR **apartamentul ROW NU se cali
 | Preț total | 225.126 EUR | **186.054 EUR** |
 | **Economie** | | **~39.000 EUR** |
 
-### Secvența plăților
+### ✅ Secvența plăților — CONFIRMATĂ de Cristiana (13 Oct 2026)
 
-| Etapă | Sumă | Curs |
-|---|---|---|
-| **1. Acum** — contract rezervare, avans 5% | **9.302,70 EUR** | BNR ziua semnării |
-| **2. Ian 2028** — Hexagon returnează suma inițială, se re-achită tranșa 2 | **103.500 EUR** | **cursul din 2024 (4,9740)** — neutru |
-| **3. La intabulare** — restul | **~73.251 EUR** | BNR ziua intabulării |
-| **TOTAL** | 186.054 EUR | |
+**Preț în contractul de rezervare: 180.500 EUR** (apt 32 + 1 parcare S2)
+= 186.054,50 − **5.554,50 EUR** (factură achitată în 2024, odată cu antecontractul)
 
-> Etapa 2 e neutră valutar: cei 103.500 EUR din 2024 valorează tot 103.500 EUR în 2028.
-> ⚠️ Hexagon poate returna doar **103.500 EUR** (cât au primit ei). Cei 6.650 EUR sunt la altă firmă.
+| Etapă | Sumă | Curs | RON |
+|---|---|---|---|
+| **1. Vineri** — contract rezervare, avans 5% | **9.025 EUR** | BNR ziua semnării | ~47.400 |
+| **2. La CF** — tranșa blocată la cursul vechi | **103.500 EUR** | **4,9742** (2024) — neutru | **514.829,70** |
+| **3. La CF** — restul | **67.975 EUR** | BNR la data plății | ~356.900 @ 5,25 |
+| **TOTAL** | **180.500 EUR** | | |
+
+> **Cash real nou: 77.000 EUR** (9.025 + 67.975). Cei 103.500 sunt returnați de Hexagon și re-achitați → net zero.
+> Expunere valutară doar pe ultimii 67.975 EUR: fiecare +0,10 la curs = +6.800 lei.
+
+#### ⚠️ De clarificat cu Cristiana înainte de semnare
+1. **Nr. + data facturii de 5.554,50 EUR** din 2024 — nu e în evidența mea (aveam doar 103.500 avans Hexagon + 6.650 la altă firmă). Structural: 135.554,50 − 5.554,50 = exact 130.000, iar 130.000 + 50.500 (20 mp extra) = 180.500. Trebuie menționată explicit în contract.
+2. **Curs 4,9742** (al ei) vs 4,9740 (ce aveam eu) — diferență ~21 lei, irelevantă, dar e singurul curs blocat în contract → se folosește 4,9742, scris identic peste tot.
+
+> ⚠️ Cei 6.650 EUR plătiți la altă firmă în 2024 rămân necreditați (confirmat: erau extra, peste cei 120.500 net).
 
 ### Condiții TVA — vezi `srl/manu-tva-caen.md`
 

@@ -87,9 +87,10 @@
 | 22 Sep 2026 | 🎾 Padel — discutat cu Milan Terkovics | ✅ |
 | 20 Aug 2026 | 🏠 Calcule apartament Manu — sold ~112.915 EUR (vezi `projects/apartament-manu.md`) | ✅ |
 | 22 Sep 2026 | 🏠 Manu: **coduri CAEN adăugate** ✅ (6820, 7020 etc.) | ✅ |
-| ⏳ WIP | 🏠 Manu: **înregistrare în scopuri de TVA** — la contabilă. Contractul de rezervare se semnează **după** înregistrare (deci avansul de 5% intră corect pe taxare inversă) | ⏳ |
+| 13 Oct 2026 | 🏠 Manu: **înregistrare în scopuri de TVA** — DONE ✅ → taxarea inversă e deblocată | ✅ |
+| 🔴 **VINERI 16 Oct** | 🏠 Manu: **semnare contract rezervare** apt 32 + parcare S2 — **180.500 EUR**, avans 5% = **9.025 EUR** din firmă. Înainte de semnare: (1) cere nr. facturii de **5.554,50 EUR** din 2024, (2) verifică cursul **4,9742** scris identic peste tot | 🔴 |
 | **2028** (la predare apartament) | 🚨 Manu: **notificare opțiune TAXARE închiriere** la ANAF, înainte de prima chirie (fără ea se pierd ~39.000 EUR) | ⏳ |
-| **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — discută gap-ul de ~18.000 EUR (descompunere 186.054,50) + cursul de conversie | 🔴 |
+| **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — descompunere 186.054,50 + curs de conversie | ✅ |
 | **13-18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
 | 18 Aug 2026 | 🎟️ Bilet Solana Breakpoint — primit gratis de la ZAR | ✅ |
 | **12 Nov 2026** | 💷 Plată diurnă delegație Londra (~200-240 GBP) | ⏳ |
