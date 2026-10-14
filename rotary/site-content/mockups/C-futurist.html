@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="ro"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mockup C — Futurist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;600;800&family=Geist:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#050A18;--panel:rgba(255,255,255,.045);--stroke:rgba(255,255,255,.10);--txt:#E8EEFA;--mute:#8C9AB8;--blue:#2F6BFF;--royal:#17458F;--azure:#00A3FF;--gold:#F7A81B}
+*{box-sizing:border-box;margin:0}html{scroll-behavior:smooth}body{background:var(--bg);color:var(--txt);font:16px/1.6 Geist,system-ui,sans-serif;overflow-x:hidden}
+a{color:inherit;text-decoration:none}.wrap{max-width:1280px;margin:0 auto;padding:0 32px}.u{font-family:Unbounded,system-ui,sans-serif;letter-spacing:-.03em}
+.lbl{font:500 .72rem/1 Geist;letter-spacing:.28em;text-transform:uppercase;color:var(--azure)}
+.grad{background:linear-gradient(100deg,#fff 10%,#9cc2ff 45%,var(--gold) 90%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.glass{background:var(--panel);border:1px solid var(--stroke);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-radius:24px}
+.btn{display:inline-flex;align-items:center;gap:.55rem;padding:.95em 1.5em;border-radius:999px;font-weight:700;font-size:.95rem;transition:transform .2s,box-shadow .2s}
+.btn:hover{transform:translateY(-2px)}.btn-gold{background:var(--gold);color:#120c00;box-shadow:0 0 0 0 #F7A81B66}.btn-gold:hover{box-shadow:0 10px 40px -8px #F7A81Baa}
+.btn-glass{border:1px solid var(--stroke);background:rgba(255,255,255,.06)}
+/* ambient */
+.orb{position:fixed;border-radius:50%;filter:blur(90px);opacity:.55;z-index:-1;pointer-events:none}
+.o1{width:620px;height:620px;background:var(--royal);top:-180px;left:-160px;animation:float 18s ease-in-out infinite}
+.o2{width:520px;height:520px;background:#0057d9;top:30vh;right:-200px;animation:float 22s ease-in-out infinite reverse}
+.o3{width:360px;height:360px;background:#F7A81B;top:65vh;left:30vw;opacity:.18;animation:float 26s ease-in-out infinite}
+@keyframes float{50%{transform:translate(60px,40px) scale(1.08)}}
+body:after{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;opacity:.07;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+.gridbg{position:absolute;inset:0;z-index:0;background-image:linear-gradient(rgba(255,255,255,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.04) 1px,transparent 1px);background-size:64px 64px;mask-image:radial-gradient(ellipse at 60% 40%,#000 20%,transparent 70%)}
+/* nav */
+.nav{position:sticky;top:14px;z-index:20;margin:14px auto 0;max-width:1280px;padding:0 32px}
+.nav .bar{display:flex;align-items:center;justify-content:space-between;padding:10px 12px 10px 20px;border-radius:999px}
+.menu{display:flex;gap:6px;align-items:center}.menu a:not(.btn){padding:.55em 1em;border-radius:999px;font-weight:500;color:#C9D4EA}.menu a:not(.btn):hover{background:rgba(255,255,255,.07);color:#fff}
+/* hero */
+.hero{position:relative;padding:90px 0 60px;overflow:hidden}.hero .wrap{position:relative;z-index:1;display:grid;grid-template-columns:1.15fr .85fr;gap:40px;align-items:center}
+.chip{display:inline-flex;gap:.6rem;align-items:center;padding:.45em .9em .45em .5em;border-radius:999px;font-size:.85rem}.chip i{width:8px;height:8px;border-radius:50%;background:#3dff9a;box-shadow:0 0 12px #3dff9a;font-style:normal}
+h1{font-family:Unbounded;font-weight:800;font-size:clamp(2.6rem,6.2vw,5.6rem);line-height:1.08;letter-spacing:-.045em;margin:22px 0 24px}
+.hero p{font-size:1.15rem;color:var(--mute);max-width:48ch}.ctas{display:flex;gap:12px;margin-top:32px;flex-wrap:wrap}
+/* wheel */
+.wheelbox{position:relative;aspect-ratio:1;max-width:460px;justify-self:center;width:100%}
+.wheelbox svg{position:absolute;inset:0;width:100%;height:100%}.spin{animation:spin 60s linear infinite;transform-origin:50% 50%}.spin-r{animation:spin 90s linear infinite reverse;transform-origin:50% 50%}@keyframes spin{to{transform:rotate(360deg)}}
+.wheelbox .core{position:absolute;inset:27%;border-radius:50%;overflow:hidden;border:1px solid var(--stroke);box-shadow:0 0 80px -10px #2F6BFF88}
+.wheelbox .core img{width:100%;height:100%;object-fit:cover}
+.float-card{position:absolute;padding:14px 16px;border-radius:18px;font-size:.85rem;min-width:170px}.float-card b{display:block;font-family:Unbounded;font-size:1.6rem;line-height:1.1}
+.fc1{left:-6%;top:12%}.fc2{right:-4%;bottom:14%}
+/* ticker */
+.ticker{border-block:1px solid var(--stroke);overflow:hidden;white-space:nowrap;padding:18px 0;margin-top:30px}
+.ticker div{display:inline-flex;gap:56px;animation:tick 38s linear infinite;padding-left:56px}.ticker span{font-family:Unbounded;font-size:1.05rem;color:#C9D4EA}.ticker em{color:var(--gold);font-style:normal}
+@keyframes tick{to{transform:translateX(-50%)}}
+section{padding:110px 0;position:relative}.sh{display:flex;justify-content:space-between;align-items:end;gap:20px;margin-bottom:40px}.sh h2{font-family:Unbounded;font-weight:600;font-size:clamp(1.9rem,3.6vw,3.2rem);line-height:1.05;margin-top:14px;letter-spacing:-.035em}
+/* bento */
+.bento{display:grid;grid-template-columns:repeat(12,1fr);grid-auto-rows:150px;gap:16px}
+.tile{position:relative;overflow:hidden;padding:22px;display:flex;flex-direction:column;justify-content:flex-end}
+.tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.55;transition:opacity .4s,transform .6s}.tile:hover img{opacity:.8;transform:scale(1.04)}
+.tile:before{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(180deg,transparent 30%,rgba(5,10,24,.92))}.tile>*{position:relative;z-index:2}
+.tile small{color:var(--azure);font-weight:700;letter-spacing:.16em;text-transform:uppercase;font-size:.68rem}.tile h3{font-family:Unbounded;font-weight:600;font-size:1.35rem;line-height:1.15;margin-top:6px;letter-spacing:-.02em}
+.tile .arrow{position:absolute;top:18px;right:18px;z-index:2;width:38px;height:38px;border-radius:50%;display:grid;place-items:center;border:1px solid var(--stroke);background:rgba(5,10,24,.5)}
+.stat{justify-content:space-between}.stat b{font-family:Unbounded;font-weight:800;font-size:3.4rem;line-height:1;letter-spacing:-.05em}.stat span{color:var(--mute)}
+.stat.gold b{color:var(--gold)}.stat.az{background:linear-gradient(140deg,#123b8f,#0a1c45);border-color:#2b5ac7}
+.c3{grid-column:span 3}.c4{grid-column:span 4}.c5{grid-column:span 5}.c6{grid-column:span 6}.c7{grid-column:span 7}.c8{grid-column:span 8}.r2{grid-row:span 2}.r3{grid-row:span 3}
+/* team */
+.team{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.mem{padding:18px;display:flex;align-items:center;gap:14px;transition:border-color .3s,background .3s}.mem:hover{border-color:#2F6BFF88;background:rgba(47,107,255,.08)}
+.mem img,.mem .mono{width:58px;height:58px;border-radius:16px;object-fit:cover;flex:none}.mem .mono{display:grid;place-items:center;background:linear-gradient(140deg,var(--royal),#0a1c45);font-family:Unbounded;color:var(--gold)}
+.mem b{display:block;font-weight:700}.mem span{font-size:.82rem;color:var(--azure)}
+/* donate */
+.donate{display:grid;grid-template-columns:1fr 1fr;gap:16px}.dpanel{padding:34px}
+.seg{display:grid;grid-template-columns:1fr 1fr;padding:5px;border-radius:999px;background:rgba(255,255,255,.05);border:1px solid var(--stroke);margin:22px 0}
+.seg span{text-align:center;padding:.65em;border-radius:999px;font-weight:700;color:var(--mute)}.seg .on{background:#fff;color:#050A18}
+.amts{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.amts span{padding:20px 0;text-align:center;border-radius:16px;border:1px solid var(--stroke);font-family:Unbounded;font-size:1.25rem;transition:all .2s}.amts span:hover,.amts .sel{border-color:var(--gold);color:var(--gold);box-shadow:0 0 30px -10px var(--gold)}
+.way{display:flex;gap:16px;align-items:flex-start;padding:18px 0;border-bottom:1px solid var(--stroke)}.way:last-child{border:0}.way .ic{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;background:rgba(47,107,255,.15);color:#9cc2ff;flex:none;font-family:Unbounded;font-size:.9rem}
+.way b{display:block}.way p{color:var(--mute);font-size:.92rem}
+/* partners marquee */
+.logos{overflow:hidden;mask-image:linear-gradient(90deg,transparent,#000 10%,#000 90%,transparent)}.logos div{display:inline-flex;gap:18px;animation:tick 40s linear infinite;white-space:nowrap}
+.logos span{padding:16px 26px;border-radius:16px;background:#fff;display:grid;place-items:center;height:78px}.logos img{height:44px;width:auto}
+footer{border-top:1px solid var(--stroke);padding:50px 0;color:var(--mute);font-size:.9rem}footer .wrap{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}
+.tag-mock{position:fixed;right:12px;bottom:12px;opacity:.9;z-index:99;background:#fff;color:#050A18;font-weight:700;padding:6px 12px;border-radius:999px;font-size:.8rem}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@media (max-width:900px){.wrap,.nav{padding:0 16px}.menu a:not(.btn){display:none}.hero{padding:40px 0 20px}.hero .wrap{grid-template-columns:1fr}.wheelbox{max-width:340px}.fc1{left:0}.fc2{right:0}
+.bento{grid-template-columns:repeat(2,1fr);grid-auto-rows:150px;gap:10px}.bento>*{grid-column:span 2!important;grid-row:span 1!important}.bento .stat{grid-column:span 1!important}.stat b{font-size:2.4rem}
+.team{grid-template-columns:1fr 1fr;gap:10px}.mem{padding:12px;gap:10px}.mem img,.mem .mono{width:44px;height:44px}
+.donate{grid-template-columns:1fr}.dpanel{padding:22px}section{padding:70px 0}.sh{flex-direction:column;align-items:flex-start}.nav .bar img{height:38px!important}}
+</style></head><body>
+<div class="orb o1"></div><div class="orb o2"></div><div class="orb o3"></div>
+<div class="tag-mock">Mockup C — „Futurist”</div>
+<div class="nav"><div class="bar glass"><a><img src="https://rotaryoperacluj.ro/wp-content/uploads/2026/09/rotary-cluj-napoca-opera-alb.png" alt="Rotary Club Cluj-Napoca Opera" style="height:44px;width:auto;display:block"></a>
+<nav class="menu"><a>Despre</a><a>Proiecte</a><a>Echipa</a><a>Contact</a><a class="btn btn-gold" style="padding:.7em 1.3em">Donează</a></nav></div></div>
+<header class="hero"><div class="gridbg"></div><div class="wrap"><div>
+<span class="chip glass"><i></i>Campanie activă · ToyJoy 2026</span>
+<h1><span class="grad">Facem bine.</span><br>Împreună<br>cu Clujul.</h1>
+<p>Un club Rotary de oameni tineri și implicați: dialoguri EDUCATIO, cadouri de Crăciun pentru copii, pachete pentru familii și cursuri de prim ajutor.</p>
+<div class="ctas"><a class="btn btn-gold">Donează →</a><a class="btn btn-glass">Explorează proiectele</a></div></div>
+<div class="wheelbox">
+<svg viewBox="0 0 400 400" class="spin"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7A81B"/><stop offset="1" stop-color="#2F6BFF"/></linearGradient></defs>
+<circle cx="200" cy="200" r="186" fill="none" stroke="url(#g)" stroke-width="1.5" stroke-dasharray="2 10" opacity=".9"/>
+<g id="teeth"></g></svg>
+<svg viewBox="0 0 400 400" class="spin-r"><circle cx="200" cy="200" r="150" fill="none" stroke="rgba(255,255,255,.18)" stroke-width="1"/><circle cx="200" cy="50" r="5" fill="#F7A81B"/><circle cx="350" cy="200" r="3" fill="#00A3FF"/></svg>
+<div class="core"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2026/05/educatio-hpv-2-1024x683.jpg" alt=""></div>
+<div class="float-card glass fc1"><b class="grad">115</b>familii ajutate</div>
+<div class="float-card glass fc2"><b style="color:var(--gold)">105</b>copii cu cadouri</div>
+</div></div>
+<div class="ticker"><div id="tick"></div></div></header>
+<section><div class="wrap"><div class="sh"><div><span class="lbl">// Proiecte</span><h2>Impact, nu doar intenții.</h2></div><a class="btn btn-glass">Toate cele 20 →</a></div>
+<div class="bento">
+<a class="tile glass c7 r3"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2026/05/educatio-moneytalks-1-1024x683.jpg" alt=""><span class="arrow">↗</span><small>Educație · 5 ediții</small><h3 style="font-size:2rem">EDUCATIO — dialoguri educative</h3><p style="color:#C9D4EA;max-width:44ch;margin-top:8px">Media, bani, sănătate, cultură și mediu. Experți invitați, intrare liberă.</p></a>
+<div class="tile glass stat gold c5"><span>proiecte și campanii din 2017</span><b class="cnt" data-n="20">20</b></div>
+<a class="tile glass c5 r2"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2023/06/toyjoy-2025-desene-copii-1024x666.jpg" alt=""><span class="arrow">↗</span><small>Social · anual</small><h3>ToyJoy — un cadou, o dorință</h3></a>
+<a class="tile glass c4 r2"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2024/06/construim_bucurie-1024x574.jpg" alt=""><span class="arrow">↗</span><small>Comunitate</small><h3>Construim Bucurie</h3></a>
+<div class="tile glass stat az c4"><span>familii ajutate prin Construim Bucurie</span><b class="cnt" data-n="115">115</b></div>
+<a class="tile glass c4 r2"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2025/03/invata-sa-redai-viata-1-1024x684.jpg" alt=""><span class="arrow">↗</span><small>Sănătate</small><h3>Învață să redai viața!</h3></a>
+<div class="tile glass stat c4"><span>ambulanță donată pentru îngrijiri paliative</span><b class="cnt" data-n="1">1</b></div>
+<a class="tile glass c8 r2"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2019/06/197_Rotary-Opera_Ambulanta-Sf-Nectarie-28.05.2020-NIC_1188-1024x684.jpg" alt=""><span class="arrow">↗</span><small>Proiect-fanion · 2020</small><h3>O ambulanță pentru „Sfântul Nectarie”</h3></a>
+<a class="tile glass c4 r2"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2026/03/infratire-1-1024x683.jpg" alt=""><span class="arrow">↗</span><small>Prietenie</small><h3>Înfrățirea cu București Nord</h3></a>
+</div></div></section>
+<section style="padding-top:20px"><div class="wrap"><div class="sh"><div><span class="lbl">// Comitetul 2026–2027</span><h2>Oamenii din spatele proiectelor.</h2></div><a class="btn btn-glass">Toți cei 30 de membri →</a></div>
+<div class="team" id="team"></div></div></section>
+<section style="padding-top:20px"><div class="wrap"><div class="sh"><div><span class="lbl">// Susține</span><h2>Fiecare leu are <span class="grad">o destinație.</span></h2></div></div>
+<div class="donate"><div class="dpanel glass"><b class="u" style="font-size:1.3rem">Donează online</b><p style="color:var(--mute)">Card, Apple Pay sau Google Pay · securizat prin Stripe</p>
+<div class="seg"><span class="on">O singură dată</span><span>Lunar</span></div>
+<div class="amts"><span>50</span><span class="sel">100</span><span>250</span><span>500</span><span style="font-family:Geist;font-weight:700;font-size:.95rem">Altă sumă</span><span style="background:var(--gold);color:#120c00;border-color:var(--gold);font-family:Geist;font-weight:700;font-size:.95rem">Donează →</span></div></div>
+<div class="dpanel glass"><b class="u" style="font-size:1.3rem">Alte moduri</b>
+<div class="way"><span class="ic">3,5</span><div><b>Redirecționează 3,5%</b><p>Formularul 230, până pe 25 mai. Gratuit pentru tine.</p></div></div>
+<div class="way"><span class="ic">SRL</span><div><b>Sponsorizare pentru firme</b><p>Credit fiscal din impozitul pe profit sau Formularul 177.</p></div></div>
+<div class="way"><span class="ic">IBAN</span><div><b>Transfer bancar</b><p>RO40 BTRL RONC RT04 4038 0101 · CUI 39347197</p></div></div>
+<div class="way"><span class="ic">+1</span><div><b>Devino membru</b><p>Miercuri, 18:30, Hotel Victoria.</p></div></div></div></div></div></section>
+<section style="padding-top:10px"><div class="wrap"><span class="lbl">// Parteneri</span><div class="logos" style="margin-top:22px"><div id="logos"></div></div></div></section>
+<footer><div class="wrap"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2026/09/rotary-cluj-napoca-opera-alb.png" alt="" style="height:46px"><span>© 2026 Asociația Rotary Club Cluj-Napoca Opera · CUI 39347197</span><span>contact@rotaryoperacluj.ro</span></div></footer>
+<script>
+// Rotary-like gear teeth
+const g=document.getElementById('teeth');for(let i=0;i<24;i++){const a=i*15;g.insertAdjacentHTML('beforeend',`<rect x="194" y="2" width="12" height="18" rx="3" fill="rgba(247,168,27,.55)" transform="rotate(${a} 200 200)"/>`)}
+const T=['<em>2017</em> anul înființării','<em>20</em> proiecte și campanii','<em>115</em> familii ajutate','<em>105</em> copii cu cadouri','<em>5</em> dialoguri EDUCATIO','<em>30</em> membri activi','<em>1</em> ambulanță donată','Service Above Self'];
+document.getElementById('tick').innerHTML=[...T,...T].map(t=>`<span>${t}</span><span style="color:#2F6BFF">✦</span>`).join('');
+const B=[["Ovidiu Pop","Președinte","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/ovidiu-pop-300x300.png"],["Lavinia Florian","Vicepreședinte","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/lavinia-florian-300x300.png"],["Paula Șeer","Secretar","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/paula-seer-2026-300x300.png"],["Sebastian Andro","Trezorier","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/sebastian-andro-300x300.png"],["Darius Popîrțac","Foundation Chair","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/darius-300x300.png"],["Emilia Haiduc","Public Image","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/emilia-haiduc-300x300.png"],["Radu Serfezeu","Service Projects",""],["Cristian Zaharia","Young Leaders","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/cristi-zaharia-300x300.png"]];
+document.getElementById('team').innerHTML=B.map(([n,r,i])=>`<div class="mem glass">${i?`<img src="${i}" alt="">`:`<span class="mono">${n.split(' ').map(w=>w[0]).join('')}</span>`}<div><b>${n}</b><span>${r}</span></div></div>`).join('');
+const L=['opera-nationala-cluj','teatrul-national-cluj','fc-universitatea-cluj','cs-universitatea-cluj','leroy-merlin','18gym','catena','rotaract-cluj-napoca'].map(s=>`<span><img src="https://rotaryoperacluj.ro/wp-content/uploads/2026/09/partener-${s}.png" alt=""></span>`).join('');
+document.getElementById('logos').innerHTML=L+L;
+// count-up (values are already visible without JS)
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(!e.isIntersecting)return;const el=e.target,n=+el.dataset.n,t0=performance.now();io.unobserve(el);const f=t=>{const p=Math.min(1,(t-t0)/1200);el.textContent=Math.round(n*(1-Math.pow(1-p,3)));if(p<1)requestAnimationFrame(f)};requestAnimationFrame(f)}),{threshold:.6});
+if(!matchMedia('(prefers-reduced-motion:reduce)').matches)document.querySelectorAll('.cnt').forEach(e=>io.observe(e));
+</script>
+</body></html>
