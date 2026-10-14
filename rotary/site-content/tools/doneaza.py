@@ -26,10 +26,10 @@ x += group(cols(
   col(h('Ce primesc sponsorii',3)+'<!-- wp:list -->\n<ul class="wp-block-list"><!-- wp:list-item -->\n<li>Logo pe site, în secțiunea Parteneri și pe pagina proiectului susținut</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li>Mulțumiri publice pe Facebook și Instagram</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li>Mențiune la evenimentele proiectului</li>\n<!-- /wp:list-item -->\n<!-- wp:list-item -->\n<li>Un scurt raport despre ce s-a realizat cu sprijinul vostru</li>\n<!-- /wp:list-item -->\n</ul>\n<!-- /wp:list -->\n'),
   col(h('Donații în natură',3)+p('Pentru campanii precum Construim Bucurie sau ToyJoy strângem și alimente neperisabile, haine noi, jucării și rechizite. Scrie-ne și îți spunem ce e nevoie acum.')+p('Vrei să te implici mai mult? Află <a href="/devino-membru/">cum devii membru</a>.'))),c='rop-section',align='full')
 cards=''.join(f'<a class="rop-pcard" href="/proiecte/{s}/"><img src="{{{{IMG:{s}}}}}" alt="{t}" loading="lazy"><b>{t}</b><span>{d}</span></a>' for s,t,d in [
- ('ambulanta-sfantul-nectarie','O ambulanță pentru „Sfântul Nectarie”','strânsă prin 6 evenimente culturale'),
- ('construim-bucurie','Construim Bucurie','115 familii ajutate'),
  ('toyjoy','ToyJoy','105 copii cu cadouri în 2024–2025'),
- ('educatio','EDUCATIO','5 dialoguri educative gratuite')])
+ ('construim-bucurie','Construim Bucurie','115 familii ajutate'),
+ ('educatio','EDUCATIO','5 dialoguri educative gratuite'),
+ ('ambulanta-sfantul-nectarie','O ambulanță pentru „Sfântul Nectarie”','strânsă prin 6 evenimente culturale')])
 x += group(p('Transparență','rop-eyebrow')+h('Unde ajung banii')+sep()+html(f'<div class="rop-pcards">{cards}</div>'),c='rop-section rop-section--cream',align='full')
 x += group(h('Întrebări frecvente')+sep()+
   details('Este sigur să donez online?',p('Da. Plățile sunt procesate de Stripe, certificat PCI-DSS. Datele cardului tău nu ajung la noi.'))+
