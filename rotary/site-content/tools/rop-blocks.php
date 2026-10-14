@@ -244,6 +244,9 @@ body.admin-bar header.wp-block-template-part{top:-16px}
 .rop-pcard img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:6px;margin-bottom:.5rem}
 .rop-pcard b{font-family:var(--wp--preset--font-family--literata);font-size:1.15rem;color:var(--wp--preset--color--accent-4)}
 .rop-pcard span{color:var(--wp--preset--color--muted);font-size:.95rem}
+.rop-options{display:grid;gap:.75rem;margin:.5rem 0 1rem}
+.rop-options div{background:var(--wp--preset--color--accent-5);border-left:3px solid var(--wp--preset--color--accent-2);border-radius:4px;padding:.85rem 1rem;display:grid;gap:.25rem}
+.rop-options b{font-family:var(--wp--preset--font-family--literata);color:var(--wp--preset--color--accent-4);font-size:1.05rem}
 .rop-timeline{list-style:none;padding:0;border-left:2px solid var(--wp--preset--color--accent-6);margin-left:.4rem}
 .rop-timeline li{position:relative;padding:0 0 1.4rem 1.6rem}
 .rop-timeline li:before{content:"";position:absolute;left:-7px;top:.45em;width:12px;height:12px;border-radius:50%;background:var(--wp--preset--color--accent-2)}
