@@ -1,0 +1,13 @@
+{
+ "o_data_alta_suma": "https://donate.stripe.com/8x24gBbiqfiO54T41OgjC00",
+ "o_data_50": "https://donate.stripe.com/00w9AV3PY4Eacxl9m8gjC01",
+ "o_data_100": "https://donate.stripe.com/7sY6oJ5Y61rY2WL69WgjC02",
+ "o_data_250": "https://donate.stripe.com/3cI00lbiqeeK40PbuggjC03",
+ "o_data_500": "https://donate.stripe.com/dRm4gB4U2daG7d1gOAgjC04",
+ "lunar_50": "https://buy.stripe.com/9B65kF0DM9Yu9l98i4gjC05",
+ "lunar_100": "https://buy.stripe.com/9B65kFaem9YucxlcykgjC06",
+ "lunar_250": "https://buy.stripe.com/28E3cx5Y67Qm7d1buggjC07",
+ "portal_config": "bpc_1UQM4NQZeDLt2UqFz50AIl6a",
+ "lunar_30": "https://buy.stripe.com/4gM14p2LUdaG7d1dCogjC09",
+ "portal_login": "https://billing.stripe.com/p/login/8x24gBbiqfiO54T41OgjC00"
+}

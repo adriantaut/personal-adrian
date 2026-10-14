@@ -61,7 +61,7 @@ add_shortcode('rop_editii', function () {
 });
 
 add_shortcode('rop_doneaza', function () {
-	$link = get_field('link_donatie') ?: home_url('/implica-te/');
+	$link = get_field('link_donatie') ?: home_url('/doneaza/');
 	return '<div class="rop-cta"><h3>Susține proiectele noastre</h3><p>Fiecare leu ajunge într-un proiect concret pentru comunitatea din Cluj.</p><a class="wp-element-button" href="' . esc_url($link) . '">Donează</a></div>';
 });
 
@@ -193,6 +193,7 @@ add_action('wp_head', function () { ?>
 .rop-iban button:hover{background:var(--wp--preset--color--accent-1);color:#fff}
 .rop-note{font-size:.85rem;color:var(--wp--preset--color--muted)}
 .rop-prose > *{max-width:760px!important}
+.rop-prose > .rop-hairline{margin-inline:max(0px,calc((100% - 760px)/2))!important}
 .rop-topbar{height:48px;box-sizing:border-box}
 header.wp-block-template-part{position:sticky;top:-48px;z-index:50}
 body.admin-bar header.wp-block-template-part{top:-16px}
@@ -225,6 +226,24 @@ body.admin-bar header.wp-block-template-part{top:-16px}
 .rop-steps span{color:var(--wp--preset--color--contrast)}
 /* project pages: justified text with Romanian hyphenation (desktop only) */
 @media (min-width:782px){body.single-proiect .wp-block-post-content p,body.single-proiect .rop-edition__text p{text-align:justify;hyphens:auto;-webkit-hyphens:auto;hyphenate-limit-chars:7 3 3}}
+.rop-donate-box{background:var(--wp--preset--color--base);border:1px solid var(--wp--preset--color--accent-6);border-top:3px solid var(--wp--preset--color--accent-2);border-radius:8px;padding:1.5rem}
+.rop-donate-box input{position:absolute;opacity:0;pointer-events:none}
+.rop-freq{display:grid;grid-template-columns:1fr 1fr;background:var(--wp--preset--color--accent-5);border-radius:999px;padding:4px;margin-bottom:1.25rem}
+.rop-freq label{text-align:center;padding:.6em;border-radius:999px;font-weight:700;cursor:pointer;color:var(--wp--preset--color--accent-4)}
+#rop-once:checked~.rop-freq label[for=rop-once],#rop-monthly:checked~.rop-freq label[for=rop-monthly]{background:var(--wp--preset--color--accent-1);color:#fff}
+#rop-once:focus-visible~.rop-freq label[for=rop-once],#rop-monthly:focus-visible~.rop-freq label[for=rop-monthly]{outline:2px solid var(--wp--preset--color--accent-2)}
+.rop-amts{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:.6rem}
+#rop-once:checked~.rop-amts--monthly,#rop-monthly:checked~.rop-amts--once{display:none}
+.rop-amt{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:64px;border:2px solid var(--wp--preset--color--accent-2);border-radius:10px;font-family:var(--wp--preset--font-family--literata);font-size:1.35rem;color:var(--wp--preset--color--accent-4);text-decoration:none;transition:background .15s,transform .15s}
+.rop-amt small{font-family:var(--wp--preset--font-family--manrope);font-size:.75rem;color:var(--wp--preset--color--muted)}
+.rop-amt:hover{background:var(--wp--preset--color--accent-2);transform:translateY(-2px)}
+.rop-amt--other{font-size:1rem;font-family:var(--wp--preset--font-family--manrope);font-weight:700}
+.rop-donate-note{font-size:.85rem;color:var(--wp--preset--color--muted);margin-top:1rem}
+.rop-pcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1.25rem}
+.rop-pcard{display:flex;flex-direction:column;gap:.3rem;text-decoration:none;color:inherit}
+.rop-pcard img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:6px;margin-bottom:.5rem}
+.rop-pcard b{font-family:var(--wp--preset--font-family--literata);font-size:1.15rem;color:var(--wp--preset--color--accent-4)}
+.rop-pcard span{color:var(--wp--preset--color--muted);font-size:.95rem}
 .rop-timeline{list-style:none;padding:0;border-left:2px solid var(--wp--preset--color--accent-6);margin-left:.4rem}
 .rop-timeline li{position:relative;padding:0 0 1.4rem 1.6rem}
 .rop-timeline li:before{content:"";position:absolute;left:-7px;top:.45em;width:12px;height:12px;border-radius:50%;background:var(--wp--preset--color--accent-2)}

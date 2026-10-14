@@ -221,3 +221,10 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Formular de contact: Adrian nu-l vrea · Pagina „Impactul nostru” + pagina Donează nouă: după Stripe
 - ✅ Șters site vechi + DB `rotaryop_wp`/`rotaryop_wp56` + 3 backup-uri Softaculous (12 Oct 2026; disc 2.7 → 0.78 GB) · ⏳ revocare token cPanel + cheie SSH la final
 - ✅ Independent Analytics (statistici, WP Admin → Analytics) + LiteSpeed Cache (pagini ~0.1-0.3 s)
+
+### 💳 Donații online (14 Oct 2026)
+- Stripe ACTIV (acct_1UKfg7QZeDLt2UqF, non-profit RO, plăți + payouts active). Cerere discount NGO: formular Stripe (Adrian, cu documente)
+- Payment Links: o dată 50/100/250/500 + altă sumă (min 10 lei); lunar 30/50/100/250; câmp „Pentru ce donezi?”; CUI opțional; redirect → /multumim/. Portal anulare: billing.stripe.com/p/login/… — toate în `rotary/site-content/stripe-links.json`
+- Pagina **/doneaza/** (online + IBAN + 3,5% + sponsorizare firme cu credit fiscal/Formular 177 + în natură + transparență + FAQ) și **/multumim/**
+- **Implică-te scos din meniu**, /implica-te/ → 301 /doneaza/; toate butoanele Donează → /doneaza/
+- ⚠️ Cheia `sk_live` full-access a fost lipită în chat → de dat ROLL în Stripe
