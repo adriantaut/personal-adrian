@@ -61,14 +61,47 @@ Document semnat de tine (asociat unic) care conține:
 ### 7. Trimite CEDEXPERT
 - Un exemplar al documentelor depuse (actualizare bază de date)
 
-## 💻 Pașii pe portal.onrc.ro
+## 💻 Pașii pe myportal.onrc.ro
 
-1. **Login** pe `portal.onrc.ro` cu certificatul calificat
-2. **Servicii online → Depunere cereri → Înregistrare mențiuni** (persoane juridice)
-3. Selectezi firma (CUI 44948266) + tipul mențiunii: *majorare capital social*
-4. Completezi formularul → portalul generează cererea
-5. Încarci cele 3 documente, fiecare **semnat cu semnătura calificată** (PDF semnat, nu scanat)
-6. Semnezi și transmiți dosarul
+⚠️ Portalul nou e **`myportal.onrc.ro`** (nu vechiul `portal.onrc.ro`).
+Traseu: **Acasă → Mențiuni → Flux → Înscriere mențiuni persoane juridice**
+Wizard în 4 pași: GDPR → Selecție Firmă → Solicitant → **Selecție Mențiuni**
+
+### Ce se bifează la „Selecție Mențiuni" (verificat pe formular, 14 Oct 2026)
+
+| Secțiune | Bifă |
+|---|---|
+| **Capital social** | ✅ **Majorare** |
+| **Hotărâre AGA/Decizie C.A. / Decizie directorat privind:** | ✅ **Majorare capital** |
+| **Depunere de acte** | ✅ **Dovadă vărsământ capital social** |
+
+### 🚫 Ce NU se bifează
+- **`Actualizare Obiect de Activitate la CAEN Rev3`** (primul din listă) → **pierzi reducerea de 50%** la MO. Dosar SEPARAT, după finalizarea majorării.
+- **`Depunere act constitutiv`** (Alte mențiuni) → actul actualizat se atașează ca document justificativ, nu ca mențiune separată.
+
+### Declarație pe propria răspundere (ultima secțiune)
+Alege **„Completez și export declarația acum"** (portalul o generează precompletată). În 2022 s-a depus `declaratie_model3_v4.pdf`.
+
+### Documente de urcat (toate semnate cu semnătura calificată, PDF semnat ≠ scanat)
+| Document | Locație |
+|---|---|
+| Decizia asociatului unic | `Acte Firme/Depuse/2026_10_14_Decizie asociat unic` |
+| Act constitutiv actualizat | `Acte Firme/Depuse/2026_10_14_Act constitutiv actualizat` |
+| Dovada vărsământului 4.800 lei | extras bancar PDF |
+
+## 📄 Documente pregătite (14 Oct 2026)
+
+Generate în Google Drive → `Acte Firme/Depuse/` (originalele din 2022 neatinse):
+- **Decizie:** https://docs.google.com/document/d/1eTBHd7SnlRf8eoHIQiHf-Pean-fbB4l3E3PZMY3mClY/edit
+- **Act constitutiv actualizat:** https://docs.google.com/document/d/1yOo4SFbYDuPEiGlsUmupSh8XXzCMUlVsODJLfP1Blko/edit
+
+**Art. 3.1 modificat:** 200 lei / 20 părți → **5.000 lei / 500 părți** × 10 lei nominal. Restul actului neatins.
+
+### De verificat înainte de semnare
+1. **Nr. deciziei** — pus „Nr. 1"; dacă ai emis alte decizii în 2026, incrementează
+2. **C.I.** — preluat din decizia 2022: `CJ nr. 10011631, eliberat 28.02.2022`
+3. **Adresa antet** — decizia 2022 scria „Nr. 15", actul constitutiv „nr. 16" → am pus **16**
+4. **Data** — 14.10.2026; trebuie ≤ data virării celor 4.800 lei
 
 **Soluționare:** 3-5 zile lucrătoare → certificat de înscriere mențiuni + act constitutiv actualizat.
 
