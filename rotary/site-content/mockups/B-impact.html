@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ro"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mockup B — Impact</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Manrope:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--blue:#17458F;--azure:#0067C8;--navy:#0B2552;--gold:#F7A81B;--sky:#EEF3FB;--line:#DCE4F2;--ink:#14213A;--mute:#5A6478}
+*{box-sizing:border-box;margin:0}body{background:#fff;color:var(--ink);font:17px/1.6 Manrope,system-ui,sans-serif}a{color:inherit;text-decoration:none}
+.wrap{max-width:1280px;margin:0 auto;padding:0 32px}.d{font-family:'Bricolage Grotesque',system-ui,sans-serif;letter-spacing:-.02em}
+.pill{display:inline-flex;align-items:center;gap:.5rem;padding:.4em .9em;border-radius:999px;background:var(--sky);color:var(--blue);font-weight:700;font-size:.8rem}
+.btn{display:inline-flex;align-items:center;gap:.5rem;padding:.9em 1.5em;border-radius:14px;font-weight:700}.btn-gold{background:var(--gold);color:var(--navy)}.btn-blue{background:var(--blue);color:#fff}.btn-ghost{border:2px solid var(--line)}
+/* nav */
+.nav{padding:18px 0;position:sticky;top:0;background:#ffffffee;backdrop-filter:blur(8px);z-index:9;border-bottom:1px solid var(--line)}.nav .wrap{display:flex;justify-content:space-between;align-items:center}
+.logo{display:flex;align-items:center;gap:10px;font-weight:800;color:var(--blue)}.logo b{font-family:'Bricolage Grotesque';font-size:1.45rem}.logo small{font-weight:600;color:var(--mute);font-size:.8rem;display:block;line-height:1}
+.wheel{width:38px;height:38px;border-radius:50%;background:var(--gold);display:grid;place-items:center;color:#fff;font-size:1.2rem}
+.menu{display:flex;gap:28px;align-items:center;font-weight:600}
+/* hero */
+.hero{padding:56px 0 30px}.hero .wrap{display:grid;grid-template-columns:1.05fr 1fr;gap:48px;align-items:center}
+.hero h1{font-size:clamp(3rem,6vw,5.4rem);line-height:.95;font-weight:800;margin:18px 0 22px}.hero h1 span{color:var(--blue)}
+.hero p{font-size:1.2rem;color:var(--mute);max-width:44ch}.hero .ctas{display:flex;gap:12px;margin-top:30px}
+.collage{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:200px 200px;gap:12px}.collage img{width:100%;height:100%;object-fit:cover;border-radius:22px}.collage img:first-child{grid-row:span 2}
+/* impact strip */
+.impact{margin-top:48px;background:var(--blue);color:#fff;border-radius:28px;padding:38px 44px;display:grid;grid-template-columns:repeat(5,1fr);gap:24px}
+.impact b{font-family:'Bricolage Grotesque';font-size:3rem;font-weight:800;line-height:1;display:block;color:var(--gold)}.impact span{opacity:.85;font-size:.95rem}
+/* campaign */
+section{padding:90px 0}.h{display:flex;justify-content:space-between;align-items:end;margin-bottom:34px}.h h2{font-size:clamp(2rem,3.6vw,3.2rem);font-weight:800;line-height:1.05;margin-top:12px}
+.camp{display:grid;grid-template-columns:1fr 1fr;border-radius:28px;overflow:hidden;background:var(--sky)}
+.camp img{width:100%;height:100%;object-fit:cover;min-height:380px}.camp .c{padding:44px}
+.camp h3{font-size:2.3rem;font-weight:800;line-height:1.05;margin:12px 0}.camp p{color:var(--mute)}
+.prog{margin:26px 0 8px;height:14px;background:#fff;border-radius:999px;overflow:hidden}.prog i{display:block;height:100%;width:62%;background:linear-gradient(90deg,var(--gold),#ffcf5e);border-radius:999px}
+.meta{display:flex;justify-content:space-between;font-weight:700;font-size:.95rem}.meta em{font-style:normal;color:var(--mute);font-weight:600}
+.example{font-size:.75rem;color:var(--mute);margin-top:4px}
+/* bento */
+.bento{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-rows:240px;gap:16px}
+.card{position:relative;border-radius:22px;overflow:hidden;display:flex;align-items:flex-end;color:#fff}.card img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .5s}
+.card:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 35%,rgba(11,37,82,.88))}.card:hover img{transform:scale(1.05)}
+.card .t{position:relative;z-index:1;padding:22px}.card small{font-weight:700;color:var(--gold);font-size:.75rem;letter-spacing:.12em;text-transform:uppercase}.card h4{font-size:1.45rem;font-weight:800;line-height:1.1;margin-top:6px}
+.w2{grid-column:span 2}.h2{grid-row:span 2}
+/* team */
+.team{background:var(--sky);border-radius:36px;padding:70px 0}.faces{display:flex;gap:18px;overflow:auto;padding-bottom:6px}
+.face{flex:0 0 150px;text-align:center}.face img,.face .mono{width:150px;height:150px;border-radius:28px;object-fit:cover;display:grid;place-items:center;background:var(--blue);color:var(--gold);font-family:'Bricolage Grotesque';font-size:2.2rem;font-weight:800}
+.face b{display:block;margin-top:10px;font-size:.98rem}.face span{font-size:.82rem;color:var(--blue);font-weight:700}
+/* ways */
+.ways{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.way{border:2px solid var(--line);border-radius:22px;padding:26px;display:flex;flex-direction:column;gap:10px}
+.way .ic{width:46px;height:46px;border-radius:14px;background:var(--sky);display:grid;place-items:center;font-size:1.3rem}.way h4{font-size:1.3rem;font-weight:800}.way p{color:var(--mute);font-size:.95rem;flex:1}.way a{font-weight:700;color:var(--blue)}
+.way.hl{background:var(--navy);border-color:var(--navy);color:#fff}.way.hl p{color:#C7D3EA}.way.hl a{color:var(--gold)}.way.hl .ic{background:#ffffff1a}
+footer{background:var(--navy);color:#C7D3EA;padding:56px 0;margin-top:40px}footer .wrap{display:flex;justify-content:space-between;gap:20px;font-size:.92rem}
+.tag-mock{position:fixed;left:16px;bottom:16px;z-index:99;background:var(--blue);color:#fff;font-weight:700;padding:6px 12px;border-radius:999px;font-size:.8rem}
+</style></head><body>
+<div class="tag-mock">Mockup B — „Impact”</div>
+<header class="nav"><div class="wrap"><a class="logo"><span class="wheel">✺</span><span><b class="d">Rotary</b><small>Cluj-Napoca Opera</small></span></a>
+<nav class="menu"><a>Despre</a><a>Proiecte</a><a>Echipa</a><a>Contact</a><a class="btn btn-gold" style="padding:.7em 1.3em">Donează</a></nav></div></header>
+<div class="hero"><div class="wrap"><div><span class="pill">● Club Rotary din Cluj-Napoca, din 2017</span>
+<h1 class="d">Oameni care fac <span>Clujul</span> mai bun.</h1>
+<p>Organizăm dialoguri educative, campanii de Crăciun și proiecte de sănătate. Și strângem fiecare leu acolo unde e nevoie de el.</p>
+<div class="ctas"><a class="btn btn-gold">Donează</a><a class="btn btn-ghost">Descoperă proiectele</a></div></div>
+<div class="collage"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2026/03/infratire-1-1024x683.jpg" alt=""><img src="https://rotaryoperacluj.ro/wp-content/uploads/2026/05/educatio-hpv-2-1024x683.jpg" alt=""><img src="https://rotaryoperacluj.ro/wp-content/uploads/2023/06/toyjoy-2025-desene-copii-1024x666.jpg" alt=""></div></div>
+<div class="wrap"><div class="impact"><div><b class="d">20</b><span>proiecte și campanii</span></div><div><b class="d">115</b><span>familii ajutate</span></div><div><b class="d">105</b><span>copii cu cadouri de Crăciun</span></div><div><b class="d">5</b><span>dialoguri EDUCATIO gratuite</span></div><div><b class="d">1</b><span>ambulanță donată</span></div></div></div></div>
+<section><div class="wrap"><div class="h"><div><span class="pill">Campanie activă</span><h2 class="d">Ajută-ne să ajungem la fiecare copil</h2></div></div>
+<div class="camp"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2023/06/toyjoy-2025-desene-copii-1024x666.jpg" alt=""><div class="c"><span class="pill" style="background:#fff">ToyJoy 2026 · decembrie</span><h3 class="d">Un cadou, o dorință</h3><p>Copiii își desenează dorințele de Crăciun. Cu ajutorul tău, le transformăm în cadouri reale pentru copiii din comunele din jurul Clujului.</p>
+<div class="prog"><i></i></div><div class="meta"><span>6.200 lei strânși</span><em>din 10.000 lei</em></div><p class="example">valori de exemplu, în mockup</p>
+<div style="display:flex;gap:10px;margin-top:22px"><a class="btn btn-blue">Donează pentru ToyJoy</a><a class="btn btn-ghost" style="background:#fff">Despre proiect</a></div></div></div></div></section>
+<section style="padding-top:20px"><div class="wrap"><div class="h"><div><span class="pill">Proiecte</span><h2 class="d">Ce am făcut împreună</h2></div><a class="btn btn-ghost">Toate cele 20 →</a></div>
+<div class="bento">
+<a class="card w2 h2"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2026/05/educatio-moneytalks-1-1024x683.jpg" alt=""><div class="t"><small>Educație · 5 ediții</small><h4 class="d" style="font-size:2rem">EDUCATIO — dialoguri educative</h4></div></a>
+<a class="card"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2024/06/construim_bucurie-1024x574.jpg" alt=""><div class="t"><small>Comunitate</small><h4 class="d">Construim Bucurie</h4></div></a>
+<a class="card"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2025/03/invata-sa-redai-viata-1-1024x684.jpg" alt=""><div class="t"><small>Sănătate</small><h4 class="d">Învață să redai viața!</h4></div></a>
+<a class="card w2"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2019/06/197_Rotary-Opera_Ambulanta-Sf-Nectarie-28.05.2020-NIC_1188-1024x684.jpg" alt=""><div class="t"><small>Proiect-fanion · 2020</small><h4 class="d">O ambulanță pentru „Sfântul Nectarie”</h4></div></a>
+<a class="card"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2026/03/infratire-1-1024x683.jpg" alt=""><div class="t"><small>Prietenie</small><h4 class="d">Înfrățirea cu București Nord</h4></div></a>
+<a class="card"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2025/02/retrosonic-2025-1024x683.jpg" alt=""><div class="t"><small>Strângere de fonduri</small><h4 class="d">Retrosonic</h4></div></a>
+<a class="card w2"><img src="https://rotaryoperacluj.ro/wp-content/uploads/2024/10/promenada-inimilor-2024-1024x768.jpg" alt=""><div class="t"><small>Sănătate · anual</small><h4 class="d">Promenada Inimilor</h4></div></a>
+</div></div></section>
+<div class="wrap"><div class="team"><div class="wrap" style="padding:0 44px"><div class="h"><div><span class="pill" style="background:#fff">Comitetul 2026–2027</span><h2 class="d">Cunoaște echipa</h2></div><a class="btn btn-blue">Toți cei 30 de membri →</a></div><div class="faces" id="faces"></div></div></div></div>
+<section><div class="wrap"><div class="h"><div><span class="pill">Implică-te</span><h2 class="d">Patru moduri de a ajuta</h2></div></div>
+<div class="ways">
+<div class="way hl"><span class="ic">💛</span><h4 class="d">Donează</h4><p>O dată sau lunar, cu cardul, Apple Pay sau Google Pay.</p><a>Donează acum →</a></div>
+<div class="way"><span class="ic">📝</span><h4 class="d">3,5% din impozit</h4><p>Gratuit pentru tine: completează Formularul 230 până pe 25 mai.</p><a>Completează →</a></div>
+<div class="way"><span class="ic">🏢</span><h4 class="d">Sponsorizează</h4><p>Pentru firme: credit fiscal sau Formularul 177.</p><a>Află cum →</a></div>
+<div class="way"><span class="ic">🤝</span><h4 class="d">Devino membru</h4><p>Vino la o ședință: miercuri, 18:30, Hotel Victoria.</p><a>Pașii →</a></div></div></div></section>
+<footer><div class="wrap"><span>© 2026 Asociația Rotary Club Cluj-Napoca Opera · CUI 39347197</span><span>contact@rotaryoperacluj.ro</span></div></footer>
+<script>
+const B=[["Ovidiu Pop","Președinte","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/ovidiu-pop-300x300.png"],["Lavinia Florian","Vicepreședinte","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/lavinia-florian-300x300.png"],["Paula Șeer","Secretar","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/paula-seer-2026-300x300.png"],["Sebastian Andro","Trezorier","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/sebastian-andro-300x300.png"],["Darius Popîrțac","Foundation","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/darius-300x300.png"],["Emilia Haiduc","Public Image","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/emilia-haiduc-300x300.png"],["Radu Serfezeu","Service Projects",""],["Cristian Zaharia","Young Leaders","https://rotaryoperacluj.ro/wp-content/uploads/2026/09/cristi-zaharia-300x300.png"]];
+document.getElementById('faces').innerHTML=B.map(([n,r,i])=>`<div class="face">${i?`<img src="${i}" alt="">`:`<span class="mono">${n.split(' ').map(w=>w[0]).join('')}</span>`}<b>${n}</b><span>${r}</span></div>`).join('');
+</script>
+</body></html>
