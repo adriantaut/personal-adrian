@@ -12,7 +12,7 @@ widget=f'''<div class="rop-donate-box">
 <div class="rop-amts rop-amts--monthly">{monthly}</div>
 <p class="rop-donate-note">Plătești securizat prin Stripe, cu cardul, Apple Pay sau Google Pay. Primești chitanța pe e-mail. Donația lunară o poți anula oricând.</p>
 </div>'''
-iban='<div class="rop-iban"><span>Beneficiar</span><strong>ROTARY CLUB CLUJ-NAPOCA OPERA</strong><span>IBAN (Banca Transilvania)</span><strong class="rop-iban__nr">RO40 BTRL RONC RT04 4038 0101</strong><span>CUI</span><strong>39347197</strong><button type="button" onclick="navigator.clipboard.writeText(\'RO40BTRLRONCRT0440380101\');this.textContent=\'Copiat ✓\'">Copiază IBAN</button></div>'
+iban='<div class="rop-iban"><span>Beneficiar</span><strong>ROTARY CLUB CLUJ-NAPOCA OPERA</strong><span>CUI</span><strong>39347197</strong><span>IBAN (Banca Transilvania)</span><strong class="rop-iban__nr">RO40 BTRL RONC RT04 4038 0101</strong><button type="button" onclick="navigator.clipboard.writeText(\'RO40BTRLRONCRT0440380101\');this.textContent=\'Copiat ✓\'">Copiază IBAN</button></div>'
 x = pagehero('Donează','Susține proiectele noastre','Fiecare leu ajunge într-un proiect concret pentru comunitatea din Cluj: cadouri de Crăciun pentru copii, pachete pentru familii, cursuri de prim ajutor, dialoguri educative.')
 x += group(cols(
   col(p('Online','rop-eyebrow')+h('Donează cu cardul')+html(widget)),
