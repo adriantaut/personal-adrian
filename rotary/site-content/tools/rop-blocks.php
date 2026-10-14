@@ -247,6 +247,11 @@ body.admin-bar header.wp-block-template-part{top:-16px}
 .rop-options{display:grid;gap:.75rem;margin:.5rem 0 1rem}
 .rop-options div{background:var(--wp--preset--color--accent-5);border-left:3px solid var(--wp--preset--color--accent-2);border-radius:4px;padding:.85rem 1rem;display:grid;gap:.25rem}
 .rop-options b{font-family:var(--wp--preset--font-family--literata);color:var(--wp--preset--color--accent-4);font-size:1.05rem}
+/* Donează: tighter, continuous sections */
+body.page-id-286 .wp-block-post-content > .rop-section{padding-block:clamp(1.75rem,3.5vw,2.75rem)}
+body.page-id-286 .wp-block-post-content > .rop-section:first-of-type{padding-top:clamp(2.5rem,5vw,3.5rem)}
+body.page-id-286 .wp-block-post-content > .rop-section--cream{background:transparent}
+body.page-id-286 .wp-block-post-content > .rop-section + .rop-section{border-top:1px solid var(--wp--preset--color--accent-6)}
 .rop-timeline{list-style:none;padding:0;border-left:2px solid var(--wp--preset--color--accent-6);margin-left:.4rem}
 .rop-timeline li{position:relative;padding:0 0 1.4rem 1.6rem}
 .rop-timeline li:before{content:"";position:absolute;left:-7px;top:.45em;width:12px;height:12px;border-radius:50%;background:var(--wp--preset--color--accent-2)}
