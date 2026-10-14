@@ -38,7 +38,7 @@
 | 16 Apr 2026 | Comandă Edenred - tichete masă Aprilie (18 zile × 45 = 810 RON) | ✅ |
 | 25 Mar 2026 | Transferat dividende | ✅ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
-| 🔴 **ASAP** (deadline 31 Dec 2026) | **Majorare capital social 200 → 5.000 lei la ONRC** — online (ai semnătură calificată). Vezi `srl/majorare-capital-social.md` | 🔴 |
+| 🟡 **până 31 Dec 2026** | **Majorare capital social 200 → 5.000 lei la ONRC** — online pe portal.onrc.ro (ai semnătură calificată). ⚠️ Termenul legal real e **18 Dec 2027** (L. 239/2025); 31 Dec 2026 e doar pentru reducerea de 50% la Monitorul Oficial. Vezi `srl/majorare-capital-social.md` | 🟡 |
 | 26 Iun 2026 | Factură DropShot Coffee | ✅ |
 | 6 Iul 2026 | Plată diurnă delegație București (402,5 RON) | ✅ |
 | 8-14 Iul 2026 | Delegație București (bonuri trimise la CEDEXPERT ✅) | ✅ |

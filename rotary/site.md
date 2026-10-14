@@ -228,3 +228,4 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Pagina **/doneaza/** (online + IBAN + 3,5% + sponsorizare firme cu credit fiscal/Formular 177 + în natură + transparență + FAQ) și **/multumim/**
 - **Implică-te scos din meniu**, /implica-te/ → 301 /doneaza/; toate butoanele Donează → /doneaza/
 - ⚠️ Cheia `sk_live` full-access a fost lipită în chat → de dat ROLL în Stripe
+- **TODO Stripe — raport automat pentru trezorier:** pe 1 ale lunii, export automat al donațiilor din luna trecută (dată, sumă, comision Stripe, net, proiect ales, o dată/lunar, firmă+CUI dacă există) → CSV pe e-mail la trezorier (Sebastian Andro) + rotaryoperacluj@gmail.com. Implementare: cron WordPress în mu-plugin + cheie Stripe *restricted* doar-citire (Charges/Checkout Sessions/Balance transactions). Alternativ: Stripe Dashboard → Reports → Scheduled (dacă e disponibil pe cont)

@@ -1,105 +1,385 @@
 [
- {"slug":"educatio","title":"EDUCATIO — dialoguri educative","an":2025,"status":"activ","cat":["Educație","Sănătate","Artă","Comunitate"],
-  "excerpt":"Seria noastră de dialoguri deschise publicului: experți invitați, un moderator și întrebările voastre — despre media, bani, sănătate, cultură și mediu.",
-  "impact":[["5","ediții în 2025–2026"],["200+","de înscrieri la primele trei ediții"]],
-  "parteneri":"ABC Incubator\nFunky Citizens\nRotary Club București Nord\nRotaract Cluj-Napoca Opera\nOrchestra MedStrings\nDoubleTree by Hilton Cluj\nBLAShine",
-  "hero":"educatio-moneytalks-1",
-  "body":["EDUCATIO — „educație”, în latină — este seria noastră de dialoguri educative deschise publicului. A pornit în toamna lui 2025, din dorința de a aduna sub un singur nume proiectele prin care facem educație în comunitate: media, financiară, medicală, culturală sau ecologică.",
-   "Formatul e simplu: un moderator, câțiva specialiști invitați și un public care vine cu întrebări. Intrarea e liberă, pe bază de înscriere. Identitatea vizuală — simbolul Σ și câte o culoare pentru fiecare temă — îi aparține colegului nostru Ovidiu Pop. Tot sub umbrela EDUCATIO a avut loc, în decembrie 2025, și a treia ediție ToyJoy."],
-  "editii":[
-   {"an":"2025-11-26","titlu":"EDUCATIO x MediaMind","detalii":"26 noiembrie 2025 · ABC Incubator · 71 de înscrieri","poze":["educatio-mediamind-afis","educatio-mediamind-1","educatio-mediamind-2"],
-    "text":"<p>Prima ediție, „de la Fake News la Radicalizare &amp; Anxietate”, a pus pe aceeași scenă un sociolog, un psiholog și un specialist în fact-checking. Prof. univ. dr. Ioan Hosu, dr. Aissa Suciu și Matei Vrabie (Funky Citizens) au vorbit despre dezinformare, despre anxietatea digitală și dependența de ecrane și despre felul în care algoritmii ne împing spre extreme.</p><p>Seara a fost moderată de lector univ. dr. Oana Ometa.</p>"},
-   {"an":"2026-02-25","titlu":"EDUCATIO x MoneyTalks","detalii":"25 februarie 2026 · ABC Incubator","poze":["educatio-moneytalks-1","educatio-moneytalks-2","educatio-moneytalks-3","educatio-moneytalks-4"],
-    "text":"<p>„Navigând prin decizii financiare: de la nevoi și bugete personale la investiții și presiuni fiscale” — o seară despre bani, spusă pe înțelesul tuturor. Invitații au fost Sergiu Penciu, expert în educație financiară, Anca Roman, șefa Departamentului INNO al ADR Nord-Vest, și conf. univ. dr. Flavius Rovinaru (FSEGA).</p><p>Moderatoarea serii a fost colega noastră Emilia Haiduc, iar discuția a fost filmată și publicată online.</p>"},
-   {"an":"2026-03-28","titlu":"EDUCATIO x #GenerațiaFărăHPV","detalii":"28 martie 2026 · DoubleTree by Hilton Cluj · cu Rotary Club București Nord · 87 de înscrieri","poze":["educatio-hpv-1","educatio-hpv-2","educatio-hpv-3","educatio-hpv-4"],
-    "text":"<p>Am organizat ediția despre prevenirea infecției cu HPV împreună cu Rotary Club București Nord, care a inițiat campania la nivel național. Orchestra MedStrings a deschis evenimentul.</p><p>Au vorbit conf. dr. Amanda Rădulescu (UMF Cluj-Napoca), despre vaccinarea anti-HPV, psihoterapeuta Alexandra Arusoaiei, despre impactul emoțional al diagnosticului, dr. Teodora Gozman, medic ginecolog, precum și lector univ. dr. Mădălina Coman și Ștefan Augustin Lazăr, despre cum vorbim cu adolescenții despre vaccinare. Moderator: dr. Lavinia Berinde.</p><p>Seara, cele două cluburi s-au înfrățit.</p>"},
-   {"an":"2026-05-06","titlu":"EDUCATIO x SoundCulture","detalii":"6 mai 2026 · Casa Libertății Religioase","poze":["educatio-soundculture-1"],
-    "text":"<p>O seară despre cultură, cu muzică, discuții și networking. Moderatorul a fost Cristian Avram, iar printre invitați s-au numărat David Crescenzi și baritonul Florin Estefan.</p>"},
-   {"an":"2026-05-09","titlu":"EDUCATIO x EcoPulse","detalii":"9 mai 2026 · Pădurea Clujenilor · cu BLAShine","poze":["educatio-ecopulse-1","educatio-ecopulse-2","educatio-ecopulse-3"],
-    "text":"<p>Ediția ecologică ne-a scos din sală. Împreună cu BLAShine am participat la o acțiune de ecologizare în Pădurea Clujenilor, la care au venit voluntari de toate vârstele.</p>"}]},
-
- {"slug":"construim-bucurie","title":"Construim Bucurie","an":2024,"status":"recurent","cat":["Comunitate","Social"],
-  "excerpt":"Pachete cu alimente, haine, jucării și rechizite pentru familiile nevoiașe din comunele din jurul Clujului, alături de parteneri din sport și comerț.",
-  "impact":[["115","familii ajutate"],["208","copii, doar la ediția de Crăciun"],["65.600 lei","valoarea pachetelor"]],
-  "parteneri":"FC Universitatea Cluj\nClubul Sportiv Universitatea Cluj\nPeluza Șepcile Roșii\nLeroy Merlin\nCatena\n18Gym\nCXP Spedition\nAsociația Blana\nWonderland\nSensodyne România\nCluburile Rotaract din Cluj-Napoca",
-  "hero":"construim-bucurie-craciun-2024",
-  "body":["Construim Bucurie este campania prin care, alături de parteneri din sport, comerț și comunitate, ducem pachete cu alimente, produse de igienă, haine, jucării și rechizite familiilor nevoiașe din comunele din jurul Clujului.",
-   "Noi coordonăm totul: colectarea, sortarea, ambalarea și distribuirea, cu sprijinul cluburilor Rotaract din Cluj-Napoca. Primarii comunelor partenere ne ajută să ajungem la familiile care au cea mai mare nevoie."],
-  "editii":[
-   {"an":"2025","titlu":"Ediția de Paște 2025","detalii":"30 de familii · aprilie 2025 · pachete de 24.000 lei","poze":["construim-bucurie-paste-2025"],
-    "text":"<p>După campania de Crăciun ne-au rămas multe haine donate, iar primarii comunelor partenere ne-au rugat să continuăm. Așa a apărut ediția de Paște.</p><p>Din martie am strâns haine, încălțăminte și jucării, depozitate cu sprijinul Leroy Merlin. Wonderland a contribuit cu pachete de mâncare, iar alături de noi au fost și FC Universitatea Cluj și Sensodyne România. Pe 14 aprilie, membrii clubului și voluntarii au pregătit pachetele, care au ajuns înainte de Paște la 30 de familii. Alte 28 de cutii au rămas comunității din Cojocna.</p>"},
-   {"an":"2024","titlu":"Ediția de Crăciun 2024","detalii":"85 de familii · 208 copii · Cojocna, Feleacu și Apahida · pachete de 41.600 lei","poze":["construim-bucurie-craciun-2024"],"keep_featured":true,
-    "text":"<p>În decembrie 2024 ne-am unit forțele cu FC Universitatea Cluj, Clubul Sportiv Universitatea, Peluza Șepcile Roșii, Leroy Merlin, Catena, 18Gym, Asociația Blana și CXP Spedition. Între 2 și 20 decembrie, punctele de colectare au fost la Leroy Merlin (Vlaicu și Turzii), în sălile 18Gym și înaintea meciurilor „U” Cluj de pe Cluj Arena și din Sala Sporturilor „Horia Demian”.</p><p>Înainte de Crăciun, pachetele au ajuns la 85 de familii din Cojocna, Feleacu și Apahida — familii cu până la opt copii, familii monoparentale și persoane cu dizabilități, cu 208 copii în total.</p>"}]},
-
- {"slug":"promenada-inimilor","title":"Promenada Inimilor","an":2024,"status":"recurent","cat":["Sănătate","Comunitate","Sport"],
-  "excerpt":"O plimbare anuală pe malul Someșului, alături de toate cluburile Rotary din Cluj, care ne amintește cât de importantă e mișcarea pentru o inimă sănătoasă.",
-  "impact":[["3","ediții, din 2024"]],
-  "parteneri":"Cluburile Rotary din Cluj-Napoca",
-  "hero":"promenada-inimilor-2024","gallery":["promenada-inimilor-2024","promenada-inimilor-2025"],
-  "body":["Promenada Inimilor este proiectul comun al cluburilor Rotary din Cluj-Napoca. Ne-am propus să atragem atenția asupra nevoii de mișcare pentru o inimă sănătoasă: ne întâlnim cu toții și pornim la plimbare pe traseul de pe malul Someșului, marcat cu panouri dedicate.",
-   "Prima ediție a avut loc sâmbătă, 5 octombrie 2024, cu plecare de la Podul Rozelor. Vremea nu a fost de partea noastră, dar a venit multă lume și atmosfera a fost foarte frumoasă.",
-   "De atunci, Promenada a devenit o tradiție a toamnei: ediția a doua a avut loc pe 27 septembrie 2025, iar a treia pe 26 septembrie 2026."]},
-
- {"slug":"invata-sa-redai-viata","title":"Învață să redai viața!","an":2024,"status":"incheiat","cat":["Educație","Sănătate"],
-  "excerpt":"Cursuri gratuite de prim ajutor pentru copiii din comunele de lângă Cluj și un curs pentru părinți, susținute de instructorii Academiei de Prim Ajutor.",
-  "impact":[["3","localități: Apahida, Feleacu, Cara"],["26","de copii la prima sesiune"],["3","evenimente de strângere de fonduri"]],
-  "parteneri":"Academia de Prim Ajutor\nRotary International — Districtul 2241\nNON Centru de Arte Performative",
-  "hero":"invata-sa-redai-viata-1","gallery":["invata-sa-redai-viata-afis","invata-sa-redai-viata-1"],
-  "body":["Câteva minute pot face diferența dintre viață și moarte. Prin „Învață să redai viața!” am adus cursuri de prim ajutor la copii și la părinți, susținute de instructorii Academiei de Prim Ajutor.",
+ {
+  "slug": "educatio",
+  "title": "EDUCATIO — dialoguri educative",
+  "an": 2025,
+  "status": "activ",
+  "cat": [
+   "Educație",
+   "Sănătate",
+   "Artă",
+   "Comunitate"
+  ],
+  "excerpt": "Seria noastră de dialoguri deschise publicului: experți invitați, un moderator și întrebările voastre — despre media, bani, sănătate, cultură și mediu.",
+  "impact": [
+   [
+    "5",
+    "ediții în 2025–2026"
+   ],
+   [
+    "200+",
+    "de înscrieri la primele trei ediții"
+   ]
+  ],
+  "parteneri": "ABC Incubator\nFunky Citizens\nRotary Club București Nord\nRotaract Cluj-Napoca Opera\nOrchestra MedStrings\nDoubleTree by Hilton Cluj\nBLAShine",
+  "hero": "educatio-moneytalks-1",
+  "body": [
+   "EDUCATIO — „educație”, în latină — este seria noastră de dialoguri educative deschise publicului. A pornit în toamna lui 2025, din dorința de a aduna sub un singur nume proiectele prin care facem educație în comunitate: media, financiară, medicală, culturală sau ecologică.",
+   "Formatul e simplu: un moderator, câțiva specialiști invitați și un public care vine cu întrebări. Intrarea e liberă, pe bază de înscriere. Identitatea vizuală — simbolul Σ și câte o culoare pentru fiecare temă — îi aparține colegului nostru Ovidiu Pop. Tot sub umbrela EDUCATIO a avut loc, în decembrie 2025, și a treia ediție ToyJoy."
+  ],
+  "editii": [
+   {
+    "an": "2025-11-26",
+    "titlu": "EDUCATIO x MediaMind",
+    "detalii": "26 noiembrie 2025 · ABC Incubator · 71 de înscrieri",
+    "poze": [
+     "educatio-mediamind-afis",
+     "educatio-mediamind-1",
+     "educatio-mediamind-2"
+    ],
+    "text": "<p>Prima ediție, „de la Fake News la Radicalizare &amp; Anxietate”, a pus pe aceeași scenă un sociolog, un psiholog și un specialist în fact-checking. Prof. univ. dr. Ioan Hosu, dr. Aissa Suciu și Matei Vrabie (Funky Citizens) au vorbit despre dezinformare, despre anxietatea digitală și dependența de ecrane și despre felul în care algoritmii ne împing spre extreme.</p><p>Seara a fost moderată de lector univ. dr. Oana Ometa.</p>"
+   },
+   {
+    "an": "2026-02-25",
+    "titlu": "EDUCATIO x MoneyTalks",
+    "detalii": "25 februarie 2026 · ABC Incubator",
+    "poze": [
+     "educatio-moneytalks-1",
+     "educatio-moneytalks-2",
+     "educatio-moneytalks-3",
+     "educatio-moneytalks-4"
+    ],
+    "text": "<p>„Navigând prin decizii financiare: de la nevoi și bugete personale la investiții și presiuni fiscale” — o seară despre bani, spusă pe înțelesul tuturor. Invitații au fost Sergiu Penciu, expert în educație financiară, Anca Roman, șefa Departamentului INNO al ADR Nord-Vest, și conf. univ. dr. Flavius Rovinaru (FSEGA).</p><p>Moderatoarea serii a fost colega noastră Emilia Haiduc, iar discuția a fost filmată și publicată online.</p>"
+   },
+   {
+    "an": "2026-03-28",
+    "titlu": "EDUCATIO x #GenerațiaFărăHPV",
+    "detalii": "28 martie 2026 · DoubleTree by Hilton Cluj · cu Rotary Club București Nord · 87 de înscrieri",
+    "poze": [
+     "educatio-hpv-1",
+     "educatio-hpv-2",
+     "educatio-hpv-3",
+     "educatio-hpv-4"
+    ],
+    "text": "<p>Am organizat ediția despre prevenirea infecției cu HPV împreună cu Rotary Club București Nord, care a inițiat campania la nivel național. Orchestra MedStrings a deschis evenimentul.</p><p>Au vorbit conf. dr. Amanda Rădulescu (UMF Cluj-Napoca), despre vaccinarea anti-HPV, psihoterapeuta Alexandra Arusoaiei, despre impactul emoțional al diagnosticului, dr. Teodora Gozman, medic ginecolog, precum și lector univ. dr. Mădălina Coman și Ștefan Augustin Lazăr, despre cum vorbim cu adolescenții despre vaccinare. Moderator: dr. Lavinia Berinde.</p><p>Seara, cele două cluburi s-au înfrățit.</p>"
+   },
+   {
+    "an": "2026-05-06",
+    "titlu": "EDUCATIO x SoundCulture",
+    "detalii": "6 mai 2026 · Casa Libertății Religioase",
+    "poze": [
+     "educatio-soundculture-1"
+    ],
+    "text": "<p>O seară despre cultură, cu muzică, discuții și networking. Moderatorul a fost Cristian Avram, iar printre invitați s-au numărat David Crescenzi și baritonul Florin Estefan.</p>"
+   },
+   {
+    "an": "2026-05-09",
+    "titlu": "EDUCATIO x EcoPulse",
+    "detalii": "9 mai 2026 · Pădurea Clujenilor · cu BLAShine",
+    "poze": [
+     "educatio-ecopulse-1",
+     "educatio-ecopulse-2",
+     "educatio-ecopulse-3"
+    ],
+    "text": "<p>Ediția ecologică ne-a scos din sală. Împreună cu BLAShine am participat la o acțiune de ecologizare în Pădurea Clujenilor, la care au venit voluntari de toate vârstele.</p>"
+   }
+  ]
+ },
+ {
+  "slug": "construim-bucurie",
+  "title": "Construim Bucurie",
+  "an": 2024,
+  "status": "recurent",
+  "cat": [
+   "Comunitate",
+   "Social"
+  ],
+  "excerpt": "Pachete cu alimente, haine, jucării și rechizite pentru familiile nevoiașe din comunele din jurul Clujului, alături de parteneri din sport și comerț.",
+  "impact": [
+   [
+    "115",
+    "familii ajutate"
+   ],
+   [
+    "208",
+    "copii, doar la ediția de Crăciun"
+   ],
+   [
+    "65.600 lei",
+    "valoarea pachetelor"
+   ]
+  ],
+  "parteneri": "FC Universitatea Cluj\nClubul Sportiv Universitatea Cluj\nPeluza Șepcile Roșii\nLeroy Merlin\nCatena\n18Gym\nCXP Spedition\nAsociația Blana\nWonderland\nSensodyne România\nCluburile Rotaract din Cluj-Napoca",
+  "hero": "construim-bucurie-craciun-2024",
+  "body": [
+   "Construim Bucurie este campania prin care, alături de parteneri din sport, comerț și comunitate, ducem pachete cu alimente, produse de igienă, haine, jucării și rechizite familiilor nevoiașe din comunele din jurul Clujului.",
+   "Noi coordonăm totul: colectarea, sortarea, ambalarea și distribuirea, cu sprijinul cluburilor Rotaract din Cluj-Napoca. Primarii comunelor partenere ne ajută să ajungem la familiile care au cea mai mare nevoie."
+  ],
+  "editii": [
+   {
+    "an": "2025",
+    "titlu": "Ediția de Paște 2025",
+    "detalii": "30 de familii · aprilie 2025 · pachete de 24.000 lei",
+    "poze": [
+     "construim-bucurie-paste-2025"
+    ],
+    "text": "<p>După campania de Crăciun ne-au rămas multe haine donate, iar primarii comunelor partenere ne-au rugat să continuăm. Așa a apărut ediția de Paște.</p><p>Din martie am strâns haine, încălțăminte și jucării, depozitate cu sprijinul Leroy Merlin. Wonderland a contribuit cu pachete de mâncare, iar alături de noi au fost și FC Universitatea Cluj și Sensodyne România. Pe 14 aprilie, membrii clubului și voluntarii au pregătit pachetele, care au ajuns înainte de Paște la 30 de familii. Alte 28 de cutii au rămas comunității din Cojocna.</p>"
+   },
+   {
+    "an": "2024",
+    "titlu": "Ediția de Crăciun 2024",
+    "detalii": "85 de familii · 208 copii · Cojocna, Feleacu și Apahida · pachete de 41.600 lei",
+    "poze": [
+     "construim-bucurie-craciun-2024"
+    ],
+    "keep_featured": true,
+    "text": "<p>În decembrie 2024 ne-am unit forțele cu FC Universitatea Cluj, Clubul Sportiv Universitatea, Peluza Șepcile Roșii, Leroy Merlin, Catena, 18Gym, Asociația Blana și CXP Spedition. Între 2 și 20 decembrie, punctele de colectare au fost la Leroy Merlin (Vlaicu și Turzii), în sălile 18Gym și înaintea meciurilor „U” Cluj de pe Cluj Arena și din Sala Sporturilor „Horia Demian”.</p><p>Înainte de Crăciun, pachetele au ajuns la 85 de familii din Cojocna, Feleacu și Apahida — familii cu până la opt copii, familii monoparentale și persoane cu dizabilități, cu 208 copii în total.</p>"
+   }
+  ]
+ },
+ {
+  "slug": "promenada-inimilor",
+  "title": "Promenada Inimilor",
+  "an": 2024,
+  "status": "recurent",
+  "cat": [
+   "Sănătate",
+   "Comunitate",
+   "Sport"
+  ],
+  "excerpt": "Un traseu de plimbare pe malul Someșului, pentru o inimă sănătoasă. Proiect inițiat de Rotary Club Cluj-Napoca Cetățuie și susținut, din 2024, de toate cluburile Rotary din Cluj.",
+  "impact": [
+   [
+    "2",
+    "trasee marcate: 2,5 km și 1 km"
+   ],
+   [
+    "3",
+    "ediții alături de clubul nostru, din 2024"
+   ]
+  ],
+  "parteneri": "Rotary Club Cluj-Napoca Cetățuie\nCluburile Rotary din Cluj-Napoca\nFundația Română a Inimii\nSocietatea Română de Cardiologie\nInstitutul Inimii „Niculae Stăncioiu” Cluj-Napoca",
+  "hero": "promenada-inimilor-2024",
+  "gallery": [
+   "promenada-inimilor-2024",
+   "promenada-inimilor-2025"
+  ],
+  "body": [
+   "Promenada Inimilor este un program dedicat sănătății inimii: un traseu accesibil pentru plimbare, în Parcul Rozelor, pe malul Someșului, care încurajează o rutină zilnică de mers pe jos. Ideea a pornit de la Fundația Irlandeză a Inimii și a ajuns în peste zece țări europene. La Cluj, programul a fost lansat în 2022 de Rotary Club Cluj-Napoca Cetățuie, alături de Fundația Română a Inimii, Societatea Română de Cardiologie și Institutul Inimii „Niculae Stăncioiu”.",
+   "Motivul e cât se poate de serios: România are una dintre cele mai mari rate de mortalitate cauzată de bolile cardiovasculare din Europa. Medicii recomandă un efort moderat zilnic, de cel puțin 30 de minute, cinci zile pe săptămână, iar o plimbare pe un traseu marcat e cel mai simplu început.",
+   "Traseul are două variante: unul albastru, de aproximativ 2,5 km, între Parcul Rozelor și Parcul Babeș, dus-întors, și unul roșu, de aproximativ 1 km, un circuit în Parcul Rozelor, recomandat persoanelor cu afecțiuni cardiace.",
+   "Din 2024, Promenada Inimilor a devenit un proiect comun al tuturor cluburilor Rotary din Cluj-Napoca, iar clubul nostru este alături de el. Ediția din 5 octombrie 2024 a pornit de la Podul Rozelor, pe traseul marcat cu panouri noi: vremea nu a fost de partea noastră, dar a venit multă lume. Au urmat edițiile din 27 septembrie 2025 și 26 septembrie 2026."
+  ]
+ },
+ {
+  "slug": "invata-sa-redai-viata",
+  "title": "Învață să redai viața!",
+  "an": 2024,
+  "status": "incheiat",
+  "cat": [
+   "Educație",
+   "Sănătate"
+  ],
+  "excerpt": "Cursuri gratuite de prim ajutor pentru copiii din comunele de lângă Cluj și un curs pentru părinți, susținute de instructorii Academiei de Prim Ajutor.",
+  "impact": [
+   [
+    "3",
+    "localități: Apahida, Feleacu, Cara"
+   ],
+   [
+    "26",
+    "de copii la prima sesiune"
+   ],
+   [
+    "3",
+    "evenimente de strângere de fonduri"
+   ]
+  ],
+  "parteneri": "Academia de Prim Ajutor\nRotary International — Districtul 2241\nNON Centru de Arte Performative",
+  "hero": "invata-sa-redai-viata-1",
+  "gallery": [
+   "invata-sa-redai-viata-afis",
+   "invata-sa-redai-viata-1"
+  ],
+  "body": [
+   "Câteva minute pot face diferența dintre viață și moarte. Prin „Învață să redai viața!” am adus cursuri de prim ajutor la copii și la părinți, susținute de instructorii Academiei de Prim Ajutor.",
    "Pe 23 noiembrie 2024, la NON Centru de Arte Performative din Cluj-Napoca, am organizat un curs pentru părinți și viitori părinți: cum îți ajuți copilul într-o situație de urgență.",
    "Cu un grant districtual Rotary pentru „Educație pentru noua generație”, am dus apoi cursurile, gratuit, la copiii din ciclul primar și gimnazial din comunele de lângă Cluj: pe 28 ianuarie 2025 la Apahida, unde au participat 26 de copii, pe 26 februarie la Feleacu, iar în martie în satul Cara.",
-   "Proiectul a fost finanțat și prin evenimentele noastre de strângere de fonduri: o degustare de vin, recitalul „Souls & Strings — Armonii românești” și petrecerea Retrosonic 2025. Mulțumim tuturor celor care au fost alături de noi!"]},
-
- {"slug":"souls-and-strings","title":"Souls & Strings — Armonii românești","an":2024,"status":"incheiat","cat":["Artă"],
-  "excerpt":"O seară de lied românesc în Casa Memorială „Sigismund Toduță”, pe 24 august 2024, pentru cursurile de prim ajutor „Învață să redai viața!”.",
-  "impact":[["28","de participanți"],["7.050 lei","strânși pentru „Învață să redai viața!”"]],
-  "parteneri":"Fundația „Sigismund Toduță”\nAsociația Culturală „Alexandru Fărcaș”",
-  "hero":"souls-strings-salon","gallery":["souls-strings-afis","souls-strings-casa-toduta","souls-strings-salon"],
-  "body":["Pe 24 august 2024, Casa Memorială „Sigismund Toduță” din Cluj-Napoca și-a deschis încăperile pentru recitalul vocal-instrumental „Souls & Strings — Armonii românești”: o seară de lied românesc, în casa unuia dintre cei mai importanți compozitori clujeni.",
+   "Proiectul a fost finanțat și prin evenimentele noastre de strângere de fonduri: o degustare de vin, recitalul „Souls & Strings — Armonii românești” și petrecerea Retrosonic 2025. Mulțumim tuturor celor care au fost alături de noi!"
+  ]
+ },
+ {
+  "slug": "souls-and-strings",
+  "title": "Souls & Strings — Armonii românești",
+  "an": 2024,
+  "status": "incheiat",
+  "cat": [
+   "Artă"
+  ],
+  "excerpt": "O seară de lied românesc în Casa Memorială „Sigismund Toduță”, pe 24 august 2024, pentru cursurile de prim ajutor „Învață să redai viața!”.",
+  "impact": [
+   [
+    "28",
+    "de participanți"
+   ],
+   [
+    "7.050 lei",
+    "strânși pentru „Învață să redai viața!”"
+   ]
+  ],
+  "parteneri": "Fundația „Sigismund Toduță”\nAsociația Culturală „Alexandru Fărcaș”",
+  "hero": "souls-strings-salon",
+  "gallery": [
+   "souls-strings-afis",
+   "souls-strings-casa-toduta",
+   "souls-strings-salon"
+  ],
+  "body": [
+   "Pe 24 august 2024, Casa Memorială „Sigismund Toduță” din Cluj-Napoca și-a deschis încăperile pentru recitalul vocal-instrumental „Souls & Strings — Armonii românești”: o seară de lied românesc, în casa unuia dintre cei mai importanți compozitori clujeni.",
    "Programul a cuprins lucrări de Sigismund Toduță, Nicolae Bretan, Valentin Teodorian, Felicia Donceanu, Tiberiu Brediceanu, Pascal Bentoiu și Vasile Popovici, pe versuri de Lucian Blaga, Ana Blandiana, Mihai Eminescu și alții.",
    "Pe scenă au fost Bianca Murariu (pian), Andrei Petruș, Ioan Stancu, Christine Razec, Horațiu Ruști, Petre Burcă și colega noastră Iulia Merca — artiști care au cântat benevol pentru această cauză.",
-   "Intrarea s-a făcut pe bază de donație, iar invitații au venit îmbrăcați în stilul anilor '50–'60. Fondurile au mers către „Învață să redai viața!”, proiectul nostru de cursuri gratuite de prim ajutor pentru copii. Mulțumim Fundației „Sigismund Toduță” pentru găzduire și artiștilor pentru generozitate."]},
-
- {"slug":"retrosonic-2025","title":"Retrosonic 2025","an":2025,"status":"incheiat","cat":["Divertisment","Comunitate"],
-  "excerpt":"O petrecere pe tema anilor '80–'90, pe 22 februarie 2025, la Bardot, pentru cursurile de prim ajutor „Învață să redai viața!”.",
-  "impact":[["50+","de participanți"],["5.000 lei","strânși pentru „Învață să redai viața!”"]],
-  "parteneri":"Bardot\nLeroy Merlin\nRotaract Cluj-Napoca Opera",
-  "hero":"retrosonic-2025",
-  "body":["Retrosonic este petrecerea retro a clubului nostru, la care muzica anilor trecuți se pune în slujba unei cauze bune.",
+   "Intrarea s-a făcut pe bază de donație, iar invitații au venit îmbrăcați în stilul anilor '50–'60. Fondurile au mers către „Învață să redai viața!”, proiectul nostru de cursuri gratuite de prim ajutor pentru copii. Mulțumim Fundației „Sigismund Toduță” pentru găzduire și artiștilor pentru generozitate."
+  ]
+ },
+ {
+  "slug": "retrosonic-2025",
+  "title": "Retrosonic 2025",
+  "an": 2025,
+  "status": "incheiat",
+  "cat": [
+   "Divertisment",
+   "Comunitate"
+  ],
+  "excerpt": "O petrecere pe tema anilor '80–'90, pe 22 februarie 2025, la Bardot, pentru cursurile de prim ajutor „Învață să redai viața!”.",
+  "impact": [
+   [
+    "50+",
+    "de participanți"
+   ],
+   [
+    "5.000 lei",
+    "strânși pentru „Învață să redai viața!”"
+   ]
+  ],
+  "parteneri": "Bardot\nLeroy Merlin\nRotaract Cluj-Napoca Opera",
+  "hero": "retrosonic-2025",
+  "body": [
+   "Retrosonic este petrecerea retro a clubului nostru, la care muzica anilor trecuți se pune în slujba unei cauze bune.",
    "Ediția 2025 a avut loc sâmbătă, 22 februarie, la Bardot, pe tema anilor '80–'90: DJ, photo corner, decor retro și o tombolă cu premii. A fost cu o seară înainte de gala districtuală Rotary 120 de la Opera Națională Română din Cluj-Napoca, așa că ne-au fost alături prieteni rotarieni din tot districtul.",
-   "Banii strânși au mers către „Învață să redai viața!”, prin care copiii din comunele de lângă Cluj învață gratuit să acorde primul ajutor. Mulțumim tuturor celor care au dansat cu noi, gazdelor de la Bardot, prietenilor de la Leroy Merlin pentru premiile tombolei și colegilor de la Rotaract pentru ajutor."]},
-
- {"slug":"cartare-rotaract-opera","title":"Cartarea Rotaract Club Cluj-Napoca Opera","an":2025,"status":"incheiat","cat":["Comunitate","Educație"],
-  "excerpt":"Pe 22 mai 2025 a fost cartat Rotaract Club Cluj-Napoca Opera, noul club de tineri pe care îl susținem ca club sponsor.",
-  "impact":[["1","club Rotaract nou în Cluj"],["80","de invitați la ceremonie"]],
-  "parteneri":"Rotaract Club Cluj-Napoca Opera\nRotary International — Districtul 2241",
-  "hero":"cartare-rotaract-opera",
-  "body":["În toamna lui 2024, un grup de tineri ne-a cerut ajutorul ca să înființeze un nou club Rotaract în Cluj-Napoca. Pe 27 noiembrie 2024, membrii clubului nostru au votat în unanimitate să devină clubul lor sponsor.",
+   "Banii strânși au mers către „Învață să redai viața!”, prin care copiii din comunele de lângă Cluj învață gratuit să acorde primul ajutor. Mulțumim tuturor celor care au dansat cu noi, gazdelor de la Bardot, prietenilor de la Leroy Merlin pentru premiile tombolei și colegilor de la Rotaract pentru ajutor."
+  ]
+ },
+ {
+  "slug": "cartare-rotaract-opera",
+  "title": "Cartarea Rotaract Club Cluj-Napoca Opera",
+  "an": 2025,
+  "status": "incheiat",
+  "cat": [
+   "Comunitate",
+   "Educație"
+  ],
+  "excerpt": "Pe 22 mai 2025 a fost cartat Rotaract Club Cluj-Napoca Opera, noul club de tineri pe care îl susținem ca club sponsor.",
+  "impact": [
+   [
+    "1",
+    "club Rotaract nou în Cluj"
+   ],
+   [
+    "80",
+    "de invitați la ceremonie"
+   ]
+  ],
+  "parteneri": "Rotaract Club Cluj-Napoca Opera\nRotary International — Districtul 2241",
+  "hero": "cartare-rotaract-opera",
+  "body": [
+   "În toamna lui 2024, un grup de tineri ne-a cerut ajutorul ca să înființeze un nou club Rotaract în Cluj-Napoca. Pe 27 noiembrie 2024, membrii clubului nostru au votat în unanimitate să devină clubul lor sponsor.",
    "În lunile care au urmat am lucrat împreună: tinerii de la Rotaract Opera ne-au ajutat la Construim Bucurie și la Retrosonic, iar noi i-am sprijinit să-și construiască clubul.",
    "Pe 22 mai 2025, la Chios, în prezența oficialilor districtuali și a tuturor cluburilor Rotaract din Cluj, a avut loc ceremonia de cartare, cu un moment artistic și aproximativ 80 de invitați. Clubul nostru i-a dăruit noului club clopotul și colanul.",
-   "A fost cea mai mare bucurie a anului rotarian 2024–2025. Bun venit în familia Rotary!"]},
-
- {"slug":"infratire-bucuresti-nord","title":"Înfrățirea cu Rotary Club București Nord","an":2026,"status":"incheiat","cat":["Comunitate"],
-  "excerpt":"Pe 28 martie 2026 am devenit club înfrățit cu Rotary Club București Nord: dimineața un proiect comun despre HPV, seara ceremonia și petrecerea.",
-  "impact":[["2","cluburi Rotary înfrățite"],["2","cluburi Rotaract înfrățite"],["60","de rotarieni și prieteni la ceremonie"]],
-  "parteneri":"Rotary Club București Nord\nRotaract Cluj-Napoca Opera\nRotaract București Nord",
-  "hero":"infratire-1","gallery":["infratire-1","infratire-certificat","infratire-2","infratire-3"],
-  "body":["Ideea înfrățirii a pornit în octombrie 2025, la Adunarea Generală a Districtului 2241 de la Sibiu, unde președinții celor două cluburi, Cristian Zaharia și Ana Zagor, au propus și un proiect comun. Am lucrat împreună toată iarna, la întâlniri online cu ambele cluburi Rotary și cu cluburile lor Rotaract.",
+   "A fost cea mai mare bucurie a anului rotarian 2024–2025. Bun venit în familia Rotary!"
+  ]
+ },
+ {
+  "slug": "infratire-bucuresti-nord",
+  "title": "Înfrățirea cu Rotary Club București Nord",
+  "an": 2026,
+  "status": "incheiat",
+  "cat": [
+   "Comunitate"
+  ],
+  "excerpt": "Pe 28 martie 2026 am devenit club înfrățit cu Rotary Club București Nord: dimineața un proiect comun despre HPV, seara ceremonia și petrecerea.",
+  "impact": [
+   [
+    "2",
+    "cluburi Rotary înfrățite"
+   ],
+   [
+    "2",
+    "cluburi Rotaract înfrățite"
+   ],
+   [
+    "60",
+    "de rotarieni și prieteni la ceremonie"
+   ]
+  ],
+  "parteneri": "Rotary Club București Nord\nRotaract Cluj-Napoca Opera\nRotaract București Nord",
+  "hero": "infratire-1",
+  "gallery": [
+   "infratire-1",
+   "infratire-certificat",
+   "infratire-2",
+   "infratire-3"
+  ],
+  "body": [
+   "Ideea înfrățirii a pornit în octombrie 2025, la Adunarea Generală a Districtului 2241 de la Sibiu, unde președinții celor două cluburi, Cristian Zaharia și Ana Zagor, au propus și un proiect comun. Am lucrat împreună toată iarna, la întâlniri online cu ambele cluburi Rotary și cu cluburile lor Rotaract.",
    "Sâmbătă, 28 martie 2026, a avut două părți. Dimineața am organizat împreună EDUCATIO x #GenerațiaFărăHPV, un dialog deschis publicului despre prevenirea infecției cu HPV. Seara, la Restaurant Amar din Cluj-Napoca, am semnat certificatul de înfrățire, urmat de o petrecere în stil retro, cu aproximativ 60 de rotarieni, rotaractieni și prieteni.",
    "Certificatul Rotary „Twin Club” consemnează că cele două cluburi au stabilit un parteneriat menit să întărească bunăvoința prin prietenie și serviciu pe termen lung. Cu aceeași ocazie s-au înfrățit și cluburile Rotaract Cluj-Napoca Opera și Rotaract București Nord.",
-   "Pentru noi, o înfrățire înseamnă mai mult decât o semnătură: proiecte comune, schimb de idei și, mai ales, prietenii."]},
-
- {"slug":"pe-scurt-2025-2026","title":"Pe scurt · anul rotarian 2025–2026","an":2025,"status":"incheiat","cat":["Comunitate"],
-  "excerpt":"Momente mai mici, dar importante pentru noi: End Polio Now pe fațada Operei, darurile de Crăciun pentru copiii de la Nefrologie și diplomele de la Olimpiada de Limba Română.",
-  "impact":[],
-  "parteneri":"Rotaract Cluj-Napoca Opera\nAsociația Misionarii lui Padre Pio",
-  "hero":"end-polio-2025",
-  "body":["Pe lângă proiectele mari, anul rotarian 2025–2026 a avut și momente mai mici, la care ținem la fel de mult."],
-  "editii":[
-   {"an":"2025-10-24","titlu":"End Polio Now pe fațada Operei","detalii":"24 octombrie 2025 · Ziua Mondială a Luptei împotriva Poliomielitei","poze":["end-polio-2025"],
-    "text":"<p>Eradicarea poliomielitei este una dintre cauzele de căpătâi ale Rotary International. De Ziua Mondială a Luptei împotriva Poliomielitei, cluburile Rotary din toată lumea luminează clădiri emblematice — iar la Cluj, mesajul „End Polio Now” a fost proiectat pe fațada Operei Naționale Române. Pentru un club care poartă numele Operei, a fost un moment cu o încărcătură aparte.</p>"},
-   {"an":"2025-12-17","titlu":"Daruri de Crăciun","detalii":"decembrie 2025 · Nefrologie Pediatrică · alături de Rotaract Opera","poze":["craciun-2025-targ"],
-    "text":"<p>Prin acțiunea „Letters to Santa” ne-am gândit la copiii internați pe Secția de Nefrologie Pediatrică: colegele noastre au cumpărat haine pentru 11 copii, care le-au primit în Ajunul Crăciunului.</p><p>Tot în decembrie am fost alături de clubul Rotaract Cluj-Napoca Opera: împreună am dus cadouri pentru 32 de copii sprijiniți de Asociația Misionarii lui Padre Pio și am participat la „O Cană de Fericire”, la Târgul de Crăciun din Cluj.</p>"},
-   {"an":"2026-04-18","titlu":"Diplome de excelență la Olimpiada de Limba Română","detalii":"18 aprilie 2026 · Auditorium Maximum, Cluj-Napoca","poze":["olimpiada-2026-1","olimpiada-2026-2"],
-    "text":"<p>La inițiativa colegei noastre Oana Ometa, clubul s-a alăturat festivității de premiere a Olimpiadei Naționale de Limba și Literatura Română, găzduită în 2026 de Cluj-Napoca. Elevii premiați au primit din partea Rotary Club Cluj-Napoca Opera diplome de excelență și cărți. Diplomele au fost concepute de Anca Pintilie, iar Cătălin Niță le-a înmânat pe scenă, în numele clubului.</p>"}]}
+   "Pentru noi, o înfrățire înseamnă mai mult decât o semnătură: proiecte comune, schimb de idei și, mai ales, prietenii."
+  ]
+ },
+ {
+  "slug": "pe-scurt-2025-2026",
+  "title": "Pe scurt · anul rotarian 2025–2026",
+  "an": 2025,
+  "status": "incheiat",
+  "cat": [
+   "Comunitate"
+  ],
+  "excerpt": "Momente mai mici, dar importante pentru noi: End Polio Now pe fațada Operei, darurile de Crăciun pentru copiii de la Nefrologie și diplomele de la Olimpiada de Limba Română.",
+  "impact": [],
+  "parteneri": "Rotaract Cluj-Napoca Opera\nAsociația Misionarii lui Padre Pio",
+  "hero": "end-polio-2025",
+  "body": [
+   "Pe lângă proiectele mari, anul rotarian 2025–2026 a avut și momente mai mici, la care ținem la fel de mult."
+  ],
+  "editii": [
+   {
+    "an": "2025-10-24",
+    "titlu": "End Polio Now pe fațada Operei",
+    "detalii": "24 octombrie 2025 · Ziua Mondială a Luptei împotriva Poliomielitei",
+    "poze": [
+     "end-polio-2025"
+    ],
+    "text": "<p>Eradicarea poliomielitei este una dintre cauzele de căpătâi ale Rotary International. De Ziua Mondială a Luptei împotriva Poliomielitei, cluburile Rotary din toată lumea luminează clădiri emblematice — iar la Cluj, mesajul „End Polio Now” a fost proiectat pe fațada Operei Naționale Române. Pentru un club care poartă numele Operei, a fost un moment cu o încărcătură aparte.</p>"
+   },
+   {
+    "an": "2025-12-17",
+    "titlu": "Daruri de Crăciun",
+    "detalii": "decembrie 2025 · Nefrologie Pediatrică · alături de Rotaract Opera",
+    "poze": [
+     "craciun-2025-targ"
+    ],
+    "text": "<p>Prin acțiunea „Letters to Santa” ne-am gândit la copiii internați pe Secția de Nefrologie Pediatrică: colegele noastre au cumpărat haine pentru 11 copii, care le-au primit în Ajunul Crăciunului.</p><p>Tot în decembrie am fost alături de clubul Rotaract Cluj-Napoca Opera: împreună am dus cadouri pentru 32 de copii sprijiniți de Asociația Misionarii lui Padre Pio și am participat la „O Cană de Fericire”, la Târgul de Crăciun din Cluj.</p>"
+   },
+   {
+    "an": "2026-04-18",
+    "titlu": "Diplome de excelență la Olimpiada de Limba Română",
+    "detalii": "18 aprilie 2026 · Auditorium Maximum, Cluj-Napoca",
+    "poze": [
+     "olimpiada-2026-1",
+     "olimpiada-2026-2"
+    ],
+    "text": "<p>La inițiativa colegei noastre Oana Ometa, clubul s-a alăturat festivității de premiere a Olimpiadei Naționale de Limba și Literatura Română, găzduită în 2026 de Cluj-Napoca. Elevii premiați au primit din partea Rotary Club Cluj-Napoca Opera diplome de excelență și cărți. Diplomele au fost concepute de Anca Pintilie, iar Cătălin Niță le-a înmânat pe scenă, în numele clubului.</p>"
+   }
+  ]
+ }
 ]
