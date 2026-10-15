@@ -218,7 +218,6 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 
 ### ⏸️ De reluat
 - **Instagram pe homepage** — plugin Smash Balloon (`instagram-feed`) instalat, dar NU e conectat niciun cont (tabelele `sbi_sources`/`sbi_feeds` goale, 12 Oct 2026). De făcut: cont Instagram al clubului → Business/Creator → WP Admin → Instagram Feed → Add Source → finalizează conectarea + creează un feed; apoi Claude adaugă secțiunea „Pe Instagram” (6 postări) deasupra partenerilor. (Adrian a încercat cu pagina lui personală — se poate testa și cu ea.)
-- **Paul Harris Fellow** — lista membrilor PHF de la ședință → activat insigna pe /echipa/
 - **Stripe** — Adrian deschide contul cu Cristian Zaharia → restricted API key → butoane donație + pagina Donează nouă
 - **WebP / optimizare imagini** (LiteSpeed + QUIC.cloud) — opțional
 - ✅ Pagina **/devino-membru/** (12 Oct 2026; pași din minute: ședință → aspirant cu mentor → ~6 luni, max 9 → raport mentor → vot). Cotizația NU e pe site (suma nu apare în documente)

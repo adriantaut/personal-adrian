@@ -86,7 +86,7 @@ add_shortcode('rop_echipa', function ($a) {
 			. ($rol && $a['tip'] === 'comitet' ? '<span class="rop-member__role">' . esc_html($rol) . '</span>' : '')
 			. ($prof ? '<span class="rop-member__prof">' . esc_html($prof) . '</span>' : '')
 			. (($din = get_field('membru_din', $m->ID)) && $a['tip'] !== 'onoare' ? '<span class="rop-member__prof">membru din ' . esc_html($din) . '</span>' : '')
-			. (get_field('phf', $m->ID) ? '<span class="rop-badge">Paul Harris Fellow</span>' : '') . '</div>';
+			. '</div>';
 	}
 	return $h . '</div>';
 });

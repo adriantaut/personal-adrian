@@ -6,7 +6,7 @@
 - [ ] Pagină LinkedIn? Cine e al doilea admin?
 - [x] Stripe — ✅ aprobat; Adrian deschide contul cu Cristian Zaharia (reprezentant legal)
 - [ ] Cine primește cont de editor pe site?
-- [ ] Membrii de onoare: îi afișăm sau nu?
+- [x] Membrii de onoare: **rămân** pe /echipa/ (15 Oct 2026)
 - [ ] Photo shooting — când, cine organizează?
 
 ### De cerut colegilor
@@ -16,9 +16,11 @@
 - [ ] Pagina Donează: ce echivalențe concrete punem? (ex. 50 lei = …, 100 lei = …, 250 lei = …) și ce proiect e „activ” pentru donații acum?
 
 ## Următoarea ședință
-- [ ] **Paul Harris Fellow:** cine din club are PHF? (raportul 2025-26 pomenește 4 distincții în iunie 2026 — Paul Pop, Darius Popîrțac, Cristian Zaharia, Cristian Avram? + 1 PHF la conferința din 2025) → Claude activează insigna pe /echipa/
+- [x] ~~Paul Harris Fellow~~ — renunțăm (15 Oct 2026); insigna PHF scoasă de pe site
 
 ## Ședință 14-15 Oct 2026 — decizii site
 - [x] Redesign: se merge pe **Mockup A — Elegant** (rotaryoperacluj.ro/mockup/a/) → propus colegelor de la PR, apoi Adrian/Claude reface site-ul
 - [x] Mockup A: se schimbă poza din hero (posibil slider cu mai multe poze)
 - [x] Donează: fără echivalențe pe sume (decis anterior)
+- [x] Logo cu valul (varianta din PDF) → și pe site-ul live (15 Oct 2026)
+- [ ] Ovidiu Pop trimite logo-urile proiectelor (EDUCATIO, ToyJoy etc.) → de pus pe paginile proiectelor
