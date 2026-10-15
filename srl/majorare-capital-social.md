@@ -2,7 +2,32 @@
 
 **Notificare CEDEXPERT:** 1 Sep 2026
 **Verificat legislativ:** 14 Oct 2026
-**Status:** 🟡 De făcut până 31 Dec 2026 (pentru reducerea de 50% la MO) — depunere online, am semnătură calificată
+**Status:** ⏳ **WIP — dosar în lucru pe myportal.onrc.ro** (15 Oct 2026)
+
+## 📌 JURNAL DOSAR
+
+| Data | Ce s-a făcut |
+|---|---|
+| 14 Oct 2026 | Documente generate (Decizie + Act constitutiv actualizat) în `Acte Firme/Depuse` |
+| 14 Oct 2026 | ✅ Virat **4.800 lei** aport capital social |
+| 14 Oct 2026 | ✅ Instalat SafeNet Authentication Client (token USB nu era recunoscut de Acrobat — lipsea middleware-ul PKCS#11) |
+| 14 Oct 2026 | ✅ Alocare coduri CAEN pe sedii — portalul a cerut alocarea tuturor celor ~499 coduri; badge-urile Rev.2 s-au curățat |
+| 14 Oct 2026 | ✅ Încărcate 3 documente + bifat „act modificator" pe Decizie |
+| 15 Oct 2026 | ✅ Generată și depusă **Declarația 858** (model 3, condiții de funcționare) |
+
+### 🔁 DE FĂCUT — revino periodic pe portal
+- [ ] Verifică **statusul dosarului** pe `myportal.onrc.ro`
+- [ ] Răspunde la eventuale **cereri de completare** (ONRC le trimite prin portal)
+- [ ] La admitere: plătește **nota de calcul Monitorul Oficial**
+- [ ] Descarcă certificatul de înscriere mențiuni + actul constitutiv înregistrat
+- [ ] Trimite un exemplar la **CEDEXPERT** (`resurse.umane@cedexpert.ro`)
+
+### ⚠️ Puncte de risc cunoscute
+1. **Act constitutiv cu coduri Rev.2** — Art. 2.1 listează activitatea principală ca `6202` (Rev.2), dar registrul zice `6220` (Rev.3, actualizat prin mențiunea 1217356/19.03.2026). Posibilă cerere de completare.
+2. **Publicare MO** — Decizia se publică integral (~1.285 caractere); actul constitutiv doar prin **notificare de depunere** (art. 204 alin. 4 L. 31/1990), NU integral.
+
+### 💡 De făcut ulterior, dosar SEPARAT
+**Reducerea obiectului de activitate** de la ~499 coduri CAEN la 5-10 reale. Fiecare dosar viitor va lovi în aceeași problemă de alocare pe sedii.
 
 ## ⚠️ CORECȚIE TERMEN (14 Oct 2026)
 
