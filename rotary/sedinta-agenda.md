@@ -17,3 +17,8 @@
 
 ## Următoarea ședință
 - [ ] **Paul Harris Fellow:** cine din club are PHF? (raportul 2025-26 pomenește 4 distincții în iunie 2026 — Paul Pop, Darius Popîrțac, Cristian Zaharia, Cristian Avram? + 1 PHF la conferința din 2025) → Claude activează insigna pe /echipa/
+
+## Ședință 14-15 Oct 2026 — decizii site
+- [x] Redesign: se merge pe **Mockup A — Elegant** (rotaryoperacluj.ro/mockup/a/) → propus colegelor de la PR, apoi Adrian/Claude reface site-ul
+- [x] Mockup A: se schimbă poza din hero (posibil slider cu mai multe poze)
+- [x] Donează: fără echivalențe pe sume (decis anterior)
