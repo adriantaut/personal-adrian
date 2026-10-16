@@ -3,14 +3,18 @@
 **Status:** 16 Oct 2026 — design agreat de Adrian; ⏳ așteaptă acordul echipei (PR, secretar) înainte de implementare.
 **Sheet:** https://docs.google.com/spreadsheets/d/1GysGbRVsqWc6I2yAXWxs9D9nA4LLkgtpFGMgQ2QnCX4 (taburi azi: `Email`, `Zile nastere alfabetic` — 58 rânduri, zi ca text „23 mai ”, an —, `Zile nastere/luni` — manual)
 
+## Decizii Adrian (16 Oct 2026)
+- Cele 3 taburi existente (`Email`, `Zile nastere alfabetic`, `Zile nastere/luni`) **rămân neatinse**; se adaugă taburi noi alături; Adrian le scoate pe cele vechi ulterior
+- Scriptul rulează și trimite emailul la **09:00**
+
 ## Structură propusă
-1. **`Membri`** (singurul editat manual): Nume și prenume · Zi (dropdown 1–31) · Lună (dropdown) · An (opțional) · Email · Email 2 · Activ (☑). Absoarbe tabul `Email`.
+1. **`Membri`** (singurul editat manual, tab NOU): Nume și prenume · Zi (dropdown 1–31) · Lună (dropdown) · An (opțional) · Email · Email 2 · Activ (☑). Populat inițial din `Email` + `Zile nastere alfabetic`.
 2. **`Calendar aniversări`** (calculat, read-only): o formulă SORT/FILTER pe lună+zi, numele lunii pe primul rând al grupului, coloană „Peste X zile”, evidențiere următoarele 7 zile, opțional „Următoarele 30 de zile”.
 3. **`Setări`** (citit de script): Distribution List (1–3+ emailuri, câte unul pe rând) · Notifică: azi / cu o zi înainte / ambele · Rezumat săptămânal luni: Da/Nu · Notificări active: Da/Nu · Subiect („🎂 Azi e ziua lui {nume}”).
 4. **`Jurnal`** (scris de script): data, despre cine, destinatari — anti-dublură + dovadă.
 
 ## Script (Google Apps Script, gratis, limită 100 emailuri/zi)
-- Trigger zilnic ~08:00 → citește Setări + Membri (doar activi) → 1 email către Distribution List (mai mulți în aceeași zi = un singur email) → scrie în Jurnal.
+- Trigger zilnic 09:00 (Europe/Bucharest) → citește Setări + Membri (doar activi) → 1 email către Distribution List (mai mulți în aceeași zi = un singur email) → scrie în Jurnal.
 - Opțional luni: „Aniversările săptămânii”. 29 feb → 28 feb în anii nebisecți.
 
 ## De decis cu echipa
