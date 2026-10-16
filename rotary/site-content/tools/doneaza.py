@@ -6,8 +6,8 @@ M='contact@rotaryoperacluj.ro'
 once=''.join(f'<a class="rop-amt" href="{L[f"o_data_{a}"]}">{a} lei</a>' for a in (50,100,250,500))+f'<a class="rop-amt rop-amt--other" href="{L["o_data_alta_suma"]}">Altă sumă</a>'
 monthly=''.join(f'<a class="rop-amt" href="{L[f"lunar_{a}"]}">{a} lei<small>/lună</small></a>' for a in (30,50,100,250))
 widget=f'''<div class="rop-donate-box">
-<input type="radio" name="rop-freq" id="rop-once" checked><input type="radio" name="rop-freq" id="rop-monthly">
-<div class="rop-freq"><label for="rop-once">O singură dată</label><label for="rop-monthly">Lunar</label></div>
+<input type="radio" name="rop-freq" id="rop-monthly" checked><input type="radio" name="rop-freq" id="rop-once">
+<div class="rop-freq"><label for="rop-monthly">Lunar</label><label for="rop-once">O singură dată</label></div>
 <div class="rop-amts rop-amts--once">{once}</div>
 <div class="rop-amts rop-amts--monthly">{monthly}</div>
 <p class="rop-donate-note">Plătești securizat prin Stripe, cu cardul, Apple Pay sau Google Pay. Primești chitanța pe e-mail. Donația lunară o poți anula oricând.</p>

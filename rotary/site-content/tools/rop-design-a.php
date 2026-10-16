@@ -128,8 +128,8 @@ function rop_a_donate_box(): string {
 	$once = ''; foreach (ROP_A_STRIPE['once'] as $a => $u) $once .= '<a href="' . esc_url($u) . '">' . $a . ' lei</a>';
 	$once .= '<a class="a-amt--txt" href="' . esc_url(ROP_A_STRIPE['other']) . '">Altă sumă</a>';
 	$mon = ''; foreach (ROP_A_STRIPE['monthly'] as $a => $u) $mon .= '<a href="' . esc_url($u) . '">' . $a . ' lei<small>/lună</small></a>';
-	return '<div class="a-donate"><input type="radio" name="a-freq" id="a-once" checked><input type="radio" name="a-freq" id="a-mon">'
-		. '<div class="a-seg"><label for="a-once">O singură dată</label><label for="a-mon">Lunar</label></div>'
+	return '<div class="a-donate"><input type="radio" name="a-freq" id="a-mon" checked><input type="radio" name="a-freq" id="a-once">'
+		. '<div class="a-seg"><label for="a-mon">Lunar</label><label for="a-once">O singură dată</label></div>'
 		. '<div class="a-amts a-amts--once">' . $once . '</div><div class="a-amts a-amts--mon">' . $mon . '</div>'
 		. '<small>Card, Apple Pay, Google Pay · securizat prin Stripe</small></div>';
 }
@@ -227,6 +227,67 @@ body.rop-a{--a-night:#0A1A36;--a-deep:#10264D;--a-gold:#F7A81B;--a-gold2:#E8C36A
 .rop-a .rop-donate-mobile{display:none!important}
 /* front page canvas */
 .rop-a.home .wp-site-blocks{background:var(--a-night)}.rop-a.home .wp-block-post-content{margin:0}
+
+/* ===== inner pages (existing blocks restyled) ===== */
+body.rop-a{--wp--preset--color--base:#FBF8F2;--wp--preset--color--contrast:#16213A;--wp--preset--color--accent-1:#17458F;--wp--preset--color--accent-2:#F7A81B;
+ --wp--preset--color--accent-4:#0A1A36;--wp--preset--color--accent-5:#F4EFE6;--wp--preset--color--accent-6:#E6DCC6;background:#FBF8F2;color:#16213A}
+.rop-a:not(.home) .wp-site-blocks{background:#FBF8F2}
+.rop-a .wp-site-blocks>header.wp-block-template-part{position:sticky;top:0;z-index:50}
+.rop-a h1,.rop-a h2,.rop-a h3,.rop-a h4,.rop-a .wp-block-heading{font-family:'Playfair Display',Georgia,serif;font-weight:500;letter-spacing:-.01em}
+.rop-a .rop-eyebrow{font-family:Karla,sans-serif;letter-spacing:.3em;font-size:.72rem;color:#B07A12}
+.rop-a .rop-pagehero .rop-eyebrow,.rop-a .rop-section--navy .rop-eyebrow,.rop-a .rop-hero .rop-eyebrow{color:var(--a-gold)}
+.rop-a .rop-hairline{border-top-color:var(--a-gold)!important;width:56px!important}
+/* page header band */
+.rop-a .rop-pagehero{background:radial-gradient(ellipse at 80% 0%,#17458F55,transparent 60%),var(--a-night);padding:clamp(4rem,9vw,7rem) var(--wp--preset--spacing--50) clamp(3rem,6vw,4.5rem);position:relative;overflow:hidden}
+.rop-a .rop-pagehero:after{content:"";position:absolute;right:-60px;bottom:-60px;width:320px;height:320px;border-radius:50%;border:1px dashed #F7A81B33}
+.rop-a .rop-pagehero h1{font-size:clamp(2.4rem,5.4vw,4.4rem);line-height:1.05;color:#fff}
+.rop-a .rop-pagehero .rop-lead{color:#C9D3E6;font-size:1.15rem}
+/* sections */
+.rop-a .rop-section{background:#FBF8F2}
+.rop-a .rop-section--cream{background:var(--a-ivory)}
+.rop-a .rop-section--navy{background:var(--a-night);color:var(--a-ink)}
+.rop-a .rop-section--navy p{color:var(--a-mute)}
+.rop-a .rop-section h2{font-size:clamp(1.9rem,3.4vw,2.8rem)}
+/* buttons */
+.rop-a .wp-element-button,.rop-a .wp-block-button__link{border-radius:999px;font-family:Karla,sans-serif;font-weight:700;background:var(--a-gold);color:var(--a-night)}
+.rop-a .wp-element-button:hover,.rop-a .wp-block-button__link:hover{background:var(--a-night);color:#fff}
+.rop-a .is-style-outline .wp-block-button__link{background:transparent;border:1.5px solid currentColor;color:var(--a-night)}
+.rop-a .rop-section--navy .is-style-outline .wp-block-button__link,.rop-a .rop-hero .is-style-outline .wp-block-button__link{color:#fff}
+/* cards & tiles */
+.rop-a .rop-tile{background:#fff;border:1px solid var(--wp--preset--color--accent-6);border-top:3px solid var(--a-gold);border-radius:6px}
+.rop-a .rop-section--navy .rop-tile{background:#ffffff0a;border-color:#ffffff1f;border-top-color:var(--a-gold)}
+.rop-a .rop-impact__item{background:#fff;border:1px solid var(--wp--preset--color--accent-6);border-top:3px solid var(--a-gold)}
+.rop-a .rop-impact__item strong{font-family:'Playfair Display',Georgia,serif;font-weight:500;color:var(--a-night)}
+/* project hero (single) */
+.rop-a .rop-hero .wp-block-cover__background{background:linear-gradient(180deg,rgba(10,26,54,.55),rgba(10,26,54,.92))!important;opacity:1!important}
+.rop-a .rop-hero-title{font-family:'Playfair Display',Georgia,serif!important;font-weight:500!important}
+/* archive / query cards */
+.rop-a .wp-block-post-template .wp-block-post{background:#fff;border:1px solid var(--wp--preset--color--accent-6);border-radius:8px;overflow:hidden;padding-bottom:1.2rem;transition:transform .25s,box-shadow .25s}
+.rop-a .wp-block-post-template .wp-block-post:hover{transform:translateY(-3px);box-shadow:0 18px 40px -22px rgba(10,26,54,.45)}
+.rop-a .wp-block-post-template .wp-block-post>*:not(.wp-block-post-featured-image){padding-inline:1.2rem}
+.rop-a .wp-block-post-featured-image{border-radius:0;margin:0}
+.rop-a .rop-card-title a{color:var(--a-night)}
+.rop-a .wp-block-post-terms.rop-eyebrow{margin-top:1rem}
+/* editions */
+.rop-a .rop-edition header{border-top-color:var(--a-gold)}
+.rop-a .rop-edition__year{font-family:'Playfair Display',Georgia,serif;font-style:italic;color:#B07A12}
+/* team */
+.rop-a .rop-member strong{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:1.05rem}
+.rop-a .rop-monogram{background:var(--a-blue);color:var(--a-gold);font-family:'Playfair Display',Georgia,serif}
+.rop-a .rop-timeline b{font-family:'Playfair Display',Georgia,serif;font-weight:500;color:var(--a-blue)}
+.rop-a .wp-block-details summary{font-family:'Playfair Display',Georgia,serif;color:var(--a-blue)}
+/* donate page */
+.rop-a .rop-donate-box{border-top-color:var(--a-gold)}
+.rop-a #rop-once:checked~.rop-freq label[for=rop-once],.rop-a #rop-monthly:checked~.rop-freq label[for=rop-monthly]{background:var(--a-night);color:#fff}
+.rop-a .rop-amt{font-family:'Playfair Display',Georgia,serif;border-color:#E3C78A}
+.rop-a .rop-amt:hover{background:var(--a-night);color:#fff;border-color:var(--a-night)}
+.rop-a .rop-iban{background:var(--a-ivory)}
+.rop-a .rop-options div{background:var(--a-ivory)}
+.rop-a .rop-steps li:before{background:var(--a-night);font-family:'Playfair Display',Georgia,serif}
+.rop-a .rop-cta{background:var(--a-night);border-radius:8px}
+.rop-a .rop-partners-grid a{border-radius:10px}
+.rop-a .rop-partners li{background:#fff}
+
 @media (prefers-reduced-motion:reduce){.rop-a .a-hero__img{animation:none}.rop-a .a-hero__img:not(:first-child){display:none}}
 @media (max-width:860px){
  .rop-a .a-wrap{padding:0 18px}.rop-a .a-logo img{height:72px}

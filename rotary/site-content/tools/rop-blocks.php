@@ -46,7 +46,7 @@ add_shortcode('rop_editii', function () {
 	foreach ($rows as $r) {
 		$an = (string) $r['an']; // "2025" or an ISO date "2025-11-26" (shown as "nov. 2025")
 		$label = preg_match('/^\d{4}-\d{2}(-\d{2})?$/', $an) ? date_i18n('M Y', strtotime(strlen($an) === 7 ? $an . '-01' : $an)) : $an;
-		$h .= '<section class="rop-edition"><header><span class="rop-edition__year' . ($label !== $an ? ' rop-edition__year--date' : '') . '">' . esc_html($label) . '</span><div><h2 class="wp-block-heading">' . esc_html($r['titlu'] ?: 'Ediția ' . $r['an']) . '</h2>'
+		$h .= '<section class="rop-edition"><header><meta charset="utf-8"><span class="rop-edition__year' . ($label !== $an ? ' rop-edition__year--date' : '') . '">' . esc_html($label) . '</span><div><h2 class="wp-block-heading">' . esc_html($r['titlu'] ?: 'Ediția ' . $r['an']) . '</h2>'
 			. ($r['detalii'] ? '<p class="rop-edition__meta">' . esc_html($r['detalii']) . '</p>' : '') . '</div></header>'
 			. '<div class="rop-edition__text">' . wp_kses_post(wpautop($r['text'])) . '</div>';
 		$r['galerie'] = array_filter((array) $r['galerie']);
@@ -252,6 +252,7 @@ body.page-id-286 .wp-block-post-content > .rop-section{padding-block:clamp(1.75r
 body.page-id-286 .wp-block-post-content > .rop-section:first-of-type{padding-top:clamp(2.5rem,5vw,3.5rem)}
 body.page-id-286 .wp-block-post-content > .rop-section--cream{background:transparent}
 body.page-id-286 .wp-block-post-content > .rop-section + .rop-section{border-top:1px solid var(--wp--preset--color--accent-6)}
+@media (max-width:781px){.rop-edition header{flex-direction:column;gap:.35rem}.rop-edition__year--date{min-width:0!important}.rop-edition header>div{min-width:0}}
 .rop-timeline{list-style:none;padding:0;border-left:2px solid var(--wp--preset--color--accent-6);margin-left:.4rem}
 .rop-timeline li{position:relative;padding:0 0 1.4rem 1.6rem}
 .rop-timeline li:before{content:"";position:absolute;left:-7px;top:.45em;width:12px;height:12px;border-radius:50%;background:var(--wp--preset--color--accent-2)}
