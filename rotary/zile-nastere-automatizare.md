@@ -1,6 +1,6 @@
-# Zile de naștere membri — notificări automate (DESIGN, neimplementat)
+# Zile de naștere membri — notificări automate
 
-**Status:** 16 Oct 2026 — design agreat de Adrian; ⏳ așteaptă acordul echipei (PR, secretar) înainte de implementare.
+**Status:** 16 Oct 2026 — taburi noi create în sheet (Membri, Calendar aniversări, Setări, Jurnal); script în `rotary/zile-nastere/Cod.gs` ⏳ de lipit în Apps Script de pe contul contact@rotaryoperacluj.ro (proprietarul sheet-ului). Destinatar inițial: adriantaut@gmail.com.
 **Sheet:** https://docs.google.com/spreadsheets/d/1GysGbRVsqWc6I2yAXWxs9D9nA4LLkgtpFGMgQ2QnCX4 (taburi azi: `Email`, `Zile nastere alfabetic` — 58 rânduri, zi ca text „23 mai ”, an —, `Zile nastere/luni` — manual)
 
 ## Decizii Adrian (16 Oct 2026)
@@ -23,3 +23,9 @@
 3. Destinatari: doar PR sau și board-ul?
 4. Proprietar sheet + script: **rotaryoperacluj@gmail.com**
 5. GDPR: sheet partajat doar cu cine are nevoie (PR, secretar)
+
+## Implementat (16 Oct 2026)
+- `Membri`: 53 persoane (35 Activ, 1 Invitat — Balica Roxana, 17 Fost), dropdown Zi/Lună/Status, checkbox Notifică (Fost = nebifat)
+- `Calendar aniversări`: o formulă ARRAYFORMULA(LET…) — exclude Fost; galben = azi, ivory = următoarele 7 zile; protejat (avertizare)
+- `Setări`: Notificări active Da · În ziua respectivă · Rezumat luni Nu · Destinatar 1 = adriantaut@gmail.com
+- De verificat: Horvat Daniel are ca Email 2 laviniateodoraflorian@gmail.com (pare greșit); Nicula Anca — fără dată/email
