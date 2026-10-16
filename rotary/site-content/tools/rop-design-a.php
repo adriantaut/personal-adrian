@@ -6,7 +6,7 @@
 defined('ABSPATH') || exit;
 
 const ROP_A_LOGO_WHITE = 301;
-const ROP_A_HERO = [246, 271, 255, 48];   // hero slider photos (attachment IDs)
+const ROP_A_HERO = [246, 271, 243, 48];   // hero slider photos (attachment IDs)
 const ROP_A_FEATURED = ['educatio' => 'Educație', 'toyjoy' => 'Social', 'construim-bucurie' => 'Comunitate', 'ambulanta-sfantul-nectarie' => 'Sănătate · proiect-fanion'];
 const ROP_A_STRIPE = [
 	'once'    => [50 => 'https://donate.stripe.com/00w9AV3PY4Eacxl9m8gjC01', 100 => 'https://donate.stripe.com/7sY6oJ5Y61rY2WL69WgjC02', 250 => 'https://donate.stripe.com/3cI00lbiqeeK40PbuggjC03', 500 => 'https://donate.stripe.com/dRm4gB4U2daG7d1gOAgjC04'],

@@ -233,8 +233,10 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - ⚠️ Cheia `sk_live` full-access a fost lipită în chat → de dat ROLL în Stripe
 - **TODO Stripe — raport automat pentru trezorier:** pe 1 ale lunii, export automat al donațiilor din luna trecută (dată, sumă, comision Stripe, net, proiect ales, o dată/lunar, firmă+CUI dacă există) → CSV pe e-mail la trezorier (Sebastian Andro) + rotaryoperacluj@gmail.com. Implementare: cron WordPress în mu-plugin + cheie Stripe *restricted* doar-citire (Charges/Checkout Sessions/Balance transactions). Alternativ: Stripe Dashboard → Reports → Scheduled (dacă e disponibil pe cont)
 
-### 🎨 Redesign „A — Elegant” (16 Oct 2026) — PREVIEW
+### 🎨 Redesign „A dark” — LIVE din 16 Oct 2026 (era preview)
 - Mu-plugin `wp-content/mu-plugins/rop-design-a.php` (copie: `rotary/site-content/tools/rop-design-a.php`): activ doar cu cookie `rop_design=a` (link `/?design=a`, ieșire `/?design=off`); LiteSpeed nu cache-uiește cu acest cookie
 - Înlocuiește header/footer (logo cu val alb, meniu full-screen pe mobil), homepage nou (slider 4 poze, card „În desfășurare” = proiectul cu status activ, cifre, 4 proiecte, comitet, donații Stripe cu **Lunar implicit**, parteneri) + restilizează toate paginile interioare
 - **Lansare:** în `wp-config.php` → `define('ROP_DESIGN_A_LIVE', true);` (rollback: șterge linia)
 - Donează: Lunar implicit și pe /doneaza/
+- **16 Oct 2026: LANSAT „A dark”** pe tot site-ul: `wp-config.php` are `ROP_DESIGN_A_LIVE` + `ROP_DESIGN_A_DARK` = true (backup: `/home/rotaryop/wp-config.backup-2026-10-16.php`). Rollback: șterge cele 2 linii + purge LiteSpeed
+- Slider hero: poze 246, 271, 243, 48 (de înlocuit cu pozele de la PR)
