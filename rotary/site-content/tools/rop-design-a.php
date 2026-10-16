@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Rotary Opera — design A (preview)
- * Description: Noul design „Elegant”. Activ doar cu ?design=a (cookie); ?design=off revine. La lansare: ROP_DESIGN_A_LIVE = true.
+ * Description: Designul „A dark” (live din 16 Oct 2026). Pornit din wp-config: ROP_DESIGN_A_LIVE + ROP_DESIGN_A_DARK.
  */
 defined('ABSPATH') || exit;
 
@@ -14,24 +14,9 @@ const ROP_A_STRIPE = [
 	'monthly' => [30 => 'https://buy.stripe.com/4gM14p2LUdaG7d1dCogjC09', 50 => 'https://buy.stripe.com/9B65kF0DM9Yu9l98i4gjC05', 100 => 'https://buy.stripe.com/9B65kFaem9YucxlcykgjC06', 250 => 'https://buy.stripe.com/28E3cx5Y67Qm7d1buggjC07'],
 ];
 
-function rop_a_on(): bool {
-	if (defined('ROP_DESIGN_A_LIVE') && ROP_DESIGN_A_LIVE) return true;
-	return in_array($_COOKIE['rop_design'] ?? '', ['a', 'a-dark'], true);
-}
-function rop_a_dark(): bool { return ($_COOKIE['rop_design'] ?? '') === 'a-dark' || (defined('ROP_DESIGN_A_DARK') && ROP_DESIGN_A_DARK); }
+function rop_a_on(): bool { return defined('ROP_DESIGN_A_LIVE') && ROP_DESIGN_A_LIVE; }
+function rop_a_dark(): bool { return defined('ROP_DESIGN_A_DARK') && ROP_DESIGN_A_DARK; }
 
-// ?design=a sets the preview cookie, ?design=off clears it
-add_action('init', function () {
-	if (!isset($_GET['design'])) return;
-	$v = in_array($_GET['design'], ['a', 'a-dark'], true) ? $_GET['design'] : '';
-	setcookie('rop_design', $v, $v ? time() + 30 * DAY_IN_SECONDS : time() - 3600, '/', '', true, true);
-	$_COOKIE['rop_design'] = $v;
-	wp_safe_redirect(remove_query_arg('design')); exit;
-}, 1);
-
-add_action('template_redirect', function () {
-	if (rop_a_on() && !(defined('ROP_DESIGN_A_LIVE') && ROP_DESIGN_A_LIVE)) do_action('litespeed_control_set_nocache', 'design preview');
-});
 
 add_filter('body_class', function ($c) {
 	if (!rop_a_on()) return $c;
@@ -47,6 +32,12 @@ add_action('wp_enqueue_scripts', function () {
 });
 
 /* ---------- header & footer ---------- */
+function rop_a_icons(): string {
+	$fb = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.5 21v-7.5h2.5l.4-3h-2.9V8.6c0-.9.3-1.5 1.5-1.5h1.6V4.4c-.3 0-1.2-.1-2.3-.1-2.3 0-3.8 1.4-3.8 3.9v2.3H8v3h2.5V21h3z"/></svg>';
+	$ig = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 7.3A4.7 4.7 0 1 0 12 16.7 4.7 4.7 0 0 0 12 7.3zm0 7.7a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm6-7.9a1.1 1.1 0 1 1-2.2 0 1.1 1.1 0 0 1 2.2 0zM21 8.1c-.1-1.5-.4-2.8-1.5-3.9S17.1 2.8 15.6 2.7c-1.5-.1-6-.1-7.5 0-1.5.1-2.8.4-3.9 1.5S2.8 6.6 2.7 8.1c-.1 1.5-.1 6 0 7.5.1 1.5.4 2.8 1.5 3.9s2.4 1.4 3.9 1.5c1.5.1 6 .1 7.5 0 1.5-.1 2.8-.4 3.9-1.5s1.4-2.4 1.5-3.9c.1-1.5.1-6 0-7.5zm-2 9.1a3 3 0 0 1-1.7 1.7c-1.2.5-4 .4-5.3.4s-4.1.1-5.3-.4a3 3 0 0 1-1.7-1.7c-.5-1.2-.4-4-.4-5.3s-.1-4.1.4-5.3a3 3 0 0 1 1.7-1.7c1.2-.5 4-.4 5.3-.4s4.1-.1 5.3.4a3 3 0 0 1 1.7 1.7c.5 1.2.4 4 .4 5.3s.1 4.1-.4 5.3z"/></svg>';
+	return '<span class="a-icons"><a class="a-ico" href="https://www.facebook.com/share/1JSok3zohs/" target="_blank" rel="noopener" aria-label="Facebook">' . $fb . '</a><a class="a-ico" href="https://www.instagram.com/rotaryclujnapocaopera" target="_blank" rel="noopener" aria-label="Instagram">' . $ig . '</a></span>';
+}
+
 function rop_a_header(): string {
 	$logo = wp_get_attachment_image_url(ROP_A_LOGO_WHITE, 'medium');
 	$cur = trailingslashit(wp_parse_url($_SERVER['REQUEST_URI'] ?? '/', PHP_URL_PATH));
@@ -56,18 +47,17 @@ function rop_a_header(): string {
 	return '<header class="a-nav' . (is_front_page() ? ' a-nav--over' : '') . '"><div class="a-wrap">'
 		. '<a class="a-logo" href="' . esc_url(home_url('/')) . '"><img src="' . esc_url($logo) . '" alt="Rotary Club Cluj-Napoca Opera"></a>'
 		. '<input type="checkbox" id="a-menu" class="a-menu-toggle"><label for="a-menu" class="a-burger" aria-label="Meniu"><span></span></label>'
-		. '<nav class="a-menu">' . $nav . '<a class="a-btn a-btn--gold" href="' . esc_url(home_url('/doneaza/')) . '">Donează</a></nav>'
+		. '<nav class="a-menu">' . $nav . rop_a_icons() . '<a class="a-btn a-btn--gold" href="' . esc_url(home_url('/doneaza/')) . '">Donează</a></nav>'
 		. '</div></header>';
 }
 
 function rop_a_footer(): string {
 	$logo = wp_get_attachment_image_url(ROP_A_LOGO_WHITE, 'medium');
-	$fb = 'https://www.facebook.com/share/1JSok3zohs/'; $ig = 'https://www.instagram.com/rotaryclujnapocaopera';
 	return '<footer class="a-footer"><div class="a-wrap a-footer__grid">'
 		. '<div><img class="a-footer__logo" src="' . esc_url($logo) . '" alt="Rotary Club Cluj-Napoca Opera"><p>Service Above Self. Un club Rotary din Districtul 2241 România și Republica Moldova.</p></div>'
 		. '<div><span class="a-eyebrow">Explorează</span><ul><li><a href="/proiecte/">Proiecte</a></li><li><a href="/echipa/">Echipa</a></li><li><a href="/despre/">Despre noi</a></li><li><a href="/doneaza/">Donează</a></li><li><a href="/devino-membru/">Devino membru</a></li><li><a href="/contact/">Contact</a></li></ul></div>'
 		. '<div><span class="a-eyebrow">Contact</span><p><a href="mailto:contact@rotaryoperacluj.ro">contact@rotaryoperacluj.ro</a><br>Ședințe: miercuri, 18:30<br>Hotel Victoria, Cluj-Napoca</p>'
-		. '<p class="a-social"><a href="' . $fb . '" target="_blank" rel="noopener">Facebook</a><a href="' . $ig . '" target="_blank" rel="noopener">Instagram</a></p></div>'
+		. '<p class="a-social">' . rop_a_icons() . '</p></div>'
 		. '</div><div class="a-wrap a-footer__legal">© ' . date('Y') . ' Asociația Rotary Club Cluj-Napoca Opera · CUI 39347197 · <a href="/politica-de-confidentialitate/">Confidențialitate</a> · <a href="/termeni-donatii/">Termeni donații</a></div></footer>';
 }
 
@@ -167,6 +157,9 @@ body.rop-a{--a-night:#0A1A36;--a-deep:#10264D;--a-gold:#F7A81B;--a-gold2:#E8C36A
 .rop-a .a-menu{display:flex;gap:30px;align-items:center}.rop-a .a-menu a{color:#fff;text-decoration:none;font-weight:600;font-size:.95rem}
 .rop-a .a-menu a:not(.a-btn):hover,.rop-a .a-menu a[aria-current]{color:var(--a-gold)}
 .rop-a .a-menu-toggle,.rop-a .a-burger{display:none}
+.rop-a .a-icons{display:inline-flex;gap:8px}
+.rop-a .a-ico{width:36px;height:36px;border:1.5px solid var(--a-gold);border-radius:50%;display:inline-grid;place-items:center;color:#fff!important;transition:background .2s,color .2s}
+.rop-a .a-ico svg{width:17px;height:17px}.rop-a .a-ico:hover{background:var(--a-gold);color:var(--a-night)!important}
 /* hero */
 .rop-a .a-hero{position:relative;min-height:92vh;display:flex;align-items:flex-end;overflow:hidden;background:var(--a-night);color:#fff}
 .rop-a .a-hero__img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;animation:a-fade calc(var(--n)*6s) infinite;animation-delay:calc(var(--i)*6s)}
@@ -345,7 +338,8 @@ body.rop-a{--wp--preset--color--base:#FBF8F2;--wp--preset--color--contrast:#1621
  .rop-a .a-burger span,.rop-a .a-burger span:before,.rop-a .a-burger span:after{content:"";position:absolute;left:10px;right:10px;height:2px;background:#fff;top:50%}
  .rop-a .a-burger span:before{top:-8px;left:0;right:0}.rop-a .a-burger span:after{top:8px;left:0;right:0}
  .rop-a .a-menu{position:fixed;inset:0;background:var(--a-night);flex-direction:column;justify-content:center;gap:26px;font-size:1.5rem;transform:translateY(-100%);transition:transform .35s;z-index:2}
- .rop-a .a-menu a{font-size:1.5rem;font-family:'Playfair Display',Georgia,serif}.rop-a .a-menu .a-btn{font-family:Karla,sans-serif;font-size:1.1rem}
+ .rop-a .a-menu a:not(.a-ico):not(.a-btn){font-size:1.5rem;font-family:'Playfair Display',Georgia,serif}
+ .rop-a .a-menu .a-ico{width:46px;height:46px}.rop-a .a-menu .a-btn{font-family:Karla,sans-serif;font-size:1.1rem}
  .rop-a .a-menu-toggle:checked~.a-menu{transform:none}
  .rop-a .a-menu-toggle:checked~.a-burger{position:fixed;right:18px;top:24px}
  .rop-a .a-menu-toggle:checked~.a-burger span{background:transparent}
