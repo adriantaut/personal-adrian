@@ -25,7 +25,7 @@
 5. GDPR: sheet partajat doar cu cine are nevoie (PR, secretar)
 
 ## Implementat (16 Oct 2026)
-- `Membri`: 53 persoane (35 Activ, 1 Invitat — Balica Roxana, 17 Fost), dropdown Zi/Lună/Status; fără coloana Notifică — regula: Activ + Invitat primesc notificări, Fost nu
+- `Membri`: 53 persoane (35 Activ, 1 Invitat — Balica Roxana, 17 Pasiv), dropdown Zi/Lună/Status; fără coloana Notifică — regula: Activ + Invitat primesc notificări, Pasiv nu
 - `Calendar aniversări`: o formulă ARRAYFORMULA(LET…) — exclude Fost; galben = azi, ivory = următoarele 7 zile; protejat (avertizare)
 - `Setări`: Notificări active Da · În ziua respectivă · Rezumat luni Nu · Destinatar 1 = adriantaut@gmail.com
 - De verificat: Horvat Daniel are ca Email 2 laviniateodoraflorian@gmail.com (pare greșit); Nicula Anca — fără dată/email
