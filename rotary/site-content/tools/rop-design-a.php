@@ -16,15 +16,16 @@ const ROP_A_STRIPE = [
 
 function rop_a_on(): bool {
 	if (defined('ROP_DESIGN_A_LIVE') && ROP_DESIGN_A_LIVE) return true;
-	return ($_COOKIE['rop_design'] ?? '') === 'a';
+	return in_array($_COOKIE['rop_design'] ?? '', ['a', 'a-dark'], true);
 }
+function rop_a_dark(): bool { return ($_COOKIE['rop_design'] ?? '') === 'a-dark' || (defined('ROP_DESIGN_A_DARK') && ROP_DESIGN_A_DARK); }
 
 // ?design=a sets the preview cookie, ?design=off clears it
 add_action('init', function () {
 	if (!isset($_GET['design'])) return;
-	$on = $_GET['design'] === 'a';
-	setcookie('rop_design', $on ? 'a' : '', $on ? time() + 30 * DAY_IN_SECONDS : time() - 3600, '/', '', true, true);
-	$_COOKIE['rop_design'] = $on ? 'a' : '';
+	$v = in_array($_GET['design'], ['a', 'a-dark'], true) ? $_GET['design'] : '';
+	setcookie('rop_design', $v, $v ? time() + 30 * DAY_IN_SECONDS : time() - 3600, '/', '', true, true);
+	$_COOKIE['rop_design'] = $v;
 	wp_safe_redirect(remove_query_arg('design')); exit;
 }, 1);
 
@@ -32,7 +33,13 @@ add_action('template_redirect', function () {
 	if (rop_a_on() && !(defined('ROP_DESIGN_A_LIVE') && ROP_DESIGN_A_LIVE)) do_action('litespeed_control_set_nocache', 'design preview');
 });
 
-add_filter('body_class', fn($c) => rop_a_on() ? array_merge($c, ['rop-a']) : $c);
+add_filter('body_class', function ($c) {
+	if (!rop_a_on()) return $c;
+	$c[] = 'rop-a';
+	if (rop_a_dark()) $c[] = 'rop-a-dark';
+	if (is_page()) $c[] = 'pg-' . get_post_field('post_name', get_queried_object_id());
+	return $c;
+});
 
 add_action('wp_enqueue_scripts', function () {
 	if (!rop_a_on()) return;
@@ -287,6 +294,49 @@ body.rop-a{--wp--preset--color--base:#FBF8F2;--wp--preset--color--contrast:#1621
 .rop-a .rop-cta{background:var(--a-night);border-radius:8px}
 .rop-a .rop-partners-grid a{border-radius:10px}
 .rop-a .rop-partners li{background:#fff}
+
+/* ===== variant „a-dark”: visual pages on night blue, long reading stays ivory ===== */
+.rop-a-dark{--dk1:#0A1A36;--dk2:#10264D;--dkline:#ffffff1f}
+/* home: committee on deep blue */
+.rop-a-dark .a-ivory{background:var(--dk2);color:var(--a-ink)}.rop-a-dark .a-ivory .a-eyebrow{color:var(--a-gold)}
+.rop-a-dark .a-ivory .a-member{border-top-color:var(--dkline)}.rop-a-dark .a-ivory .a-member i{color:var(--a-gold2)}.rop-a-dark .a-ivory .a-member b{color:#fff}
+.rop-a-dark .a-btn--dark{border-color:#ffffff55;color:#fff}
+/* project list + categories */
+.rop-a-dark.post-type-archive-proiect .wp-site-blocks,.rop-a-dark.tax-categorie-proiect .wp-site-blocks,
+.rop-a-dark.post-type-archive-proiect .rop-section,.rop-a-dark.tax-categorie-proiect .rop-section{background:var(--dk1)}
+.rop-a-dark .wp-block-post-template .wp-block-post{background:var(--dk2);border-color:var(--dkline)}
+.rop-a-dark .wp-block-post-template .wp-block-post:hover{box-shadow:0 18px 40px -18px #000;border-color:#F7A81B66}
+.rop-a-dark .rop-card-title a{color:#fff}.rop-a-dark .wp-block-post-excerpt{color:var(--a-mute)}
+.rop-a-dark .wp-block-post-terms.rop-eyebrow a{color:var(--a-gold)}
+/* single project: impact, partners, "alte proiecte" dark; story stays ivory */
+.rop-a-dark.single-proiect .rop-section--cream{background:var(--dk1);color:var(--a-ink)}
+.rop-a-dark.single-proiect .rop-section--cream h2{color:#fff}.rop-a-dark.single-proiect .rop-section--cream .rop-eyebrow{color:var(--a-gold)}
+.rop-a-dark .rop-impact__item{background:var(--dk1);border-color:var(--dk1);border-top-color:var(--a-gold)}
+.rop-a-dark .rop-impact__item strong{color:var(--a-gold2)}.rop-a-dark .rop-impact__item span{color:var(--a-mute)}
+/* team page fully dark */
+.rop-a-dark.pg-echipa .wp-site-blocks,.rop-a-dark.pg-echipa .rop-section{background:var(--dk1);color:var(--a-ink)}
+.rop-a-dark.pg-echipa .rop-section--cream{background:var(--dk2)}
+.rop-a-dark.pg-echipa h2{color:#fff}.rop-a-dark.pg-echipa .rop-eyebrow{color:var(--a-gold)}.rop-a-dark.pg-echipa p{color:var(--a-mute)}
+.rop-a-dark.pg-echipa .rop-member strong{color:#fff}.rop-a-dark.pg-echipa .rop-member__role{color:var(--a-gold)}.rop-a-dark.pg-echipa .rop-member__prof{color:var(--a-mute)}
+.rop-a-dark.pg-echipa .rop-member img,.rop-a-dark.pg-echipa .rop-monogram{box-shadow:0 0 0 3px var(--dk1),0 0 0 4px var(--a-gold)}
+.rop-a-dark.pg-echipa .rop-section--cream .rop-member img,.rop-a-dark.pg-echipa .rop-section--cream .rop-monogram{box-shadow:0 0 0 3px var(--dk2),0 0 0 4px var(--a-gold)}
+.rop-a-dark.pg-echipa .rop-timeline{border-left-color:var(--dkline)}.rop-a-dark.pg-echipa .rop-timeline b{color:var(--a-gold2)}.rop-a-dark.pg-echipa .rop-timeline li{color:var(--a-ink)}
+.rop-a-dark.pg-echipa .wp-block-details{border-bottom-color:var(--dkline)}.rop-a-dark.pg-echipa .wp-block-details summary{color:var(--a-gold2)}
+.rop-a-dark.pg-echipa .wp-block-details p{color:var(--a-ink)}.rop-a-dark.pg-echipa .wp-block-details strong{color:#fff}
+/* despre: milestones band dark */
+.rop-a-dark.pg-despre .rop-section--cream{background:var(--dk1);color:var(--a-ink)}
+.rop-a-dark.pg-despre .rop-section--cream h2{color:#fff}.rop-a-dark.pg-despre .rop-timeline{border-left-color:var(--dkline)}
+.rop-a-dark.pg-despre .rop-timeline b{color:var(--a-gold2)}.rop-a-dark.pg-despre .rop-timeline li{color:var(--a-ink)}
+/* devino membru: steps band dark */
+.rop-a-dark.pg-devino-membru .rop-section--cream{background:var(--dk1);color:var(--a-ink)}
+.rop-a-dark.pg-devino-membru .rop-section--cream h2{color:#fff}.rop-a-dark.pg-devino-membru .rop-section--cream .rop-eyebrow{color:var(--a-gold)}
+.rop-a-dark.pg-devino-membru .rop-steps b{color:#fff}.rop-a-dark.pg-devino-membru .rop-steps span{color:var(--a-mute)}
+.rop-a-dark.pg-devino-membru .rop-steps li:before{background:var(--a-gold);color:var(--dk1)}
+.rop-a-dark.pg-devino-membru .rop-section:not(.rop-section--cream):not(.rop-section--navy) .rop-tile{background:#fff}
+/* contact: dark */
+.rop-a-dark.pg-contact .wp-site-blocks,.rop-a-dark.pg-contact .rop-section{background:var(--dk1)}
+.rop-a-dark.pg-contact .rop-tile{background:var(--dk2);border-color:var(--dkline);border-top-color:var(--a-gold);color:var(--a-ink)}
+.rop-a-dark.pg-contact .rop-tile h3{color:#fff}.rop-a-dark.pg-contact .rop-tile a{color:var(--a-gold)}
 
 @media (prefers-reduced-motion:reduce){.rop-a .a-hero__img{animation:none}.rop-a .a-hero__img:not(:first-child){display:none}}
 @media (max-width:860px){
