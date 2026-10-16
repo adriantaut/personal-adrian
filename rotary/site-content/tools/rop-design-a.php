@@ -163,6 +163,7 @@ body.rop-a{--a-night:#0A1A36;--a-deep:#10264D;--a-gold:#F7A81B;--a-gold2:#E8C36A
 .rop-a .a-follow{display:flex;gap:12px;flex-wrap:wrap;margin-top:1.2rem}
 .rop-a .a-follow a{display:inline-flex;align-items:center;gap:.6rem;padding:.8em 1.5em;border:1.5px solid var(--a-gold);border-radius:999px;color:#fff;font-weight:700;text-decoration:none;transition:background .2s,color .2s}
 .rop-a .a-follow svg{width:18px;height:18px}.rop-a .a-follow a:hover{background:var(--a-gold);color:var(--a-night)}
+.rop-a .rop-timeline a{color:inherit;text-decoration:none;border-bottom:1px solid #F7A81B66}.rop-a .rop-timeline a:hover{color:var(--a-gold)}
 /* hero */
 .rop-a .a-hero{position:relative;min-height:92vh;display:flex;align-items:flex-end;overflow:hidden;background:var(--a-night);color:#fff}
 .rop-a .a-hero__img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;animation:a-fade calc(var(--n)*6s) infinite;animation-delay:calc(var(--i)*6s)}
