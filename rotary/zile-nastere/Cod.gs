@@ -64,7 +64,7 @@ function trimite_(s, lista, cand) {
 function membri_() {
   const v = SpreadsheetApp.getActive().getSheetByName('Membri').getDataRange().getValues().slice(1);
   return v
-    .filter(r => r[0] && r[1] && r[2] && ['Activ', 'Invitat'].includes(r[6]))   // Status: Activ/Invitat = notifică, Fost = nu
+    .filter(r => r[0] && r[1] && r[2] && ['Activ', 'Invitat'].includes(r[4]))   // Status: Activ/Invitat = notifică, Fost = nu
     .map(r => ({ nume: String(r[0]).trim(), zi: Number(r[1]), luna: r[2], lunaNr: LUNI.indexOf(r[2]) + 1 }))
     .filter(m => m.lunaNr > 0);
 }
