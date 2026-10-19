@@ -38,7 +38,7 @@ function verificaAniversari() {
 
   if (s.rezumat && Utilities.formatDate(azi, TZ, 'u') === '1') {
     const sapt = urmatoareleAniversari(6);
-    if (sapt.length && !dejaTrimis_('rezumat')) {
+    if (sapt.length && !anuntatiAzi_('rezumat').length) {
       const corp = sapt.map(a => `• ${a.nume} — ${a.zi} ${a.luna}${a.peste === 0 ? ' (azi)' : ''}`).join('\n');
       MailApp.sendEmail({ to: s.destinatari.join(','), subject: '🎂 Aniversările săptămânii — Rotary Opera', body: 'Săptămâna aceasta:\n\n' + corp });
       jurnal_(sapt.map(a => a.nume).join(', '), 'rezumat', s.destinatari);
@@ -47,7 +47,9 @@ function verificaAniversari() {
 }
 
 function trimite_(s, lista, cand) {
-  if (!lista.length || dejaTrimis_(cand)) return;
+  const anuntati = anuntatiAzi_(cand);
+  lista = lista.filter(a => !anuntati.includes(a.nume));   // only people not yet announced today
+  if (!lista.length) return;
   const nume = lista.map(a => a.nume).join(', ');
   const subiect = cand === 'azi'
     ? s.subiect.replace('{nume}', nume)
@@ -102,10 +104,12 @@ function jurnal_(despre, tip, dest) {
     .appendRow([Utilities.formatDate(new Date(), TZ, 'yyyy-MM-dd HH:mm'), despre, tip, dest.join(', ')]);
 }
 
-function dejaTrimis_(tip) {
+/** Names already announced today for this type (from Jurnal). */
+function anuntatiAzi_(tip) {
   const azi = Utilities.formatDate(new Date(), TZ, 'yyyy-MM-dd');
   return SpreadsheetApp.getActive().getSheetByName('Jurnal').getDataRange().getValues()
-    .some(r => (r[0] instanceof Date ? Utilities.formatDate(r[0], TZ, 'yyyy-MM-dd') : String(r[0]).slice(0, 10)) === azi && r[2] === tip);
+    .filter(r => (r[0] instanceof Date ? Utilities.formatDate(r[0], TZ, 'yyyy-MM-dd') : String(r[0]).slice(0, 10)) === azi && r[2] === tip)
+    .flatMap(r => String(r[1]).split(', '));
 }
 
 function adaugaZile(d, n) { const x = new Date(d); x.setDate(x.getDate() + n); return x; }
