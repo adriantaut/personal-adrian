@@ -1,8 +1,12 @@
 /**
  * Zile de naștere — Rotary Club Cluj-Napoca Opera
  * Citește taburile „Membri” și „Setări”, trimite un email zilnic la 09:00 și scrie în „Jurnal”.
+ * Proiect Apps Script SEPARAT (script.google.com), deținut de rotaryoperacluj@gmail.com; deschide sheet-ul după ID.
  * Instalare: rulează o singură dată funcția `instaleaza`.
  */
+
+const SHEET_ID = '1GysGbRVsqWc6I2yAXWxs9D9nA4LLkgtpFGMgQ2QnCX4';
+function ss_() { return SpreadsheetApp.openById(SHEET_ID); }
 
 const LUNI = ['Ianuarie', 'Februarie', 'Martie', 'Aprilie', 'Mai', 'Iunie', 'Iulie', 'August', 'Septembrie', 'Octombrie', 'Noiembrie', 'Decembrie'];
 const TZ = 'Europe/Bucharest';
@@ -13,7 +17,7 @@ function instaleaza() {
     .filter(t => t.getHandlerFunction() === 'verificaAniversari')
     .forEach(t => ScriptApp.deleteTrigger(t));
   ScriptApp.newTrigger('verificaAniversari').timeBased().everyDays(1).atHour(9).inTimezone(TZ).create();
-  SpreadsheetApp.getActive().toast('Gata: emailul pleacă zilnic la 09:00.', 'Zile de naștere', 8);
+  Logger.log('Gata: emailul pleacă zilnic la 09:00.');
 }
 
 /** Trimite acum un email de test către destinatari (nu scrie în Jurnal). */
@@ -62,7 +66,7 @@ function trimite_(s, lista, cand) {
 /* ---------- date ---------- */
 
 function membri_() {
-  const v = SpreadsheetApp.getActive().getSheetByName('Membri').getDataRange().getValues().slice(1);
+  const v = ss_().getSheetByName('Membri').getDataRange().getValues().slice(1);
   return v
     .filter(r => r[0] && r[1] && r[2] && ['Activ', 'Invitat'].includes(r[4]))   // Status: Activ/Invitat = notifică, Pasiv = nu
     .map(r => ({ nume: String(r[0]).trim(), zi: Number(r[1]), luna: r[2], lunaNr: LUNI.indexOf(r[2]) + 1 }))
@@ -84,7 +88,7 @@ function urmatoareleAniversari(zile) {
 }
 
 function citesteSetari() {
-  const v = SpreadsheetApp.getActive().getSheetByName('Setări').getDataRange().getValues();
+  const v = ss_().getSheetByName('Setări').getDataRange().getValues();
   const get = k => { const r = v.find(x => String(x[0]).trim() === k); return r ? String(r[1]).trim() : ''; };
   return {
     active: get('Notificări active') !== 'Nu',
@@ -98,13 +102,13 @@ function citesteSetari() {
 /* ---------- jurnal ---------- */
 
 function jurnal_(despre, tip, dest) {
-  SpreadsheetApp.getActive().getSheetByName('Jurnal')
+  ss_().getSheetByName('Jurnal')
     .appendRow([Utilities.formatDate(new Date(), TZ, 'yyyy-MM-dd HH:mm'), despre, tip, dest.join(', ')]);
 }
 
 function dejaTrimis_(tip) {
   const azi = Utilities.formatDate(new Date(), TZ, 'yyyy-MM-dd');
-  return SpreadsheetApp.getActive().getSheetByName('Jurnal').getDataRange().getValues()
+  return ss_().getSheetByName('Jurnal').getDataRange().getValues()
     .some(r => (r[0] instanceof Date ? Utilities.formatDate(r[0], TZ, 'yyyy-MM-dd') : String(r[0]).slice(0, 10)) === azi && r[2] === tip);
 }
 
