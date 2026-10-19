@@ -36,3 +36,8 @@
 - [ ] Verificat Email 2 la Horvat Daniel (laviniateodoraflorian@gmail.com pare greșit)
 - [ ] Cine are acces la contul Google contact@rotaryoperacluj.ro (proprietarul sheet-ului)? → ideal transfer ownership către rotaryoperacluj@gmail.com
 - [ ] Șterge taburile vechi (Email, Zile nastere alfabetic, Zile nastere/luni) când e sigur
+
+## 19 Oct 2026
+- Anti-dublură schimbată: **per persoană** (cine a fost anunțat azi nu mai e anunțat; cine e adăugat mai târziu în aceeași zi primește email) — funcția `anuntatiAzi_`
+- Setări: Destinatar 2 = rotaryoperacluj@gmail.com; Rezumat luni = Da
+- [ ] Șterge rândurile de test (Caca Maca, Ovidiu Pop 19 Oct) din Membri + Jurnal
