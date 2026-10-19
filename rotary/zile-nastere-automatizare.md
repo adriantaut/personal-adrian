@@ -1,6 +1,6 @@
 # Zile de naștere membri — notificări automate
 
-**Status:** 16 Oct 2026 — taburi noi create în sheet (Membri, Calendar aniversări, Setări, Jurnal); script în `rotary/zile-nastere/Cod.gs` ⏳ de lipit în Apps Script de pe contul contact@rotaryoperacluj.ro (proprietarul sheet-ului). Destinatar inițial: adriantaut@gmail.com.
+**Status:** ✅ INSTALAT 19 Oct 2026 — script legat de sheet, autorizat de pe rotaryoperacluj@gmail.com (are Editor pe sheet), trigger zilnic 09:00–10:00. Primul email real așteptat: Mie 21 Oct (Șeer Paula). Destinatar: adriantaut@gmail.com (de adăugat PR în Setări).
 **Sheet:** https://docs.google.com/spreadsheets/d/1GysGbRVsqWc6I2yAXWxs9D9nA4LLkgtpFGMgQ2QnCX4 (taburi azi: `Email`, `Zile nastere alfabetic` — 58 rânduri, zi ca text „23 mai ”, an —, `Zile nastere/luni` — manual)
 
 ## Decizii Adrian (16 Oct 2026)
@@ -29,3 +29,10 @@
 - `Calendar aniversări`: o formulă ARRAYFORMULA(LET…) — exclude Fost; galben = azi, ivory = următoarele 7 zile; protejat (avertizare)
 - `Setări`: Notificări active Da · În ziua respectivă · Rezumat luni Nu · Destinatar 1 = adriantaut@gmail.com
 - De verificat: Horvat Daniel are ca Email 2 laviniateodoraflorian@gmail.com (pare greșit); Nicula Anca — fără dată/email
+
+## De urmărit
+- [ ] 21 Oct ~09:00: a venit emailul pentru Paula Șeer? (altfel: Apps Script → Executions)
+- [ ] Adăugat emailurile colegelor PR în Setări → Destinatar 2–5
+- [ ] Verificat Email 2 la Horvat Daniel (laviniateodoraflorian@gmail.com pare greșit)
+- [ ] Cine are acces la contul Google contact@rotaryoperacluj.ro (proprietarul sheet-ului)? → ideal transfer ownership către rotaryoperacluj@gmail.com
+- [ ] Șterge taburile vechi (Email, Zile nastere alfabetic, Zile nastere/luni) când e sigur
