@@ -55,7 +55,7 @@ function rop_a_footer(): string {
 	$logo = wp_get_attachment_image_url(ROP_A_LOGO_WHITE, 'medium');
 	return '<footer class="a-footer"><div class="a-wrap a-footer__grid">'
 		. '<div><img class="a-footer__logo" src="' . esc_url($logo) . '" alt="Rotary Club Cluj-Napoca Opera"><p>Service Above Self. Un club Rotary din Districtul 2241 România și Republica Moldova.</p></div>'
-		. '<div><span class="a-eyebrow">Explorează</span><ul><li><a href="/proiecte/">Proiecte</a></li><li><a href="/echipa/">Echipa</a></li><li><a href="/despre/">Despre noi</a></li><li><a href="/doneaza/">Donează</a></li><li><a href="/devino-membru/">Devino membru</a></li><li><a href="/contact/">Contact</a></li></ul></div>'
+		. '<div><span class="a-eyebrow">Explorează</span><ul><li><a href="/despre/">Despre noi</a></li><li><a href="/echipa/">Echipa</a></li><li><a href="/proiecte/">Proiecte</a></li><li><a href="/devino-membru/">Devino membru</a></li><li><a href="/contact/">Contact</a></li></ul><a class="a-btn a-btn--gold a-footer__donate" href="/doneaza/">Donează</a></div>'
 		. '<div><span class="a-eyebrow">Contact</span><p><a href="mailto:contact@rotaryoperacluj.ro">contact@rotaryoperacluj.ro</a><br>Ședințe: miercuri, 18:30<br>Hotel Victoria, Cluj-Napoca</p>'
 		. '<p class="a-social">' . rop_a_icons() . '</p></div>'
 		. '</div><div class="a-wrap a-footer__legal">© ' . date('Y') . ' Asociația Rotary Club Cluj-Napoca Opera · CUI 39347197 · <a href="/politica-de-confidentialitate/">Confidențialitate</a> · <a href="/termeni-donatii/">Termeni donații</a></div></footer>';
@@ -228,6 +228,7 @@ body.rop-a{--a-night:#0A1A36;--a-deep:#10264D;--a-gold:#F7A81B;--a-gold2:#E8C36A
 @media (max-width:860px){.rop-a .a-footer__logo{height:120px}}
 .rop-a .a-footer ul{list-style:none;padding:0;margin:14px 0 0;line-height:2}.rop-a .a-footer a{color:#fff;text-decoration:none}
 .rop-a .a-footer .a-eyebrow{margin-bottom:14px}.rop-a .a-social{display:flex;gap:16px}.rop-a .a-social a{color:var(--a-gold);font-weight:700}
+.rop-a .a-footer .a-footer__donate{margin-top:18px;color:var(--a-night)}
 .rop-a .a-footer__legal{border-top:1px solid #ffffff1a;margin-top:40px;padding-top:22px;font-size:.85rem}
 .rop-a .rop-donate-mobile{display:none!important}
 /* front page canvas */
