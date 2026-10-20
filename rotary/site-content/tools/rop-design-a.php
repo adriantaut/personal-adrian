@@ -228,7 +228,7 @@ body.rop-a{--a-night:#0A1A36;--a-deep:#10264D;--a-gold:#F7A81B;--a-gold2:#E8C36A
 @media (max-width:860px){.rop-a .a-footer__logo{height:120px}}
 .rop-a .a-footer ul{list-style:none;padding:0;margin:14px 0 0;line-height:2}.rop-a .a-footer a{color:#fff;text-decoration:none}
 .rop-a .a-footer .a-eyebrow{margin-bottom:14px}.rop-a .a-social{display:flex;gap:16px}.rop-a .a-social a{color:var(--a-gold);font-weight:700}
-.rop-a .a-footer .a-footer__donate{margin-top:18px;color:var(--a-night)}
+.rop-a .a-footer .a-footer__donate{margin-top:14px;color:var(--a-night);padding:.5em 1.15em;font-size:.88rem}
 .rop-a .a-footer__legal{border-top:1px solid #ffffff1a;margin-top:40px;padding-top:22px;font-size:.85rem}
 .rop-a .rop-donate-mobile{display:none!important}
 /* front page canvas */
