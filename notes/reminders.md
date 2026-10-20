@@ -87,8 +87,10 @@
 | 22 Sep 2026 | 🏠 Manu: **coduri CAEN adăugate** ✅ (6820, 7020 etc.) | ✅ |
 | 13 Oct 2026 | 🏠 Manu: **înregistrare în scopuri de TVA** — DONE ✅ → taxarea inversă e deblocată | ✅ |
 | 16 Oct 2026 | 🏠 Manu: **contract rezervare SEMNAT** — apt 32 + parcare S2, 180.500 EUR (Hexagon URBAN) + convenție rezoluțiune (Hexagon REALTY) | ✅ |
-| 🔴 **până MÂINE 21 Oct** | 🏠 Manu: **plata taxei de rezervare 48.166,43 lei** (9.025 EUR @ 5,3370) din contul firmei `RO30BTRLRONCRT0CJ0240101` → `RO56BTRLRONCRT0681745301`. ⚠️ **Pact comisoriu art. 2.2: contractul se desființează automat dacă nu e plătită în 3 zile lucrătoare de la semnare** | 🔴 |
-| 🚨 **de confirmat** | 🏠 Manu: **data restituirii celor 103.500 EUR** (514.829,70 lei) de la Hexagon REALTY — era necompletată în draft. Trebuie să fie ≤ data plății către Hexagon URBAN, altfel dublezi suma | 🔴 |
+| 19 Oct 2026 | 🏠 Manu: **taxă rezervare 48.166,43 lei achitată** (9.025 EUR @ 5,3370) | ✅ |
+| **Lun 28 Feb 2028** | 🏠 Manu: **restituire 514.829,70 lei** de la Hexagon REALTY (titlu executoriu, fără dobândă). Cost de oportunitate ~35-49K lei | ⏳ |
+| 🔴 **până 15 Dec 2026** | 🏠 Manu: **Promisiunea bilaterală** — singura fereastră de negociere. Cere clauză ca tranșa de 103.500 EUR să fie **compensată** sau scadentă **doar după** încasarea restituirii din 28.02.2028. Altfel, dacă CV-ul cade înainte, trebuie găsiți 514.829,70 lei. ⚠️ Art. 4.4: nesemnarea „în forma propusă de Dezvoltator" = pierzi 9.025 EUR | 🔴 |
+| 2027 | 🏠 Manu: **verifică solvabilitatea HEXAGON REALTY** (termene.ro) — e creditor chirografar 16 luni pe 514.829,70 lei | ⏳ |
 | **Mar 15 Dec 2026** | 🏠 Manu: **termen semnare Promisiune bilaterală** (60 zile calendaristice de la 16 Oct). ⚠️ Art. 4.4: dacă nu se semnează „în forma propusă de Dezvoltator", se pierd cei 9.025 EUR | ⏳ |
 | **2028** (la predare apartament) | 🚨 Manu: **notificare opțiune TAXARE închiriere** la ANAF, înainte de prima chirie (fără ea se pierd ~39.000 EUR) | ⏳ |
 | **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — descompunere 186.054,50 + curs de conversie | ✅ |

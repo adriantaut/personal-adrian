@@ -7,10 +7,25 @@ Semnate simultan: (1) **Convenție de rezoluțiune** a antecontractului din 2024
 
 | Termen | Ce |
 |---|---|
-| 🔴 **21 Oct 2026** | Plata taxei de rezervare **48.166,43 lei** (9.025 EUR @ 5,3370). Pact comisoriu art. 2.2 — 3 zile lucrătoare de la semnare |
-| 🚨 **de confirmat** | Data restituirii celor 514.829,70 lei de la Hexagon REALTY (necompletată în draft) |
-| **15 Dec 2026** | Termen semnare Promisiune bilaterală (60 zile calendaristice) |
+| ✅ 19 Oct 2026 | Taxa de rezervare **48.166,43 lei** — achitată |
+| **28 Feb 2028** | Restituirea celor **514.829,70 lei** de la Hexagon REALTY. Titlu executoriu, **fără dobândă**. 500 zile de la semnare, 1.266 zile de la plata din 2024. Cost de oportunitate **~35-49K lei** (5-7%/an) |
+| 🔴 **15 Dec 2026** | Termen semnare **Promisiune bilaterală** (60 zile calendaristice). **Singura fereastră de negociere** — vezi mai jos |
 | La Contractul de Vânzare | 103.500 EUR @ 4,9742 = 514.829,70 lei + 67.975 EUR @ curs BNR |
+
+### 🎯 De obținut în Promisiune (până 15 Dec 2026)
+
+Contractul de rezervare cere plata celor 514.829,70 lei **„până la data semnării Contractului de Vânzare"**, iar restituirea vine abia la **28.02.2028**:
+
+| Scenariu | Consecință |
+|---|---|
+| CV **după** 28.02.2028 | ✅ neutru — banii vin întâi |
+| CV **înainte** de 28.02.2028 | 🚨 trebuie găsiți 514.829,70 lei din altă parte |
+
+→ **Cere în Promisiune**: tranșa de 103.500 EUR fie se consideră achitată prin **compensare**, fie e scadentă **doar după** încasarea restituirii.
+→ ⚠️ Art. 4.4: nesemnarea Promisiunii „în forma propusă de Dezvoltator" = pierderea celor 9.025 EUR. Cere draftul din timp.
+
+### ⚠️ Risc de contraparte
+**HEXAGON REALTY S.R.L.** (CUI 49408097, înființată ian. 2024) e distinctă de HEXAGON URBAN. Probabil SPV pentru proiectul vechi. Manu e **creditor chirografar** 16 luni pe 514.829,70 lei → verificare periodică pe termene.ro în 2027.
 
 ---
 
