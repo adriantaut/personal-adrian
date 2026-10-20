@@ -14,6 +14,7 @@
 | 14 Oct 2026 | ✅ Alocare coduri CAEN pe sedii — portalul a cerut alocarea tuturor celor ~499 coduri; badge-urile Rev.2 s-au curățat |
 | 14 Oct 2026 | ✅ Încărcate 3 documente + bifat „act modificator" pe Decizie |
 | 15 Oct 2026 | ✅ Generată și depusă **Declarația 858** (model 3, condiții de funcționare) |
+| 20 Oct 2026 | 🔍 Verificat portalul — dosar **ÎN PROCESARE** |
 
 ### 🔁 DE FĂCUT — revino periodic pe portal
 - [ ] Verifică **statusul dosarului** pe `myportal.onrc.ro`

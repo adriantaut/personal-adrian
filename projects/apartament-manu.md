@@ -1,7 +1,16 @@
 # Apartament Manu (sora) — Calcul schimb ROW
 
 **Actualizat:** 13 Oct 2026
-**Status:** ✅ Structură confirmată — contract de rezervare se semnează **vineri 16 Oct 2026**
+**Status:** ✅ **CONTRACT DE REZERVARE SEMNAT — vineri 16 Oct 2026**
+
+Semnate simultan: (1) **Convenție de rezoluțiune** a antecontractului din 2024 cu **HEXAGON REALTY S.R.L.** (ap. 13, restituire 103.500 EUR) și (2) **Convenție de rezervare nr. 1** cu **HEXAGON URBAN S.R.L.** (ap. 32 + parcare S2, 180.500 EUR), beneficiar **DIGITAL DENTAESTHETICS S.R.L.**
+
+| Termen | Ce |
+|---|---|
+| 🔴 **21 Oct 2026** | Plata taxei de rezervare **48.166,43 lei** (9.025 EUR @ 5,3370). Pact comisoriu art. 2.2 — 3 zile lucrătoare de la semnare |
+| 🚨 **de confirmat** | Data restituirii celor 514.829,70 lei de la Hexagon REALTY (necompletată în draft) |
+| **15 Dec 2026** | Termen semnare Promisiune bilaterală (60 zile calendaristice) |
+| La Contractul de Vânzare | 103.500 EUR @ 4,9742 = 514.829,70 lei + 67.975 EUR @ curs BNR |
 
 ---
 

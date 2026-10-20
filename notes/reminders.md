@@ -31,14 +31,14 @@
 | 17 Iul 2026 | Comandă Edenred - tichete masă Iulie (13 × 45 = 585 RON) | ✅ |
 | 21 Apr 2026 | Declarația Unică ANAF 2025 - depusă, recipisă primită | ✅ |
 | 22 Apr 2026 | Plată CASS dividende: 9.720 RON - plătit pe ghiseul.ro | ✅ |
-| **Sfârșit Octombrie 2026** | 💙 **Sponsorizare Rotary din SRL — 3.500 RON** (din impozit) | ⏳ |
+| 20 Oct 2026 | 💙 **Sponsorizare Rotary din SRL — 3.500 RON** (din impozit) | ✅ |
 | 19 Mar 2026 | Raport zile lucrate Martie → CEDEXPERT | ✅ |
 | 27 Mar 2026 | Decide tichete cadou Paște (300 lei) - cadouri în bani, tabel nominal creat | ✅ |
 | 14 Apr 2026 | Trimite la CEDEXPERT: pontaj Aprilie + Tabel Paște | ✅ |
 | 16 Apr 2026 | Comandă Edenred - tichete masă Aprilie (18 zile × 45 = 810 RON) | ✅ |
 | 25 Mar 2026 | Transferat dividende | ✅ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
-| ⏳ **WIP — verifică periodic** | **Majorare capital social 200 → 5.000 lei** — dosar în lucru pe `myportal.onrc.ro`. Virat 4.800 lei ✅, documente semnate și încărcate ✅, declarație 858 depusă ✅. **Revino pe portal pentru status/rezoluție + eventuale cereri de completare.** Soluționare 3-5 zile lucrătoare. Vezi `srl/majorare-capital-social.md` | ⏳ |
+| ⏳ **WIP — verificat 20 Oct: ÎN PROCESARE** | **Majorare capital social 200 → 5.000 lei** pe `myportal.onrc.ro`. Virat 4.800 lei ✅, documente semnate ✅, declarație 858 ✅. Revino pentru rezoluție + eventuale cereri de completare. Vezi `srl/majorare-capital-social.md` | ⏳ |
 | 26 Iun 2026 | Factură DropShot Coffee | ✅ |
 | 6 Iul 2026 | Plată diurnă delegație București (402,5 RON) | ✅ |
 | 8-14 Iul 2026 | Delegație București (bonuri trimise la CEDEXPERT ✅) | ✅ |
@@ -70,9 +70,6 @@
 | 28 Sep 2026 | 🌐 **Site Rotary Opera** — site nou LIVE pe rotaryoperacluj.ro (vezi `rotary/site.md`) | ✅ |
 | 15 Oct 2026 | 💳 **Stripe** — cont deschis pe rotaryoperacluj@gmail.com, identitate verificată cu Cristian Zaharia | ✅ |
 | **Următorul pas** | 💳 **Butoane donație pe site** — necesită un **restricted API key** Stripe (doar `payment_links:write` / `checkout_sessions:write`). ⚠️ Nu-l lipi în chat: salvează-l în `~/.rotary_stripe_key` cu `chmod 600`. Site-ul se lucrează în altă sesiune (`rotary/site.md`) | ⏳ |
-| **ASAP** | 📝 **Proiecte 2025-2026 pe site** — ia legătura cu **Lavinia Berinde** (text + poze + cifre: EDUCATIO, Promenada Inimilor, Grătar la Levi…) | ⏳ |
-| **Sâm 26 Sep 2026** | 🚶 Promenada Inimilor | ⏳ |
-| **Dum 27 Sep 2026** | 🍖 Grătar la Levi | ⏳ |
 | **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** | ⏳ |
 
 ---
@@ -89,7 +86,10 @@
 | 20 Aug 2026 | 🏠 Calcule apartament Manu — sold ~112.915 EUR (vezi `projects/apartament-manu.md`) | ✅ |
 | 22 Sep 2026 | 🏠 Manu: **coduri CAEN adăugate** ✅ (6820, 7020 etc.) | ✅ |
 | 13 Oct 2026 | 🏠 Manu: **înregistrare în scopuri de TVA** — DONE ✅ → taxarea inversă e deblocată | ✅ |
-| 🔴 **VINERI 16 Oct** | 🏠 Manu: **semnare contract rezervare** apt 32 + parcare S2 — **180.500 EUR**, avans 5% = **9.025 EUR** din firmă. Înainte de semnare: (1) **mențiune în contract** a creditării facturii nr. 1/11.09.2024 (net 5.554,50 EUR — plătită altei firme!), (2) curs **4,9742** scris identic peste tot, (3) 🚨 **clarifică cu Cristiana + contabila mecanica PF → firmă**: cui returnează Hexagon cei 103.500 EUR și cum preia firma creditul de 109.054,50 EUR plătit de Manu PF — ideal prin **compensare** (fără mișcare de cash). Avansul brut 103.500 se creditează 1:1 contra prețului net ✅ confirmat | 🔴 |
+| 16 Oct 2026 | 🏠 Manu: **contract rezervare SEMNAT** — apt 32 + parcare S2, 180.500 EUR (Hexagon URBAN) + convenție rezoluțiune (Hexagon REALTY) | ✅ |
+| 🔴 **până MÂINE 21 Oct** | 🏠 Manu: **plata taxei de rezervare 48.166,43 lei** (9.025 EUR @ 5,3370) din contul firmei `RO30BTRLRONCRT0CJ0240101` → `RO56BTRLRONCRT0681745301`. ⚠️ **Pact comisoriu art. 2.2: contractul se desființează automat dacă nu e plătită în 3 zile lucrătoare de la semnare** | 🔴 |
+| 🚨 **de confirmat** | 🏠 Manu: **data restituirii celor 103.500 EUR** (514.829,70 lei) de la Hexagon REALTY — era necompletată în draft. Trebuie să fie ≤ data plății către Hexagon URBAN, altfel dublezi suma | 🔴 |
+| **Mar 15 Dec 2026** | 🏠 Manu: **termen semnare Promisiune bilaterală** (60 zile calendaristice de la 16 Oct). ⚠️ Art. 4.4: dacă nu se semnează „în forma propusă de Dezvoltator", se pierd cei 9.025 EUR | ⏳ |
 | **2028** (la predare apartament) | 🚨 Manu: **notificare opțiune TAXARE închiriere** la ANAF, înainte de prima chirie (fără ea se pierd ~39.000 EUR) | ⏳ |
 | **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — descompunere 186.054,50 + curs de conversie | ✅ |
 | **13-18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
