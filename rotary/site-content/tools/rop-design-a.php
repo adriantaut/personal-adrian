@@ -81,7 +81,7 @@ add_filter('render_block', function ($html, $block, $inst) {
 	}
 	if ($name === 'core/post-featured-image' && !empty($inst->context['postId']) && get_post_type($inst->context['postId']) === 'proiect' && !is_singular('proiect') || ($name === 'core/post-featured-image' && !empty($inst->context['queryId']))) {
 		$pid = (int) ($inst->context['postId'] ?? 0);
-		$logo = $pid ? (int) get_field('logo', $pid) : 0;
+		$logo = $pid ? ((int) get_field('logo_mic', $pid) ?: (int) get_field('logo', $pid)) : 0;
 		if (!$logo) return $html;
 		$badge = '<span class="a-pbadge">' . wp_get_attachment_image($logo, 'medium', false, ['alt' => '', 'loading' => 'lazy']) . '</span>';
 		return preg_replace('#</figure>\s*$#', $badge . '</figure>', $html, 1);
@@ -188,7 +188,7 @@ body.rop-a{--a-night:#0A1A36;--a-deep:#10264D;--a-gold:#F7A81B;--a-gold2:#E8C36A
 .rop-a .a-ptitle--small{font-size:clamp(1.4rem,2.4vw,2rem)!important;opacity:.9}
 .rop-a .wp-block-post-featured-image{position:relative}
 .rop-a .a-pbadge{position:absolute;left:0;right:0;bottom:0;padding:28px 14px 12px;background:linear-gradient(180deg,transparent,rgba(10,26,54,.85));display:flex;pointer-events:none}
-.rop-a .a-pbadge img{max-height:38px;max-width:62%;width:auto;height:auto;object-fit:contain;transform:none!important}
+.rop-a .a-pbadge img{max-height:38px;max-width:40%;width:auto;height:auto;object-fit:contain;transform:none!important}
 @media (max-width:860px){.rop-a .a-plogo img{max-height:96px}}
 /* hero */
 .rop-a .a-hero{position:relative;min-height:92vh;display:flex;align-items:flex-end;overflow:hidden;background:var(--a-night);color:#fff}
