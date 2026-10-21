@@ -69,6 +69,26 @@ add_filter('render_block', function ($html, $block) {
 	return $html;
 }, 10, 2);
 
+
+/* ---------- project logos: hero (h1) + list badge ---------- */
+add_filter('render_block', function ($html, $block, $inst) {
+	if (!rop_a_on()) return $html;
+	$name = $block['blockName'] ?? '';
+	if ($name === 'core/post-title' && is_singular('proiect') && (int) ($block['attrs']['level'] ?? 2) === 1) {
+		$logo = (int) get_field('logo', get_queried_object_id());
+		if (!$logo) return $html;
+		return '<div class="a-plogo">' . wp_get_attachment_image($logo, 'large', false, ['alt' => esc_attr(get_the_title(get_queried_object_id())), 'fetchpriority' => 'high']) . '</div>' . str_replace('wp-block-post-title', 'wp-block-post-title a-ptitle--small', $html);
+	}
+	if ($name === 'core/post-featured-image' && !empty($inst->context['postId']) && get_post_type($inst->context['postId']) === 'proiect' && !is_singular('proiect') || ($name === 'core/post-featured-image' && !empty($inst->context['queryId']))) {
+		$pid = (int) ($inst->context['postId'] ?? 0);
+		$logo = $pid ? (int) get_field('logo', $pid) : 0;
+		if (!$logo) return $html;
+		$badge = '<span class="a-pbadge">' . wp_get_attachment_image($logo, 'medium', false, ['alt' => '', 'loading' => 'lazy']) . '</span>';
+		return preg_replace('#</figure>\s*$#', $badge . '</figure>', $html, 1);
+	}
+	return $html;
+}, 20, 3);
+
 /* ---------- homepage ---------- */
 function rop_a_years(WP_Post $p): string {
 	$ys = array_filter(array_map(fn($r) => (int) substr((string) $r['an'], 0, 4), (array) get_field('editii', $p->ID)));
@@ -164,6 +184,12 @@ body.rop-a{--a-night:#0A1A36;--a-deep:#10264D;--a-gold:#F7A81B;--a-gold2:#E8C36A
 .rop-a .a-follow a{display:inline-flex;align-items:center;gap:.6rem;padding:.8em 1.5em;border:1.5px solid var(--a-gold);border-radius:999px;color:#fff;font-weight:700;text-decoration:none;transition:background .2s,color .2s}
 .rop-a .a-follow svg{width:18px;height:18px}.rop-a .a-follow a:hover{background:var(--a-gold);color:var(--a-night)}
 .rop-a .rop-timeline a{color:inherit;text-decoration:none;border-bottom:1px solid #F7A81B66}.rop-a .rop-timeline a:hover{color:var(--a-gold)}
+.rop-a .a-plogo{margin:.4rem 0 1rem}.rop-a .a-plogo img{max-height:130px;max-width:min(560px,100%);width:auto;height:auto;display:block;filter:drop-shadow(0 4px 18px rgba(0,0,0,.45))}
+.rop-a .a-ptitle--small{font-size:clamp(1.4rem,2.4vw,2rem)!important;opacity:.9}
+.rop-a .wp-block-post-featured-image{position:relative}
+.rop-a .a-pbadge{position:absolute;left:0;right:0;bottom:0;padding:28px 14px 12px;background:linear-gradient(180deg,transparent,rgba(10,26,54,.85));display:flex;pointer-events:none}
+.rop-a .a-pbadge img{max-height:38px;max-width:62%;width:auto;height:auto;object-fit:contain;transform:none!important}
+@media (max-width:860px){.rop-a .a-plogo img{max-height:96px}}
 /* hero */
 .rop-a .a-hero{position:relative;min-height:92vh;display:flex;align-items:flex-end;overflow:hidden;background:var(--a-night);color:#fff}
 .rop-a .a-hero__img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;animation:a-fade calc(var(--n)*6s) infinite;animation-delay:calc(var(--i)*6s)}
