@@ -240,3 +240,5 @@ Titlu: *Rotary Opera Cluj – Service above self* · WordPress 6.9.6 · WPBakery
 - Donează: Lunar implicit și pe /doneaza/
 - **16 Oct 2026: LANSAT „A dark”** pe tot site-ul: `wp-config.php` are `ROP_DESIGN_A_LIVE` + `ROP_DESIGN_A_DARK` = true (backup: `/home/rotaryop/wp-config.backup-2026-10-16.php`). Rollback: șterge cele 2 linii + purge LiteSpeed
 - Slider hero: poze 246, 271, 243, 48 (de înlocuit cu pozele de la PR)
+- **21 Oct 2026:** homepage — „Susține-ne” imediat după slider; card „În desfășurare” = ToyJoy (constanta `ROP_A_CURRENT` în rop-design-a.php); logo-uri parteneri clickabile (`ROP_A_PARTNERS`). **Locul și ora ședințelor scoase de pe tot site-ul** (contact, footer, devino-membru, mulțumim) — decizie Adrian: nu se publică
+- **De făcut (later):** Proiecte → separare „Cauze” (unde merg banii) vs „Proiecte” (ce organizăm: strângere de fonduri / ajutor)

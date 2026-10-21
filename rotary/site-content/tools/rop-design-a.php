@@ -7,6 +7,8 @@ defined('ABSPATH') || exit;
 
 const ROP_A_LOGO_WHITE = 301;
 const ROP_A_HERO = [246, 271, 243, 48];   // hero slider photos (attachment IDs)
+const ROP_A_CURRENT = 'toyjoy';   // project shown in the hero card „În desfășurare”
+const ROP_A_PARTNERS = ['opera-nationala-cluj' => 'https://operacluj.ro/', 'teatrul-national-cluj' => 'https://www.teatrulnationalcluj.ro/', 'fc-universitatea-cluj' => 'https://fcucluj.ro/', 'cs-universitatea-cluj' => 'https://u-cluj.ro/', 'leroy-merlin' => 'https://www.leroymerlin.ro/', '18gym' => 'https://18gym.ro/', 'catena' => 'https://www.catena.ro/', 'rotaract-cluj-napoca' => 'https://rotaractcluj.ro/'];
 const ROP_A_FEATURED = ['educatio' => 'Educație', 'toyjoy' => 'Social', 'construim-bucurie' => 'Comunitate', 'ambulanta-sfantul-nectarie' => 'Sănătate · proiect-fanion'];
 const ROP_A_STRIPE = [
 	'once'    => [50 => 'https://donate.stripe.com/00w9AV3PY4Eacxl9m8gjC01', 100 => 'https://donate.stripe.com/7sY6oJ5Y61rY2WL69WgjC02', 250 => 'https://donate.stripe.com/3cI00lbiqeeK40PbuggjC03', 500 => 'https://donate.stripe.com/dRm4gB4U2daG7d1gOAgjC04'],
@@ -56,7 +58,7 @@ function rop_a_footer(): string {
 	return '<footer class="a-footer"><div class="a-wrap a-footer__grid">'
 		. '<div><img class="a-footer__logo" src="' . esc_url($logo) . '" alt="Rotary Club Cluj-Napoca Opera"><p>Service Above Self. Un club Rotary din Districtul 2241 România și Republica Moldova.</p></div>'
 		. '<div><span class="a-eyebrow">Explorează</span><ul><li><a href="/despre/">Despre noi</a></li><li><a href="/echipa/">Echipa</a></li><li><a href="/proiecte/">Proiecte</a></li><li><a href="/devino-membru/">Devino membru</a></li><li><a href="/contact/">Contact</a></li></ul><a class="a-btn a-btn--gold a-footer__donate" href="/doneaza/">Donează</a></div>'
-		. '<div><span class="a-eyebrow">Contact</span><p><a href="mailto:contact@rotaryoperacluj.ro">contact@rotaryoperacluj.ro</a><br>Ședințe: miercuri, 18:30<br>Hotel Victoria, Cluj-Napoca</p>'
+		. '<div><span class="a-eyebrow">Contact</span><p><a href="mailto:contact@rotaryoperacluj.ro">contact@rotaryoperacluj.ro</a></p>'
 		. '<p class="a-social">' . rop_a_icons() . '</p></div>'
 		. '</div><div class="a-wrap a-footer__legal">© ' . date('Y') . ' Asociația Rotary Club Cluj-Napoca Opera · CUI 39347197 · <a href="/politica-de-confidentialitate/">Confidențialitate</a> · <a href="/termeni-donatii/">Termeni donații</a></div></footer>';
 }
@@ -99,13 +101,16 @@ function rop_a_years(WP_Post $p): string {
 function rop_a_home(): string {
 	$slides = '';
 	foreach (ROP_A_HERO as $i => $id) $slides .= '<img class="a-hero__img" src="' . esc_url(wp_get_attachment_image_url($id, 'full')) . '" alt="" style="--i:' . $i . '"' . ($i ? ' loading="lazy"' : ' fetchpriority="high"') . '>';
-	$active = get_posts(['post_type' => 'proiect', 'numberposts' => 1, 'meta_key' => 'status', 'meta_value' => 'activ']);
+	$cur = get_page_by_path(ROP_A_CURRENT, OBJECT, 'proiect');
+	$active = $cur ? [$cur] : get_posts(['post_type' => 'proiect', 'numberposts' => 1, 'meta_key' => 'status', 'meta_value' => 'activ']);
 	$card = $active ? '<a class="a-ticket" href="' . esc_url(get_permalink($active[0])) . '"><span class="a-eyebrow">În desfășurare</span><b>' . esc_html($active[0]->post_title) . '</b><span>Află mai mult →</span></a>' : '';
 	$h = '<section class="a-hero" style="--n:' . count(ROP_A_HERO) . '">' . $slides . '<div class="a-wrap a-hero__in">'
 		. '<span class="a-eyebrow">Service Above Self · din 2017</span>'
 		. '<h1>Facem bine <em>împreună</em> cu Clujul.</h1>'
 		. '<p>Un club de oameni implicați care transformă concerte, dialoguri și campanii în ajutor concret: cadouri pentru copii, pachete pentru familii, cursuri de prim ajutor.</p>'
 		. '<div class="a-ctas"><a class="a-btn a-btn--gold" href="/proiecte/">Descoperă proiectele</a><a class="a-btn a-btn--line" href="/devino-membru/">Vino la o ședință</a></div></div>' . $card . '</section>';
+
+	$h .= '<section class="a-section a-support"><div class="a-wrap a-support__grid"><div><span class="a-eyebrow">Susține-ne</span><h2>Fiecare leu ajunge <em>într-un proiect</em> real.</h2><p>Donează online sau prin transfer bancar, ori redirecționează 3,5% din impozit. Pentru firme: sponsorizare cu credit fiscal sau Formularul 177.</p><a class="a-link" href="/doneaza/">Toate modurile de a ne susține →</a></div>' . rop_a_donate_box() . '</div></section>';
 
 	$members = count(array_filter(get_posts(['post_type' => 'membru', 'numberposts' => -1, 'fields' => 'ids']), fn($id) => !get_field('onoare', $id)));
 	$stats = [['2017', 'anul înființării'], [wp_count_posts('proiect')->publish, 'proiecte și campanii'], ['115', 'familii ajutate prin Construim Bucurie'], [$members, 'membri activi']];
@@ -130,11 +135,14 @@ function rop_a_home(): string {
 	}
 	$h .= '<section class="a-section a-ivory"><div class="a-wrap"><div class="a-head"><div><span class="a-eyebrow">Comitetul ' . esc_html(rop_a_rotary_year()) . '</span><h2>Oamenii din spatele proiectelor</h2></div><a class="a-btn a-btn--dark" href="/echipa/">Toată echipa →</a></div><div class="a-cast">' . $cast . '</div></div></section>';
 
-	$h .= '<section class="a-section a-support"><div class="a-wrap a-support__grid"><div><span class="a-eyebrow">Susține-ne</span><h2>Fiecare leu ajunge <em>într-un proiect</em> real.</h2><p>Donează online sau prin transfer bancar, ori redirecționează 3,5% din impozit. Pentru firme: sponsorizare cu credit fiscal sau Formularul 177.</p><a class="a-link" href="/doneaza/">Toate modurile de a ne susține →</a></div>' . rop_a_donate_box() . '</div></section>';
 
 	$logos = '';
 	foreach (get_posts(['post_type' => 'attachment', 'post_status' => 'inherit', 'numberposts' => 20, 's' => 'partener-']) as $a)
-		if (str_contains(get_attached_file($a->ID), '/partener-')) $logos .= '<span>' . wp_get_attachment_image($a->ID, 'medium', false, ['loading' => 'lazy']) . '</span>';
+		if (str_contains(get_attached_file($a->ID), '/partener-')) {
+			$key = preg_replace('/^partener-|(-\d+)?\.png$/', '', basename(get_attached_file($a->ID)));
+			$img = wp_get_attachment_image($a->ID, 'medium', false, ['loading' => 'lazy']);
+			$logos .= isset(ROP_A_PARTNERS[$key]) ? '<a href="' . esc_url(ROP_A_PARTNERS[$key]) . '" target="_blank" rel="noopener">' . $img . '</a>' : '<span>' . $img . '</span>';
+		}
 	if ($logos) $h .= '<section class="a-partners"><div class="a-wrap"><span class="a-eyebrow">Cu sprijinul</span><div class="a-logos">' . $logos . '</div></div></section>';
 	return $h;
 }
@@ -246,7 +254,8 @@ body.rop-a{--a-night:#0A1A36;--a-deep:#10264D;--a-gold:#F7A81B;--a-gold2:#E8C36A
 /* partners */
 .rop-a .a-partners{background:var(--a-night);padding:70px 0;border-top:1px solid #ffffff1f}
 .rop-a .a-logos{display:flex;flex-wrap:wrap;gap:14px;margin-top:22px}
-.rop-a .a-logos span{background:#fff;border-radius:10px;height:84px;padding:12px 20px;display:grid;place-items:center}.rop-a .a-logos img{max-height:58px;width:auto}
+.rop-a .a-logos a,.rop-a .a-logos span{transition:transform .2s,box-shadow .2s;background:#fff;border-radius:10px;height:84px;padding:12px 20px;display:grid;place-items:center}.rop-a .a-logos img{max-height:58px;width:auto}
+.rop-a .a-logos a:hover{transform:translateY(-3px);box-shadow:0 10px 26px -10px #F7A81B99}
 /* footer */
 .rop-a .a-footer{background:#06112A;color:var(--a-mute);padding:70px 0 34px;font-size:.95rem}
 .rop-a .a-footer__grid{display:grid;grid-template-columns:1.3fr 1fr 1fr;gap:40px}
