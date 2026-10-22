@@ -31,7 +31,7 @@
 - De verificat: Horvat Daniel are ca Email 2 laviniateodoraflorian@gmail.com (pare greșit); Nicula Anca — fără dată/email
 
 ## De urmărit
-- [ ] 21 Oct ~09:00: a venit emailul pentru Paula Șeer? (altfel: Apps Script → Executions)
+- [x] 21 Oct ~09:00: ✅ **emailul pentru Paula Șeer a ajuns** — automatizarea funcționează în producție
 - [ ] Adăugat emailurile colegelor PR în Setări → Destinatar 2–5
 - [ ] Verificat Email 2 la Horvat Daniel (laviniateodoraflorian@gmail.com pare greșit)
 - [ ] Cine are acces la contul Google contact@rotaryoperacluj.ro (proprietarul sheet-ului)? → ideal transfer ownership către rotaryoperacluj@gmail.com

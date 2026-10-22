@@ -69,8 +69,10 @@
 | 25 Mai 2026 | DEADLINE Formular 230 (trecut) | ✅ |
 | 28 Sep 2026 | 🌐 **Site Rotary Opera** — site nou LIVE pe rotaryoperacluj.ro (vezi `rotary/site.md`) | ✅ |
 | 15 Oct 2026 | 💳 **Stripe** — cont deschis pe rotaryoperacluj@gmail.com, identitate verificată cu Cristian Zaharia | ✅ |
-| **Următorul pas** | 💳 **Butoane donație pe site** — necesită un **restricted API key** Stripe (doar `payment_links:write` / `checkout_sessions:write`). ⚠️ Nu-l lipi în chat: salvează-l în `~/.rotary_stripe_key` cu `chmod 600`. Site-ul se lucrează în altă sesiune (`rotary/site.md`) | ⏳ |
-| **ASAP** | 📝 **Proiecte 2025-2026 pe site** — ia legătura cu **Lavinia Berinde** (text + poze + cifre per proiect: EDUCATIO, Promenada Inimilor, Grătar la Levi…) | ⏳ |
+| 22 Oct 2026 | 💳 **Stripe restricted API key** — obținut | ✅ |
+| ⏳ în lucru | 💳 **Butoane donație pe site** — implementare în sesiunea de site (`rotary/site.md`) | ⏳ |
+| 22 Oct 2026 | 📝 **Proiecte 2025-2026** — contactată **Lavinia Berinde** (text + poze + cifre per proiect) | ✅ |
+| 21 Oct 2026 | 🎂 **Automatizare zile de naștere** — primul email real a plecat (Paula Șeer). Funcționează | ✅ |
 | **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** | ⏳ |
 
 ---
