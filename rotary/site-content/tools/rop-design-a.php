@@ -6,7 +6,7 @@
 defined('ABSPATH') || exit;
 
 const ROP_A_LOGO_WHITE = 301;
-const ROP_A_HERO = [246, 271, 243, 48];   // hero slider photos (attachment IDs)
+const ROP_A_HERO = [241, 246, 271, 273, 48];   // 01 MoneyTalks, 05 HPV, 07 & 08 înfrățire, 12 ambulanța   // hero slider photos (attachment IDs)
 const ROP_A_CURRENT = 'toyjoy';   // project shown in the hero card „În desfășurare”
 const ROP_A_PARTNERS = ['opera-nationala-cluj' => 'https://operacluj.ro/', 'teatrul-national-cluj' => 'https://www.teatrulnationalcluj.ro/', 'fc-universitatea-cluj' => 'https://fcucluj.ro/', 'cs-universitatea-cluj' => 'https://u-cluj.ro/', 'leroy-merlin' => 'https://www.leroymerlin.ro/', '18gym' => 'https://18gym.ro/', 'catena' => 'https://www.catena.ro/', 'rotaract-cluj-napoca' => 'https://rotaractcluj.ro/'];
 const ROP_A_FEATURED = ['educatio' => 'Educație', 'toyjoy' => 'Social', 'construim-bucurie' => 'Comunitate', 'ambulanta-sfantul-nectarie' => 'Sănătate · proiect-fanion'];
@@ -106,7 +106,7 @@ function rop_a_home(): string {
 	$card = $active ? '<a class="a-ticket" href="' . esc_url(get_permalink($active[0])) . '"><span class="a-eyebrow">În desfășurare</span><b>' . esc_html($active[0]->post_title) . '</b><span>Află mai mult →</span></a>' : '';
 	$h = '<section class="a-hero" style="--n:' . count(ROP_A_HERO) . '">' . $slides . '<div class="a-wrap a-hero__in">'
 		. '<span class="a-eyebrow">Service Above Self · din 2017</span>'
-		. '<h1>Facem bine <em>împreună</em> cu Clujul.</h1>'
+		. '<h1>Facem bine <em>împreună</em>.</h1>'
 		. '<p>Un club de oameni implicați care transformă concerte, dialoguri și campanii în ajutor concret: cadouri pentru copii, pachete pentru familii, cursuri de prim ajutor.</p>'
 		. '<div class="a-ctas"><a class="a-btn a-btn--gold" href="/proiecte/">Descoperă proiectele</a><a class="a-btn a-btn--line" href="/devino-membru/">Vino la o ședință</a></div></div>' . $card . '</section>';
 
