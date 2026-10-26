@@ -33,3 +33,4 @@ Tel: +40748164530
 | Februarie 2026 | 20 | 900 RON | ✅ 11 Feb |
 | Martie 2026 | 22 | 990 RON | ✅ 19 Mar |
 | Aprilie 2026 | 18 | 810 RON | ✅ 14 Apr |
+| Octombrie 2026 | 22 | 990 RON | ✅ 26 Oct |

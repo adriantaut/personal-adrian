@@ -15,7 +15,7 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 | Iulie | 23 | 13 | 10 (delegații) | 585 RON |
 | August | 21 | 16 | 5 (delegație) | 720 RON |
 | Septembrie | 22 | 22 | 0 | 990 RON |
-| Octombrie | 22 | | | |
+| Octombrie | 22 | 22 | 0 | 990 RON |
 | Noiembrie | 21 | 16 | 4 (delegație) | 720 RON |
 | Decembrie | 23 | 21 | 0 | 945 RON |
 | **TOTAL** | **256** | | | |
@@ -133,12 +133,14 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 ### Octombrie 2026
 
 - **Zile lucrătoare calendar:** 22
-- **Sărbători legale:** 0
-- **Concediu (CO):**
-- **Medical:**
-- **Zile lucrate efectiv:**
-- **Valoare tichete:**
-- **Raportat la contabil:** ☐
+- **Sărbători legale:** 0 (România nu are sărbători legale în octombrie)
+- **Concediu (CO):** 0
+- **Medical:** 0
+- **Delegații:** 0
+- **Zile lucrate efectiv:** 22
+- **Valoare tichete:** 22 × 45 = **990 RON**
+- **Raportat la contabil:** ✅ (26 Oct 2026)
+- **Comandă Edenred:** ✅ (26 Oct 2026)
 
 ---
 
