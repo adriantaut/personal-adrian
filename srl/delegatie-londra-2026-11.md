@@ -41,8 +41,8 @@
 ### Pre-delegație
 
 - [x] **Bilet Breakpoint** ✅ — primit gratis de la ZAR
-- [ ] **Zbor avion** RO ↔ LON — cumpără pe SRL (factură pe firmă)
-- [ ] **Cere factură Hilton** pe DevOps Box SRL (vezi email template în chat) — SRL suportă
+- [x] **Zbor avion** RO ↔ LON — ✅ cumpărat pe SRL (26 Oct 2026)
+- [x] **Factură Hilton** pe DevOps Box SRL — se cere **live, la check-out** (decis 26 Oct)
 - [ ] Clarifică split cazare: câte nopți Hilton (SRL) vs. rest (ZAR)
 - [ ] **Ordin de deplasare** intern SRL (13-18 Nov)
 - [ ] **Plată diurnă** (înainte de plecare — 12 Nov)

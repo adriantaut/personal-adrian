@@ -72,7 +72,7 @@
 | 28 Sep 2026 | 🌐 **Site Rotary Opera** — site nou LIVE pe rotaryoperacluj.ro (vezi `rotary/site.md`) | ✅ |
 | 15 Oct 2026 | 💳 **Stripe** — cont deschis pe rotaryoperacluj@gmail.com, identitate verificată cu Cristian Zaharia | ✅ |
 | 22 Oct 2026 | 💳 **Stripe restricted API key** — obținut | ✅ |
-| ⏳ în lucru | 💳 **Butoane donație pe site** — implementare în sesiunea de site (`rotary/site.md`) | ⏳ |
+| 26 Oct 2026 | 💳 **Butoane donație pe site** — implementate | ✅ |
 | 22 Oct 2026 | 📝 **Proiecte 2025-2026** — contactată **Lavinia Berinde** (text + poze + cifre per proiect) | ✅ |
 | 21 Oct 2026 | 🎂 **Automatizare zile de naștere** — primul email real a plecat (Paula Șeer). Funcționează | ✅ |
 | **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** | ⏳ |
