@@ -138,7 +138,7 @@ Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu D
 | 2 Sep 2026 | Trimis raportul InBody lui Sebastian (confirmat, în tracker) | ✅ |
 | 1 Sep 2026 | App InBody — raport scanat pt tracking | ✅ |
 | Recomandat | Progress photos (aceeași poziție/lumină zilnic) | ⏳ |
-| **25-31 Oct 2026** | 💪 Scanare InBody midterm (checkpoint, nu se punctează) | ⏳ |
+| 🔴 **Joi 29 Oct, 17:00** | 💪 **Scanare InBody midterm** @ Synobis (Str. Iuliu Hațieganu 6), InBody 770. ⚠️ Mie seara: fără alcool, fără antrenament intens. Joi: fără creme pe mâini/picioare, fără bijuterii, stai 5 min în picioare înainte, golește vezica. Compară **SMM 40,0 kg** și **BMR 1878** — nu doar PBF | 🔴 |
 | **25-31 Dec 2026** | 💪 Scanare InBody finală (mergi TÂRZIU) + probele fitness filmate | ⏳ |
 | Prima săpt. Ian 2027 | 💪 Rezultate + premii | — |
 
