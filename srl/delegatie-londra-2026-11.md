@@ -45,7 +45,7 @@
 - [x] **Factură Hilton** pe DevOps Box SRL — se cere **live, la check-out** (decis 26 Oct)
 - [ ] Clarifică split cazare: câte nopți Hilton (SRL) vs. rest (ZAR)
 - [ ] **Ordin de deplasare** intern SRL (**13.11.2026 06:15 → 19.11.2026 02:30**, aliniat cu biletele)
-- [ ] **Plată diurnă** (înainte de plecare — 12 Nov): **525 EUR** = 6 zile × 87,50 EUR
+- [ ] **Plată diurnă** (înainte de plecare — 12 Nov): **510 EUR** = 6 zile × 85 EUR (confirmat CEDEXPERT 9 Nov: max neimpozabil 87,50 EUR/zi)
   - UK: diurnă legală 35 EUR/zi (cat. I) → plafon neimpozabil SRL 2,5× = 87,50 EUR/zi (Cod fiscal art. 76; max 3 salarii de bază/lună cumulat)
   - Durata: 13.11.2026 06:15 (decolare CLJ) → 19.11.2026 02:30 (aterizare CLJ) = 5 zile + 20h15
   - HG 518/1995: fracțiune ≤12h = 50%, >12h = diurnă integrală
