@@ -74,7 +74,7 @@
 | 22 Oct 2026 | 💳 **Stripe restricted API key** — obținut | ✅ |
 | 26 Oct 2026 | 💳 **Butoane donație pe site** — implementate | ✅ |
 | 5 Nov 2026 | 💳 **Mesaj comisioane Stripe vs iaBilet** (500 donații × 100 lei) — trimis pe WhatsApp; recomandare Stripe | ✅ |
-| ⏳ | 💳 **Stripe — reducere ONG** — fără răspuns de la support (follow-up trimis); revino dacă tac | ⏳ |
+| ⏳ | 💳 **Stripe — reducere ONG** — 9 Nov chat cu Will: entitatea ONG e **complet verificată**, dar contul e încă pe preț standard → escaladat pe email la echipa nonprofit (doar rotaryoperacluj@gmail.com). **Dacă nu vine nimic până Mie 11 Nov → reply pe același thread** (+ CC adriantaut@gmail.com) | ⏳ |
 | 22 Oct 2026 | 📝 **Proiecte 2025-2026** — contactată **Lavinia Berinde** (text + poze + cifre per proiect) | ✅ |
 | 21 Oct 2026 | 🎂 **Automatizare zile de naștere** — primul email real a plecat (Paula Șeer). Funcționează | ✅ |
 | **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** | ⏳ |
