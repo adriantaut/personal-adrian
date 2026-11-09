@@ -14,7 +14,7 @@
 | **25 ale fiecărei luni** | **Factura ZAR** (total $11.600): (1) oficială **$4.000** în SmartBill (Revolut, în CA); (2) neoficială **$7.600** în [sheet](https://docs.google.com/spreadsheets/d/12diQb4tKPk-1W90Kz_2FfWg_fiy0RYGrJlrt1R2K8oU/edit) tab **`Factura`** — bump seria în F18 (Z 0002 → Z 0003…) + data în F19 | 🔁 |
 | **Lunar (înainte de stat)** | 🔁 **Raport zile lucrate → CEDEXPERT** + **Comandă Edenred** | 🔁 |
 | 26 Oct 2026 | Pontaj Oct (22 zile) → CEDEXPERT + Comandă Edenred (990 RON) | ✅ |
-| **Noiembrie 2026** | 🟡 Pontaj Nov (**17 zile** — 21 calendar − 1 sărbătoare 30 Nov − 3 delegație Londra 13/16/17) + Edenred (**765 RON**) | ⏳ |
+| **Noiembrie 2026** | 🟡 Pontaj Nov (**16 zile** — 21 calendar − 1 sărbătoare 30 Nov − 4 delegație Londra 13/16/17/18) + Edenred (**720 RON**) | ⏳ |
 | 24 Sep 2026 | Pontaj Sep (22 zile) → CEDEXPERT + Comandă Edenred (990 RON) | ✅ |
 | 21 Aug 2026 | Pontaj August (16 zile) → CEDEXPERT + Comandă Edenred (720 RON) | ✅ |
 | ✅ 11 Aug 2026 | Discuție CEDEXPERT: aprobare tehnică, redirect la avocat | ✅ |
@@ -103,9 +103,9 @@
 | **Mar 15 Dec 2026** | 🏠 Manu: **termen semnare Promisiune bilaterală** (60 zile calendaristice de la 16 Oct). ⚠️ Art. 4.4: dacă nu se semnează „în forma propusă de Dezvoltator", se pierd cei 9.025 EUR | ⏳ |
 | **2028** (la predare apartament) | 🚨 Manu: **notificare opțiune TAXARE închiriere** la ANAF, înainte de prima chirie (fără ea se pierd ~39.000 EUR) | ⏳ |
 | **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — descompunere 186.054,50 + curs de conversie | ✅ |
-| **13-17 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (13.11 10:00 → 17.11 20:00, vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
+| **13-18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (zbor CLJ 13.11 06:15 → retur aterizare CLJ 19.11 02:30, Wizz GPJ33Q; vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
 | 18 Aug 2026 | 🎟️ Bilet Solana Breakpoint — primit gratis de la ZAR | ✅ |
-| **12 Nov 2026** | 💷 Plată diurnă Londra: **4,5 zile × 40 GBP = 180 GBP** (13.11 10:00 → 17.11 20:00 = 4 zile + 10h; fracțiune ≤12h = 50%) | ⏳ |
+| **12 Nov 2026** | 💷 Plată diurnă Londra: **6 zile × 40 GBP = 240 GBP** (13.11 06:15 → 19.11 02:30 = 5 zile + 20h15; fracțiune >12h = zi întreagă) | ⏳ |
 
 ---
 

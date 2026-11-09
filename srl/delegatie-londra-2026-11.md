@@ -44,10 +44,11 @@
 - [x] **Zbor avion** RO ↔ LON — ✅ cumpărat pe SRL (26 Oct 2026)
 - [x] **Factură Hilton** pe DevOps Box SRL — se cere **live, la check-out** (decis 26 Oct)
 - [ ] Clarifică split cazare: câte nopți Hilton (SRL) vs. rest (ZAR)
-- [ ] **Ordin de deplasare** intern SRL (13.11.2026 10:00 → 17.11.2026 20:00)
-- [ ] **Plată diurnă** (înainte de plecare — 12 Nov): **180 GBP** = 4,5 zile × 40 GBP
-  - Durata: 13.11.2026 10:00 → 17.11.2026 20:00 = 106h = 4 zile + 10h
-  - HG 518/1995: fracțiune ≤12h = 50% din diurnă, >12h = diurnă integrală
+- [ ] **Ordin de deplasare** intern SRL (**13.11.2026 06:15 → 19.11.2026 02:30**, aliniat cu biletele)
+- [ ] **Plată diurnă** (înainte de plecare — 12 Nov): **240 GBP** = 6 zile × 40 GBP
+  - Durata: 13.11.2026 06:15 (decolare CLJ) → 19.11.2026 02:30 (aterizare CLJ) = 5 zile + 20h15
+  - HG 518/1995: fracțiune ≤12h = 50%, >12h = diurnă integrală
+  - Zboruri Wizz, confirmare **GPJ33Q**: CLJ→LTN 13.11 06:15 · LTN→CLJ 18.11 21:50 UTC
 
 ### Post-delegație
 

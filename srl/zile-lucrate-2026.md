@@ -16,7 +16,7 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 | August | 21 | 16 | 5 (delegație) | 720 RON |
 | Septembrie | 22 | 22 | 0 | 990 RON |
 | Octombrie | 22 | 22 | 0 | 990 RON |
-| Noiembrie | 21 | 17 | 3 (delegație) | 765 RON |
+| Noiembrie | 21 | 16 | 4 (delegație) | 720 RON |
 | Decembrie | 23 | 21 | 0 | 945 RON |
 | **TOTAL** | **256** | | | |
 
@@ -150,9 +150,9 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 - **Sărbători legale:** 1 (30 Nov - Sf. Andrei, **Luni**). *1 Dec e în Decembrie, nu aici.*
 - **Concediu (CO):**
 - **Medical:**
-- **Delegații:** 3 zile lucrătoare — Londra / Solana Breakpoint (13.11 10:00 → 17.11 20:00): Vin 13, Lun 16, Mar 17
-- **Zile lucrate efectiv (Edenred):** 17
-- **Valoare tichete:** 17 × 45 = **765 RON**
+- **Delegații:** 4 zile lucrătoare — Londra / Solana Breakpoint (13.11 06:15 → 19.11 02:30): Vin 13, Lun 16, Mar 17, Mie 18
+- **Zile lucrate efectiv (Edenred):** 16
+- **Valoare tichete:** 16 × 45 = **720 RON**
 - **Raportat la contabil:** ☐
 
 ---
