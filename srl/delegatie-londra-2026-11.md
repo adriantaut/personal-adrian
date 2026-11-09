@@ -44,8 +44,10 @@
 - [x] **Zbor avion** RO ↔ LON — ✅ cumpărat pe SRL (26 Oct 2026)
 - [x] **Factură Hilton** pe DevOps Box SRL — se cere **live, la check-out** (decis 26 Oct)
 - [ ] Clarifică split cazare: câte nopți Hilton (SRL) vs. rest (ZAR)
-- [ ] **Ordin de deplasare** intern SRL (13-18 Nov)
-- [ ] **Plată diurnă** (înainte de plecare — 12 Nov)
+- [ ] **Ordin de deplasare** intern SRL (13.11.2026 10:00 → 17.11.2026 20:00)
+- [ ] **Plată diurnă** (înainte de plecare — 12 Nov): **180 GBP** = 4,5 zile × 40 GBP
+  - Durata: 13.11.2026 10:00 → 17.11.2026 20:00 = 106h = 4 zile + 10h
+  - HG 518/1995: fracțiune ≤12h = 50% din diurnă, >12h = diurnă integrală
 
 ### Post-delegație
 
