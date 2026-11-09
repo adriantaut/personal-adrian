@@ -105,7 +105,7 @@
 | **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — descompunere 186.054,50 + curs de conversie | ✅ |
 | **13-18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (zbor CLJ 13.11 06:15 → retur aterizare CLJ 19.11 02:30, Wizz GPJ33Q; vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
 | 18 Aug 2026 | 🎟️ Bilet Solana Breakpoint — primit gratis de la ZAR | ✅ |
-| **Azi, 9 Nov 2026** (oricând înainte de 13 Nov) | 💷 Plată diurnă Londra: **6 zile × 85 EUR = 510 EUR** (confirmat contabilă 9 Nov: max neimpozabil 87,50 EUR/zi). 13.11 06:15 → 19.11 02:30 = 140,25h | ⏳ |
+| 9 Nov 2026 | 💷 Diurnă Londra **plătită**: 510 EUR (6 × 85) @ 5,34 = **2.723,40 lei** | ✅ |
 
 ---
 
