@@ -41,7 +41,7 @@
 ### Pre-delegație
 
 - [x] **Bilet Breakpoint** ✅ — primit gratis de la ZAR
-- [x] **Zbor avion** RO ↔ LON — ✅ cumpărat pe SRL (26 Oct 2026)
+- [x] **Zbor avion** RO ↔ LON — ✅ cumpărat pe SRL (26 Oct 2026): **615,95 lei** (Wizz, GPJ33Q)
 - [x] **Factură Hilton** pe DevOps Box SRL — se cere **live, la check-out** (decis 26 Oct)
   - Plată Hilton: **561,85 GBP** pe 18 Aug 2026 @ BNR 6,1296 = **3.443,92 lei**
 - [ ] Clarifică split cazare: câte nopți Hilton (SRL) vs. rest (ZAR)
@@ -106,3 +106,13 @@ Echivalent RON (curs BNR ~6,14): **~1.475 RON**
 - Diurna externă 40 GBP/zi = **neimpozabilă**
 - Post-Brexit: TVA UK **nu e recuperabil** pentru firme RO (dar rămâne cheltuială deductibilă)
 - Verifică cu CEDEXPERT dacă vor înregistra la cursul BNR din data plății sau altă dată
+
+## 💰 Costuri suportate de SRL
+
+| Cheltuială | Original | RON |
+|---|---|---|
+| Zbor Wizz CLJ ↔ LTN (GPJ33Q) | — | 615,95 |
+| Diurnă 6 zile × 85 EUR (plătită 9 Nov @ 5,34) | 510 EUR | 2.723,40 |
+| Hilton (plătit 18 Aug @ BNR 6,1296) | 561,85 GBP | 3.443,92 |
+| **TOTAL** | | **6.783,27** |
+
