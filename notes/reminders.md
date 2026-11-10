@@ -143,7 +143,7 @@ Scoring 70/15/15 (body fat + 2 evenimente fitness) · măsurare **InBody** (nu D
 | 1 Sep 2026 | App InBody — raport scanat pt tracking | ✅ |
 | Recomandat | Progress photos (aceeași poziție/lumină zilnic) | ⏳ |
 | 29 Oct 2026 | 💪 **InBody midterm** — PBF **21,8 → 18,8%** (−13,8% relativ), BFM −3,0 kg, SMM +0,9 kg ✅ | ✅ |
-| 🔴 **de decis ACUM** | 💪 **Scanare finală — sunt în Vietnam 25-31 Dec.** Scrie-i lui Sebastian: (A) Cluj 10-11 Dec pe același InBody 770 sau (B) InBody 770 în Da Nang 28-30 Dec. Elite Fitness DN întrebat pe Messenger 9 Nov (⏳ răspuns; backup +84 236 7308 088), apoi Vinmec. Vezi `personal/bfc-2026.md` | 🔴 |
+| 🔴 **înainte de 13 Nov** | 💪 **Scanare finală** — Elite Fitness DN are doar **InBody 370** (gratuit, dar alt model). → Scrie-i lui Sebastian: propun **Cluj 10-11 Dec pe 770** + 370 din DN ca info extra. Apoi programează Synobis 10-11 Dec după-amiaza. Vezi `personal/bfc-2026.md` | 🔴 |
 | **25-31 Dec 2026** | 💪 Scanare InBody finală (mergi TÂRZIU) + probele fitness filmate | ⏳ |
 | Prima săpt. Ian 2027 | 💪 Rezultate + premii | — |
 
