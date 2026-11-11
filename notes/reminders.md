@@ -40,7 +40,7 @@
 | 16 Apr 2026 | Comandă Edenred - tichete masă Aprilie (18 zile × 45 = 810 RON) | ✅ |
 | 25 Mar 2026 | Transferat dividende | ✅ |
 | Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
-| ⏳ **WIP — verificat 20 Oct: ÎN PROCESARE** | **Majorare capital social 200 → 5.000 lei** pe `myportal.onrc.ro`. Virat 4.800 lei ✅, documente semnate ✅, declarație 858 ✅. Revino pentru rezoluție + eventuale cereri de completare. Vezi `srl/majorare-capital-social.md` | ⏳ |
+| ⏳ **WIP — verificat zilnic; 11 Nov: „În procesare în backoffice”** | **Majorare capital social 200 → 5.000 lei** pe `myportal.onrc.ro` (depus 15 Oct). Virat 4.800 lei ✅, documente semnate ✅, declarație 858 ✅. Dacă e tot așa după 19 Nov → telefon ORCT Cluj | ⏳ |
 | 26 Iun 2026 | Factură DropShot Coffee | ✅ |
 | 6 Iul 2026 | Plată diurnă delegație București (402,5 RON) | ✅ |
 | 8-14 Iul 2026 | Delegație București (bonuri trimise la CEDEXPERT ✅) | ✅ |
@@ -74,12 +74,12 @@
 | 22 Oct 2026 | 💳 **Stripe restricted API key** — obținut | ✅ |
 | 26 Oct 2026 | 💳 **Butoane donație pe site** — implementate | ✅ |
 | 5 Nov 2026 | 💳 **Mesaj comisioane Stripe vs iaBilet** (500 donații × 100 lei) — trimis pe WhatsApp; recomandare Stripe | ✅ |
-| ⏳ | 💳 **Stripe — reducere ONG** — 9 Nov chat cu Will: entitatea ONG e **complet verificată**, dar contul e încă pe preț standard → escaladat pe email la echipa nonprofit (doar rotaryoperacluj@gmail.com). **Dacă nu vine nimic până Mie 11 Nov → reply pe același thread** (+ CC adriantaut@gmail.com) | ⏳ |
+| ⏳ | 💳 **Stripe — reducere ONG** (acct_1UKfg7QZeDLt2UqF) — 9 Nov escaladat; **11 Nov: follow-up #2** pe același thread (rotaryoperacluj@gmail.com + CC adriantaut@gmail.com). ⚠️ Biletele (ex. ToyJoy) intră în cei 20% non-donații → riscă pragul de 80% donații | ⏳ |
 | 22 Oct 2026 | 📝 **Proiecte 2025-2026** — contactată **Lavinia Berinde** (text + poze + cifre per proiect) | ✅ |
 | 21 Oct 2026 | 🎂 **Automatizare zile de naștere** — primul email real a plecat (Paula Șeer). Funcționează | ✅ |
 | **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** | ⏳ |
 | ⏳ după confirmare | 🎁 **ToyJoy pe site** — când se confirmă data (13 Dec 18:00, Auditorium Maximum, 150 lei) + linkul de bilete (Stripe nostru vs Rotaract SAMVS) → public pe /proiecte/toyjoy/ + card „În desfășurare”. Beneficiari **generic** (~60 copii, 2 case de tip familial, fără nume) | ⏳ |
-| **Mie 11 / 18 / 25 Nov 2026** | 📸 **Sesiune foto pt site** (fotograf Daniel, în cadrul ședinței) — înscrie-te în tabel; pe 18 te întorci din Londra → 11 sau 25 | ⏳ |
+| **Mie 11 Nov 2026, 18:30** | 📸 **Sesiune foto pt site** (fotograf Daniel, la ședință) — **azi** | ⏳ |
 
 ---
 
