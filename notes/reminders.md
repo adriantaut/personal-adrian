@@ -79,7 +79,7 @@
 | 21 Oct 2026 | 🎂 **Automatizare zile de naștere** — primul email real a plecat (Paula Șeer). Funcționează | ✅ |
 | **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** | ⏳ |
 | ⏳ după confirmare | 🎁 **ToyJoy pe site** — când se confirmă data (13 Dec 18:00, Auditorium Maximum, 150 lei) + linkul de bilete (Stripe nostru vs Rotaract SAMVS) → public pe /proiecte/toyjoy/ + card „În desfășurare”. Beneficiari **generic** (~60 copii, 2 case de tip familial, fără nume) | ⏳ |
-| **Mie 11 Nov 2026, 18:30** | 📸 **Sesiune foto pt site** (fotograf Daniel, la ședință) — **azi** | ⏳ |
+| 11 Nov 2026 | 📸 **Sesiune foto pt site** (fotograf Daniel, la ședință) — făcută | ✅ |
 
 ---
 
