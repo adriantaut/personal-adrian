@@ -3,7 +3,7 @@
 **Perioada:** 13 → 18 Noiembrie 2026 (6 zile calendaristice)
 **Destinație:** Londra, Marea Britanie
 **Motivare:** **Solana Breakpoint 2026** — vizită de lucru / conferință tehnică flagship pentru ecosistemul Solana (relevantă direct pentru clientul principal ZAR)
-**Status:** ⏳ În pregătire
+**Status:** ✅ Efectuată 13-19 Nov — rămâne trimiterea la CEDEXPERT
 
 ## Structura delegației
 
@@ -44,8 +44,8 @@
 - [x] **Zbor avion** RO ↔ LON — ✅ cumpărat pe SRL (26 Oct 2026): **615,95 lei** (Wizz, GPJ33Q)
 - [x] **Factură Hilton** pe DevOps Box SRL — se cere **live, la check-out** (decis 26 Oct)
   - Plată Hilton: **561,85 GBP** pe 18 Aug 2026 @ BNR 6,1296 = **3.443,92 lei**
-- [ ] Clarifică split cazare: câte nopți Hilton (SRL) vs. rest (ZAR)
-- [ ] **Ordin de deplasare** intern SRL (**13.11.2026 06:15 → 19.11.2026 02:30**, aliniat cu biletele)
+- [x] Split cazare clarificat (19 Nov)
+- [x] **Ordin de deplasare** intern SRL (**13.11.2026 06:15 → 19.11.2026 02:30**, aliniat cu biletele)
 - [x] **Plată diurnă** — plătită 9 Nov: **510 EUR** @ 5,34 = 2.723,40 lei = 6 zile × 85 EUR (confirmat CEDEXPERT 9 Nov: max neimpozabil 87,50 EUR/zi)
   - UK: diurnă legală 35 EUR/zi (cat. I) → plafon neimpozabil SRL 2,5× = 87,50 EUR/zi (Cod fiscal art. 76; max 3 salarii de bază/lună cumulat)
   - Durata: 13.11.2026 06:15 (decolare CLJ) → 19.11.2026 02:30 (aterizare CLJ) = 5 zile + 20h15
@@ -54,9 +54,9 @@
 
 ### Post-delegație
 
-- [ ] Centralizare bonuri/facturi (bilet conferință, cazare, transport, mese)
+- [x] Centralizare bonuri/facturi (19 Nov) — factura Hilton VAT 484880 (13-15 Nov, £561,85) pusă în original
 - [ ] Trimite la CEDEXPERT pentru înregistrare pe firmă
-- [ ] Notă de participare (memo intern, 1 paragraf despre ce ai învățat/networking)
+- [x] Notă de participare (19 Nov)
 
 ---
 

@@ -103,7 +103,8 @@
 | **Mar 15 Dec 2026** | 🏠 Manu: **termen semnare Promisiune bilaterală** (60 zile calendaristice de la 16 Oct). ⚠️ Art. 4.4: dacă nu se semnează „în forma propusă de Dezvoltator", se pierd cei 9.025 EUR | ⏳ |
 | **2028** (la predare apartament) | 🚨 Manu: **notificare opțiune TAXARE închiriere** la ANAF, înainte de prima chirie (fără ea se pierd ~39.000 EUR) | ⏳ |
 | **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — descompunere 186.054,50 + curs de conversie | ✅ |
-| **13-18 Nov 2026** | ✈️ **Delegație Londra — Solana Breakpoint** (zbor CLJ 13.11 06:15 → retur aterizare CLJ 19.11 02:30, Wizz GPJ33Q; vezi `srl/delegatie-londra-2026-11.md`) | ⏳ |
+| 19 Nov 2026 | ✈️ **Delegație Londra** — efectuată; OD, split cazare, centralizare acte, notă participare ✅. Cost SRL 6.783,27 lei | ✅ |
+| ⏳ | ✈️ Londra: **trimite dosarul la CEDEXPERT** (OD + diurnă + zbor + factura Hilton 484880 + notă participare) | ⏳ |
 | 18 Aug 2026 | 🎟️ Bilet Solana Breakpoint — primit gratis de la ZAR | ✅ |
 | 9 Nov 2026 | 💷 Diurnă Londra **plătită**: 510 EUR (6 × 85) @ 5,34 = **2.723,40 lei** | ✅ |
 
