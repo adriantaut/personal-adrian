@@ -39,7 +39,7 @@
 | 14 Apr 2026 | Trimite la CEDEXPERT: pontaj Aprilie + Tabel Paște | ✅ |
 | 16 Apr 2026 | Comandă Edenred - tichete masă Aprilie (18 zile × 45 = 810 RON) | ✅ |
 | 25 Mar 2026 | Transferat dividende | ✅ |
-| Noiembrie 2026 | Decide tichete cadou Crăciun (300 lei) | ⏳ |
+| Noiembrie 2026 | 🎁 Tichete cadou Crăciun (300 lei) — **în discuție cu CEDEXPERT** (mail 23 Nov) | ⏳ |
 | ⏳ **WIP — verificat zilnic; 11 Nov: „În procesare în backoffice”** | **Majorare capital social 200 → 5.000 lei** pe `myportal.onrc.ro` (depus 15 Oct). Virat 4.800 lei ✅, documente semnate ✅, declarație 858 ✅. Dacă e tot așa după 19 Nov → telefon ORCT Cluj | ⏳ |
 | 26 Iun 2026 | Factură DropShot Coffee | ✅ |
 | 6 Iul 2026 | Plată diurnă delegație București (402,5 RON) | ✅ |
@@ -77,7 +77,7 @@
 | ⏳ | 💳 **Stripe — reducere ONG** (acct_1UKfg7QZeDLt2UqF) — 9 Nov escaladat; **11 Nov: follow-up #2** pe același thread (rotaryoperacluj@gmail.com + CC adriantaut@gmail.com). ⚠️ Biletele (ex. ToyJoy) intră în cei 20% non-donații → riscă pragul de 80% donații | ⏳ |
 | 22 Oct 2026 | 📝 **Proiecte 2025-2026** — contactată **Lavinia Berinde** (text + poze + cifre per proiect) | ✅ |
 | 21 Oct 2026 | 🎂 **Automatizare zile de naștere** — primul email real a plecat (Paula Șeer). Funcționează | ✅ |
-| **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** | ⏳ |
+| **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** — de confirmat că s-a ținut | ⏳ |
 | ⏳ după confirmare | 🎁 **ToyJoy pe site** — când se confirmă data (13 Dec 18:00, Auditorium Maximum, 150 lei) + linkul de bilete (Stripe nostru vs Rotaract SAMVS) → public pe /proiecte/toyjoy/ + card „În desfășurare”. Beneficiari **generic** (~60 copii, 2 case de tip familial, fără nume) | ⏳ |
 | 11 Nov 2026 | 📸 **Sesiune foto pt site** (fotograf Daniel, la ședință) — făcută | ✅ |
 
@@ -104,7 +104,7 @@
 | **2028** (la predare apartament) | 🚨 Manu: **notificare opțiune TAXARE închiriere** la ANAF, înainte de prima chirie (fără ea se pierd ~39.000 EUR) | ⏳ |
 | **Lun 7 Sep 2026** | 🏠 Manu: revine șeful Cristianei — descompunere 186.054,50 + curs de conversie | ✅ |
 | 19 Nov 2026 | ✈️ **Delegație Londra** — efectuată; OD, split cazare, centralizare acte, notă participare ✅. Cost SRL 6.783,27 lei | ✅ |
-| ⏳ | ✈️ Londra: **trimite dosarul la CEDEXPERT** (OD + diurnă + zbor + factura Hilton 484880 + notă participare) | ⏳ |
+| 23 Nov 2026 | ✈️ Londra: dosar trimis la CEDEXPERT | ✅ |
 | 18 Aug 2026 | 🎟️ Bilet Solana Breakpoint — primit gratis de la ZAR | ✅ |
 | 9 Nov 2026 | 💷 Diurnă Londra **plătită**: 510 EUR (6 × 85) @ 5,34 = **2.723,40 lei** | ✅ |
 
