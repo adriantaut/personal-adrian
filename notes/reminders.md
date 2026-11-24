@@ -39,7 +39,7 @@
 | 14 Apr 2026 | Trimite la CEDEXPERT: pontaj Aprilie + Tabel Paște | ✅ |
 | 16 Apr 2026 | Comandă Edenred - tichete masă Aprilie (18 zile × 45 = 810 RON) | ✅ |
 | 25 Mar 2026 | Transferat dividende | ✅ |
-| **Decembrie 2026 (cu pontajul)** | 🎁 **Cadou Crăciun 300 lei** (ca la Paște: bani prin transfer, explicație „cadou Crăciun”) → **tabel nominal** (nume, prenume, nr. copii minori, sumă) trimis **împreună cu pontajul pe decembrie** (mail CEDEXPERT 23 Nov). Până la 300 lei/salariat + 300 lei/copil minor fără taxe | ⏳ |
+| 🔴 **10-11 Dec 2026** (înainte de Vietnam) | 🎁 **Cadou Crăciun 300 lei** (ca la Paște: bani prin transfer, explicație „cadou Crăciun”) → **tabel nominal** (nume, prenume, nr. copii minori, sumă) trimis **împreună cu pontajul pe decembrie (făcut în avans)** + comanda Edenred dec (mail CEDEXPERT 23 Nov). Până la 300 lei/salariat + 300 lei/copil minor fără taxe | ⏳ |
 | ⏳ **WIP — verificat zilnic; 11 Nov: „În procesare în backoffice”** | **Majorare capital social 200 → 5.000 lei** pe `myportal.onrc.ro` (depus 15 Oct). Virat 4.800 lei ✅, documente semnate ✅, declarație 858 ✅. Dacă e tot așa după 19 Nov → telefon ORCT Cluj | ⏳ |
 | 26 Iun 2026 | Factură DropShot Coffee | ✅ |
 | 6 Iul 2026 | Plată diurnă delegație București (402,5 RON) | ✅ |
