@@ -161,11 +161,12 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 
 - **Zile lucrătoare calendar:** 23
 - **Sărbători legale:** 2 (1 Dec - Ziua Națională, **Marți**; 25 Dec - Crăciun, **Vineri**). *26 Dec cade sâmbătă → nu reduce.*
-- **Concediu (CO):**
-- **Medical:**
+- **Concediu (CO):** 0 (din 12 Dec lucrez remote din Vietnam — nu e concediu, confirmat 24 Nov)
+- **Medical:** 0
+- **Delegații:** 0
 - **Zile lucrate efectiv:** 21
 - **Valoare tichete:** 21 × 45 = **945 RON**
-- **Raportat la contabil:** ☐
+- **Raportat la contabil:** ☐ — se trimite în avans pe **10 Dec**, împreună cu tabelul cadou Crăciun
 
 ---
 
