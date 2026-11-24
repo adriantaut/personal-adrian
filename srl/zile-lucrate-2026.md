@@ -153,7 +153,8 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 - **Delegații:** 4 zile lucrătoare — Londra / Solana Breakpoint (13.11 06:15 → 19.11 02:30): Vin 13, Lun 16, Mar 17, Mie 18
 - **Zile lucrate efectiv (Edenred):** 16
 - **Valoare tichete:** 16 × 45 = **720 RON**
-- **Raportat la contabil:** ☐
+- **Raportat la contabil:** ✅ (24 Nov 2026)
+- **Comandă Edenred:** ☐ (720 RON)
 
 ---
 
