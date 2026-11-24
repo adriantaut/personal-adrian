@@ -10,7 +10,7 @@
 | 16 Apr 2026 | Actualizare cod CAEN la Rev3 - confirmare primită ONRC | ✅ |
 | 30 Aug 2026 | Factura ZAR August — încasată integral (Revolut $4.000 ✅ + Wallet $7.600 ✅) | ✅ |
 | 30 Sep 2026 | Factura ZAR Septembrie — încasată integral (Revolut $4.000 ✅ + Wallet $7.600 ✅) | ✅ |
-| 26 Oct 2026 | Factura ZAR Octombrie — ambele trimise la finance@zarpay.app (SmartBill $4.000 + Z 0003 $7.600). **Aștept încasarea** | ⏳ |
+| 24 Nov 2026 | Factura ZAR Octombrie — **finance a ratat plata**, confirmat 24 Nov; plătesc acum Oct + Nov împreună | ⏳ |
 | 24 Nov 2026 | Factura ZAR Noiembrie — trimise la finance@zarpay.app (F0060 $4.000 = 19.501,20 lei + Z 0004 $7.600). **Aștept încasarea** | ⏳ |
 | **25 ale fiecărei luni** | **Factura ZAR** (total $11.600): (1) oficială **$4.000** în SmartBill (Revolut, în CA); (2) neoficială **$7.600** în [sheet](https://docs.google.com/spreadsheets/d/12diQb4tKPk-1W90Kz_2FfWg_fiy0RYGrJlrt1R2K8oU/edit) tab **`Factura`** — bump seria în F18 (Z 0002 → Z 0003…) + data în F19 | 🔁 |
 | **Lunar (înainte de stat)** | 🔁 **Raport zile lucrate → CEDEXPERT** + **Comandă Edenred** | 🔁 |
@@ -41,7 +41,7 @@
 | 16 Apr 2026 | Comandă Edenred - tichete masă Aprilie (18 zile × 45 = 810 RON) | ✅ |
 | 25 Mar 2026 | Transferat dividende | ✅ |
 | 🔴 **Joi 10 Dec 2026** (înainte de Vietnam) | 🎁 **Cadou Crăciun 300 lei**: (1) transfer 300 lei, explicație „cadou Crăciun” (2) trimite **tabel nominal gata** (`Downloads-Drive/DevOps Box/2026_12_Tabel_Craciun.pdf`, datat 10.12, 0 copii) **împreună cu pontajul pe decembrie** + comanda Edenred dec | ⏳ |
-| ⏳ **WIP — verificat zilnic; 11 Nov: „În procesare în backoffice”** | **Majorare capital social 200 → 5.000 lei** pe `myportal.onrc.ro` (depus 15 Oct). Virat 4.800 lei ✅, documente semnate ✅, declarație 858 ✅. Dacă e tot așa după 19 Nov → telefon ORCT Cluj | ⏳ |
+| ⏳ **WIP — 24 Nov: tot „În procesare”** (depus 15 Oct, 5,5 săpt.) | **Majorare capital social 200 → 5.000 lei** pe `myportal.onrc.ro`. Virat 4.800 lei ✅, documente ✅, declarație 858 ✅. → telefon ORCT Cluj | ⏳ |
 | 26 Iun 2026 | Factură DropShot Coffee | ✅ |
 | 6 Iul 2026 | Plată diurnă delegație București (402,5 RON) | ✅ |
 | 8-14 Iul 2026 | Delegație București (bonuri trimise la CEDEXPERT ✅) | ✅ |
@@ -78,7 +78,7 @@
 | ⏳ | 💳 **Stripe — reducere ONG** (acct_1UKfg7QZeDLt2UqF) — 9 Nov escaladat; **11 Nov: follow-up #2** pe același thread (rotaryoperacluj@gmail.com + CC adriantaut@gmail.com). ⚠️ Biletele (ex. ToyJoy) intră în cei 20% non-donații → riscă pragul de 80% donații | ⏳ |
 | 22 Oct 2026 | 📝 **Proiecte 2025-2026** — contactată **Lavinia Berinde** (text + poze + cifre per proiect) | ✅ |
 | 21 Oct 2026 | 🎂 **Automatizare zile de naștere** — primul email real a plecat (Paula Șeer). Funcționează | ✅ |
-| **20-22 Nov 2026** | 🏕️ **Teambuilding Rotary** — de confirmat că s-a ținut | ⏳ |
+| 20-22 Nov 2026 | 🏕️ Teambuilding Rotary — nu am participat | ✅ |
 | ⏳ după confirmare | 🎁 **ToyJoy pe site** — când se confirmă data (13 Dec 18:00, Auditorium Maximum, 150 lei) + linkul de bilete (Stripe nostru vs Rotaract SAMVS) → public pe /proiecte/toyjoy/ + card „În desfășurare”. Beneficiari **generic** (~60 copii, 2 case de tip familial, fără nume) | ⏳ |
 | 11 Nov 2026 | 📸 **Sesiune foto pt site** (fotograf Daniel, la ședință) — făcută | ✅ |
 
