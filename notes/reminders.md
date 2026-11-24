@@ -12,6 +12,7 @@
 | 30 Sep 2026 | Factura ZAR Septembrie — încasată integral (Revolut $4.000 ✅ + Wallet $7.600 ✅) | ✅ |
 | 24 Nov 2026 | Factura ZAR Octombrie — **finance a ratat plata**, confirmat 24 Nov; plătesc acum Oct + Nov împreună | ⏳ |
 | 24 Nov 2026 | Factura ZAR Noiembrie — trimise la finance@zarpay.app (F0060 $4.000 = 19.501,20 lei + Z 0004 $7.600). **Aștept încasarea** | ⏳ |
+| 24 Nov 2026 | 🎉 **Mărire ZAR de la 1 Dec 2026**: $14.583/lună ($175K/an), opțiuni +17.990 → total 87.939 @ $0,37 (vesting 48 luni, cliff 12), token grant 50% din pro-rata (36 luni, cliff 12). **Factura din Dec = $14.583.** Split propus: $4.000 SmartBill (neschimbat, ține CA sub plafon) + **$10.583 wallet** → de confirmat cu finance + actualizat formatul emailului | ⏳ |
 | **25 ale fiecărei luni** | **Factura ZAR** (total $11.600): (1) oficială **$4.000** în SmartBill (Revolut, în CA); (2) neoficială **$7.600** în [sheet](https://docs.google.com/spreadsheets/d/12diQb4tKPk-1W90Kz_2FfWg_fiy0RYGrJlrt1R2K8oU/edit) tab **`Factura`** — bump seria în F18 (Z 0002 → Z 0003…) + data în F19 | 🔁 |
 | **Lunar (înainte de stat)** | 🔁 **Raport zile lucrate → CEDEXPERT** + **Comandă Edenred** | 🔁 |
 | 26 Oct 2026 | Pontaj Oct (22 zile) → CEDEXPERT + Comandă Edenred (990 RON) | ✅ |
