@@ -154,7 +154,7 @@ Tracking pentru tichete de masă Edenred (45 RON/zi).
 - **Zile lucrate efectiv (Edenred):** 16
 - **Valoare tichete:** 16 × 45 = **720 RON**
 - **Raportat la contabil:** ✅ (24 Nov 2026)
-- **Comandă Edenred:** ☐ (720 RON)
+- **Comandă Edenred:** ✅ (24 Nov 2026, proformă plătită — 720 RON)
 
 ---
 
