@@ -76,7 +76,7 @@
 | 22 Oct 2026 | 💳 **Stripe restricted API key** — obținut | ✅ |
 | 26 Oct 2026 | 💳 **Butoane donație pe site** — implementate | ✅ |
 | 5 Nov 2026 | 💳 **Mesaj comisioane Stripe vs iaBilet** (500 donații × 100 lei) — trimis pe WhatsApp; recomandare Stripe | ✅ |
-| ⏳ | 💳 **Stripe — reducere ONG** (acct_1UKfg7QZeDLt2UqF) — 9 Nov escaladat; 11 Nov follow-up #2; **25 Nov: ofertă de la Thomas (beta): 1,2% + 1 RON EEA (toate brandurile), 2,5% UK, 3,25% non-EEA, dispută 100 RON → de trimis: documente fiscale (link filepickup din e-mail) + confirmare ≥80% donații + opt-in**. ⚠️ Biletele (ex. ToyJoy) intră în cei 20% non-donații → riscă pragul de 80% donații | ⏳ |
+| ⏳ | 💳 **Stripe — reducere ONG** (acct_1UKfg7QZeDLt2UqF) — 9 Nov escaladat; 11 Nov follow-up #2; **25 Nov: ofertă de la Thomas (beta): 1,2% + 1 RON EEA (toate brandurile), 2,5% UK, 3,25% non-EEA, dispută 100 RON → **25 Nov: trimis** extras RUB ANAF (filepickup) + confirmare ≥80% donații + opt-in. Așteptăm aplicarea (≤72h lucrătoare) → verifică în Stripe Settings → Billing/Pricing**. ⚠️ Biletele (ex. ToyJoy) intră în cei 20% non-donații → riscă pragul de 80% donații | ⏳ |
 | 22 Oct 2026 | 📝 **Proiecte 2025-2026** — contactată **Lavinia Berinde** (text + poze + cifre per proiect) | ✅ |
 | 21 Oct 2026 | 🎂 **Automatizare zile de naștere** — primul email real a plecat (Paula Șeer). Funcționează | ✅ |
 | 20-22 Nov 2026 | 🏕️ Teambuilding Rotary — nu am participat | ✅ |
