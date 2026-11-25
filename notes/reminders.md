@@ -80,7 +80,8 @@
 | 22 Oct 2026 | 📝 **Proiecte 2025-2026** — contactată **Lavinia Berinde** (text + poze + cifre per proiect) | ✅ |
 | 21 Oct 2026 | 🎂 **Automatizare zile de naștere** — primul email real a plecat (Paula Șeer). Funcționează | ✅ |
 | 20-22 Nov 2026 | 🏕️ Teambuilding Rotary — nu am participat | ✅ |
-| ⏳ după confirmare | 🎁 **ToyJoy pe site** — când se confirmă data (13 Dec 18:00, Auditorium Maximum, 150 lei) + linkul de bilete (Stripe nostru vs Rotaract SAMVS) → public pe /proiecte/toyjoy/ + card „În desfășurare”. Beneficiari **generic** (~60 copii, 2 case de tip familial, fără nume) | ⏳ |
+| 25 Nov 2026 | 🎁 **ToyJoy pe site** — casetă concert (13 Dec 18:00, Auditorium Maximum, 150 lei) + buton Stripe (linkul e pe contul Rotaract SAMVS) pe /proiecte/toyjoy/ | ✅ |
+| **Lun 14 Dec 2026** | 🎁 **ToyJoy după concert** — scoate caseta de concert de pe /proiecte/toyjoy/ și adaug-o ca „Ediția 2026” (cifre + poze de la eveniment) | ⏳ |
 | 11 Nov 2026 | 📸 **Sesiune foto pt site** (fotograf Daniel, la ședință) — făcută | ✅ |
 
 ---
