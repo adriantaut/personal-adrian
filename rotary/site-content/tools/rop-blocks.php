@@ -225,7 +225,7 @@ body.admin-bar header.wp-block-template-part{top:-16px}
 .rop-steps b{font-family:var(--wp--preset--font-family--literata);font-size:1.2rem;color:var(--wp--preset--color--accent-4)}
 .rop-steps span{color:var(--wp--preset--color--contrast)}
 /* project pages: justified text with Romanian hyphenation (desktop only) */
-@media (min-width:782px){body.single-proiect .wp-block-post-content p,body.single-proiect .rop-edition__text p{text-align:justify;hyphens:auto;-webkit-hyphens:auto;hyphenate-limit-chars:7 3 3}}
+@media (min-width:782px){body.single-proiect .wp-block-post-content p,body.single-proiect .rop-edition__text p{text-align:justify;hyphens:auto;-webkit-hyphens:auto;hyphenate-limit-chars:7 3 3}body.single-proiect .rop-cta p{hyphens:none;-webkit-hyphens:none}}
 .rop-donate-box{background:var(--wp--preset--color--base);border:1px solid var(--wp--preset--color--accent-6);border-top:3px solid var(--wp--preset--color--accent-2);border-radius:8px;padding:1.5rem}
 .rop-donate-box input{position:absolute;opacity:0;pointer-events:none}
 .rop-freq{display:grid;grid-template-columns:1fr 1fr;background:var(--wp--preset--color--accent-5);border-radius:999px;padding:4px;margin-bottom:1.25rem}
