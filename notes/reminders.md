@@ -81,7 +81,7 @@
 | 21 Oct 2026 | 🎂 **Automatizare zile de naștere** — primul email real a plecat (Paula Șeer). Funcționează | ✅ |
 | 20-22 Nov 2026 | 🏕️ Teambuilding Rotary — nu am participat | ✅ |
 | 25 Nov 2026 | 🎁 **ToyJoy pe site** — casetă concert (13 Dec 18:00, Auditorium Maximum, 150 lei) + buton Stripe (linkul e pe contul Rotaract SAMVS) pe /proiecte/toyjoy/ | ✅ |
-| **Lun 14 Dec 2026** | 🎁 **ToyJoy după concert** — scoate caseta de concert de pe /proiecte/toyjoy/ și adaug-o ca „Ediția 2026” (cifre + poze de la eveniment) | ⏳ |
+| **Lun 14 Dec 2026** | 🎁 **ToyJoy după concert** — scoate caseta de concert de pe /proiecte/toyjoy/, schimbă redirectul /toyjoy (acum → Stripe) înapoi la /proiecte/toyjoy/, și adaugă concertul ca „Ediția 2026” (cifre + poze de la eveniment) | ⏳ |
 | 11 Nov 2026 | 📸 **Sesiune foto pt site** (fotograf Daniel, la ședință) — făcută | ✅ |
 
 ---
