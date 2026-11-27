@@ -36,6 +36,7 @@ Run from that directory. Token lives in `~/.rotary_cpanel_token` (never print it
 - **Redirects / security headers**: `public_html/.htaccess`, blocks `rop-security` and `rop-redirects`. Read the file before editing; keep a backup.
 - **Recurring project editions**: add a row to the `editii` repeater (newest shown first by `[rop_editii]`).
 - **New project**: CPT `proiect` + category + fields; text style = see `rotary/site-content/proiecte-2024-2026.json` (short, warm, concrete numbers, Romanian with correct diacritics ș/ț).
+- **Wordfence alert „tmp-<hex>.php malicious”** = a leftover `oneshot.py` file (request failed before self-delete). Check content, delete via `api2('Fileman','fileop',op='unlink',...)`. Since 27 Nov `run()` cleans up on failure.
 - **Wordfence lockout** of a user: remove via `wfBlock::removeBlockIDs` inside `run()`.
 - Disk quota is 5 GB — never leave big backups in the home dir.
 
