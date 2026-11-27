@@ -233,3 +233,7 @@ Economia de 39.000 EUR depinde de: înregistrarea în scopuri de TVA + **notific
 
 - Toate cifrele sunt preliminare, bazate pe: preț site 211.500 EUR + TVA, calcul pe mp utilă, swap 1:1 parcare
 - Terasa e tratată ca inclusă în prețul/mp utilă (nu prețuită separat)
+
+## Jurnal
+
+- **2026-11-27:** Autorizația de construire a fost aprobată → urmează Promisiunea bilaterală (termen 15 Dec; Adrian pleacă în Vietnam 12 Dec).

@@ -93,7 +93,7 @@
 | 4 Mar 2026 | Înscriere curs B125 - Toni Auto | ✅ |
 | 24 Apr 2026 | Plată factură Stables | ✅ |
 | 🔴 **27 Nov 2026** | 🏔️ **Balvanyos KJBUH5 (28-30 Nov, 392 EUR nerambursabil)** — nu mai merg (uveită agravată). Draft Gmail cu cerere de reprogramare + rapoarte medicale → **revizuiește (CNP + Quantiferon în PDF) și trimite**; șterge draftul vechi „pat dublu” | ⏳ |
-| 🔴 **înainte de 12 Dec 2026** | 🩺 **Consult pneumologie** (trimitere Regina Maria 26.11) + control oftalmologie — de clarificat înainte de Vietnam | ⏳ |
+| ✅ programat | 🩺 **Pneumologie — Mie 3 Dec 2026** (trimitere Regina Maria 26.11) + **control oftalmologie — Joi 4 Dec 2026** | ⏳ |
 | - | Update CV pe LinkedIn | ⏳ |
 | 17 Aug 2026 | 🎾 Padel — discutat cu Petru Melniciuc | ✅ |
 | 22 Sep 2026 | 🎾 Padel — discutat cu Milan Terkovics | ✅ |
@@ -103,7 +103,7 @@
 | 16 Oct 2026 | 🏠 Manu: **contract rezervare SEMNAT** — apt 32 + parcare S2, 180.500 EUR (Hexagon URBAN) + convenție rezoluțiune (Hexagon REALTY) | ✅ |
 | 19 Oct 2026 | 🏠 Manu: **taxă rezervare 48.166,43 lei achitată** (9.025 EUR @ 5,3370) | ✅ |
 | **Lun 28 Feb 2028** | 🏠 Manu: **restituire 514.829,70 lei** de la Hexagon REALTY (titlu executoriu, fără dobândă). Cost de oportunitate ~35-49K lei | ⏳ |
-| 🔴 **până 15 Dec 2026** | 🏠 Manu: **Promisiunea bilaterală** — singura fereastră de negociere. Cere clauză ca tranșa de 103.500 EUR să fie **compensată** sau scadentă **doar după** încasarea restituirii din 28.02.2028. Altfel, dacă CV-ul cade înainte, trebuie găsiți 514.829,70 lei. ⚠️ Art. 4.4: nesemnarea „în forma propusă de Dezvoltator" = pierzi 9.025 EUR | 🔴 |
+| 🔴 **până 15 Dec 2026** (27 Nov: **autorizația de construire aprobată** → Promisiunea vine curând; ideal semnată înainte de 12 Dec) | 🏠 Manu: **Promisiunea bilaterală** — singura fereastră de negociere. Cere clauză ca tranșa de 103.500 EUR să fie **compensată** sau scadentă **doar după** încasarea restituirii din 28.02.2028. Altfel, dacă CV-ul cade înainte, trebuie găsiți 514.829,70 lei. ⚠️ Art. 4.4: nesemnarea „în forma propusă de Dezvoltator" = pierzi 9.025 EUR | 🔴 |
 | 2027 | 🏠 Manu: **verifică solvabilitatea HEXAGON REALTY** (termene.ro) — e creditor chirografar 16 luni pe 514.829,70 lei | ⏳ |
 | **Mar 15 Dec 2026** | 🏠 Manu: **termen semnare Promisiune bilaterală** (60 zile calendaristice de la 16 Oct). ⚠️ Art. 4.4: dacă nu se semnează „în forma propusă de Dezvoltator", se pierd cei 9.025 EUR | ⏳ |
 | **2028** (la predare apartament) | 🚨 Manu: **notificare opțiune TAXARE închiriere** la ANAF, înainte de prima chirie (fără ea se pierd ~39.000 EUR) | ⏳ |
