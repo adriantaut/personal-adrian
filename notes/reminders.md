@@ -92,6 +92,8 @@
 |------|----------|--------|
 | 4 Mar 2026 | Înscriere curs B125 - Toni Auto | ✅ |
 | 24 Apr 2026 | Plată factură Stables | ✅ |
+| 🔴 **27 Nov 2026** | 🏔️ **Balvanyos KJBUH5 (28-30 Nov, 392 EUR nerambursabil)** — nu mai merg (uveită agravată). Draft Gmail cu cerere de reprogramare + rapoarte medicale → **revizuiește (CNP + Quantiferon în PDF) și trimite**; șterge draftul vechi „pat dublu” | ⏳ |
+| 🔴 **înainte de 12 Dec 2026** | 🩺 **Consult pneumologie** (trimitere Regina Maria 26.11) + control oftalmologie — de clarificat înainte de Vietnam | ⏳ |
 | - | Update CV pe LinkedIn | ⏳ |
 | 17 Aug 2026 | 🎾 Padel — discutat cu Petru Melniciuc | ✅ |
 | 22 Sep 2026 | 🎾 Padel — discutat cu Milan Terkovics | ✅ |
